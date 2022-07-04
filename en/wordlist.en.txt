@@ -982,6 +982,7 @@ Activated PI3K Delta Syndrome
 activated protein C resistance
 active cochlear Meniere's disease
 active cochleovestibular Meniere's disease
+active dialyse
 active peptic ulcer disease
 active vestibular Meniere's disease
 Actoplus Met
@@ -1222,6 +1223,7 @@ aditus to left mastoid antrum
 aditus to mastoid antrum
 aditus to right mastoid antrum
 adjustment disorder
+adjuvant therapy
 administration
 administration of intravenous fluid
 administrative science
@@ -1232,6 +1234,7 @@ adnexal mucinous adenocarcinoma
 ado-trastuzumab emtansine
 adolescence-adult electroclinical syndrome
 adolescent medicine
+adoptive cell transfer
 adoxorubicin
 ADP-A2M4
 adrafinil
@@ -1380,6 +1383,7 @@ Aerosinusitis
 aerosol burn
 aerospace engineering
 aerospace science
+aerotherapy
 aesthetic medicine
 aesthetics of music
 afatinib
@@ -1680,6 +1684,7 @@ alternating esotropia
 alternating exotropia
 alternating hemiplegia of childhood
 alternative complement pathway component defects
+alternative medical treatment
 alternobaric vertigo
 altitude sickness
 Altizide
@@ -2018,6 +2023,7 @@ andragogy
 Andreas Sprinz
 Androgen deprivation-induced senescence
 androgen insensitivity syndrome
+Androgen replacement therapy
 androgen-dependent syndrome
 androgenic alopecia
 andrology
@@ -2111,6 +2117,7 @@ Animal protection (incl. pests and pathogens)
 animal reproduction and breeding
 animal Salmonella infection
 animal toxoplasmosis
+animal-assisted therapy
 aniracetam
 aniridia
 aniridia type 2
@@ -2290,6 +2297,7 @@ antibiotic
 Antibiotic resistance in gonorrhea
 anticholinergic toxidrome
 antidepressant abuse
+antifibrotic therapy
 antigen-exposed T cell
 antigout agent
 antihemophilic factor
@@ -2298,6 +2306,7 @@ antimycobacterial
 antiparkinson
 antiphospholipid syndrome
 antipsoriatic
+antipyretic therapy
 antipyrine
 antiquarianism
 antisocial personality disorder
@@ -2447,6 +2456,7 @@ aprobarbital
 apron belly
 aprotinin
 Apudoma
+Aquablation therapy
 aquagenic pruritus
 aquagenic urticaria
 Aquarium granuloma
@@ -2627,6 +2637,7 @@ articular capsule
 articular cartilage development
 articular cartilage disease
 articular cartilage injury
+Articular cartilage repair
 articular surface for cuboid on calcaneus
 articular surface of mandibular fossa of temporal bone
 articulation disorder
@@ -2718,6 +2729,7 @@ Asteroid hyalosis
 asthenopia
 asthenozoospermia
 asthma
+asthma diagnostic & treatment
 Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome
 Asthmador
 asthmatolum
@@ -2893,6 +2905,7 @@ atypical teratoid rhabdoid tumor
 Atypical trigeminal neuralgia
 Atypical tuberous myxedema
 audience studies
+audio therapy
 audiology
 audiovisual communication
 audit
@@ -2906,6 +2919,7 @@ auditory neuroscience
 auditory ossicle
 auditory processing disorder
 auditory science
+auditory-verbal therapy
 August Castelló i Roca
 aura
 auranofin
@@ -2922,6 +2936,7 @@ Austrian syndrome
 autism
 autism spectrum disorder
 autism spectrum disorder-epilepsy-arthrogryposis syndrome
+autism therapy
 autism-facial port-wine stain syndrome
 auto-brewery syndrome
 autoimmune atherosclerosis
@@ -3450,6 +3465,7 @@ avanafil
 avatrombopag
 Avellis syndrome
 avelumab
+aversion therapy
 avian ecology
 avian influenza
 Avian keratin disorder
@@ -3601,6 +3617,7 @@ Baller-Gerold syndrome
 ballet studies
 balloon cell malignant melanoma
 Balloon cell nevus
+balneotherapy
 Balo concentric sclerosis
 baloxavir marboxil
 balsalazide
@@ -3749,6 +3766,7 @@ bear leg
 beard
 Beare-Stevenson cutis gyrata syndrome
 Beau's lines
+beauty therapy
 bebtelovimab
 becaplermin
 Becker muscular dystrophy
@@ -3765,6 +3783,7 @@ Beemer-Langer syndrome
 beer alcoholism
 behavior
 behavioral economics
+behavioral intervention
 behavioral medicine
 behavioral sciences
 Behavioural epidemiology
@@ -3780,6 +3799,7 @@ Bell's palsy
 Bellini duct carcinoma
 belly cord
 belotecan
+BEMER Therapy
 bemiparin
 bemnifosbuvir
 bempegaldesleukin
@@ -4116,6 +4136,7 @@ bioinformatics
 Bioinformatics and computational biology
 biological anthropology
 biological oceanography
+biological preservation
 biology
 biology of colour
 biomass refining
@@ -4134,6 +4155,7 @@ biorobotics
 biospherology
 biostatistics
 biotechnology
+biotherapy
 biotin
 biotin deficiency
 biotin-responsive basal ganglia disease
@@ -4330,6 +4352,7 @@ blood platelet disease
 blood protein disease
 blood serum
 blood test
+blood transfusion
 blood vessel
 blood vessel finding
 blood viscosity
@@ -4689,6 +4712,7 @@ breast tuberculosis
 breast vascular neoplasm
 breastfeeding
 breastfeeding difficulties
+breathing exercise
 breech presentation
 bregma
 bremelanotide
@@ -5496,6 +5520,7 @@ celiprolol
 cell biology
 cell culture
 cell depletion
+cell therapy
 cell type cancer
 cello performance
 Cellular angiofibroma
@@ -5963,6 +5988,7 @@ chemical eye injury
 chemical pneumonitis
 chemical reaction network theory
 chemically induced disorder
+chemiotherapy
 chemistry
 chemistry and molecular sciences
 chemometrics
@@ -6507,6 +6533,7 @@ cinacalcet
 cinalukast
 CINCA syndrome
 cinchonism
+Cinema therapy
 cingulate gyrus
 cingulate herniation
 cinitapride
@@ -6563,6 +6590,7 @@ classical swine fever
 classics
 Classification of pneumonia
 Classification of transsexual people
+classroom intervention
 Claude's syndrome
 claudication
 claustrophobia
@@ -6612,6 +6640,7 @@ climate change and human mobility
 climate change ecology
 climate change education
 Climate change law
+climate therapy
 climate variability and change
 climatic geomorphology
 climatology
@@ -6882,6 +6911,7 @@ Coma blister
 comb
 Combarros Calleja Leno syndrome
 combat disorder
+combination therapy
 combinations of different antibiotics
 combinatorial game theory
 combinatorial optimization
@@ -6898,6 +6928,7 @@ combined immunodeficiency due to STIM1 deficiency
 combined immunodeficiency due to STK4 deficiency
 combined immunodeficiency with skin granulomas
 combined malonic and methylmalonic acidemia
+combined modality therapy
 combined oxidative phosphorylation defect type 25
 combined oxidative phosphorylation defect type 26
 combined oxidative phosphorylation defect type 27
@@ -7029,6 +7060,7 @@ complement factor B  deficiency
 complement factor I deficiency
 complement fixation test
 complement overactivation
+complementary therapies
 complete androgen insensitivity syndrome
 complete atrioventricular canal
 complete blood count
@@ -7103,6 +7135,7 @@ computer systems and applications
 computer systems engineering
 computer vision
 computer vision syndrome
+computer-assisted therapy
 computer-supported cooperative work
 computers and writing
 Comunicação Empresarial e Relações Públicas
@@ -7488,6 +7521,7 @@ conservation education
 conservation of Māori heritage
 Conservation of Pacific Peoples heritage
 conservation science
+conservative management
 constant exophthalmos
 constipation
 constitutional economics
@@ -7574,6 +7608,7 @@ corneal abrasion
 corneal abscess
 corneal anesthesia and hypoesthesia
 corneal argyrosis
+Corneal collagen cross-linking
 corneal damage
 corneal degeneration
 corneal dellen
@@ -7682,6 +7717,7 @@ cortisone reductase deficiency 1
 cortisone reductase deficiency 2
 cortivazol
 Corvalol
+cosmetic treatment techniques
 cosmetology
 cosmography
 cosmology
@@ -7879,6 +7915,7 @@ cultural communication
 cultural ecology
 cultural economics
 cultural engineering
+cultural intervention
 cultural management
 cultural mediation
 cultural production and landscape studies
@@ -7895,6 +7932,7 @@ cup-to-disc ratio
 cupric chloride
 cupric chloride Cu-64
 cupula
+Curative care
 curatorial studies
 CURB-65
 Currarino syndrome
@@ -8018,6 +8056,7 @@ cytochrome P450 Oxidoreductase Deficiency
 cytochrome P450 oxidoreductase deficiency
 cytochrome-c oxidase deficiency disease
 cytogenetic analysis
+Cytokine adsorbing column
 cytokine release syndrome
 cytological procedure
 cytology
@@ -8152,6 +8191,7 @@ deep artery of the penis
 deep artery of the thigh
 Deep auricular artery
 deep brachial artery
+deep brain stimulation
 Deep cervical artery
 deep corneal vascularisation
 deep dorsal vein of clitoris
@@ -8175,6 +8215,7 @@ defense studies
 deferasirox
 deferiprone
 deferoxamine
+defibrillation
 defibrotide
 deficiency anemia
 deflazacort
@@ -8241,6 +8282,7 @@ dendrite regeneration
 dendritic cell deficiency
 dendritic cell sarcoma
 dendritic cell thymoma
+denervation
 denervation (general)
 dengue fever
 dengue hemorrhagic fever
@@ -8456,6 +8498,7 @@ dezocine
 dhat syndrome
 diabetes
 diabetes insipidus
+diabetes management
 diabetes mellitus and pregnancy
 diabetic angiopathy
 diabetic autonomic neuropathy
@@ -8532,6 +8575,7 @@ Diastematomyelia
 diastolic aortic steal
 diastolic heart failure
 diastrophic dysplasia
+diathermy
 diatrizoic acid
 diazepam
 diazoxide
@@ -8971,6 +9015,7 @@ dracunculiasis
 Dravet syndrome
 Dravidian studies
 DRESS syndrome
+dressing
 Dressler's syndrome
 dromostanolone
 dromostanolone propionate
@@ -8987,10 +9032,12 @@ drotrecogin alfa
 drowning
 droxicam
 droxidopa
+drug administration
 drug allergy
 drug eruption
 drug overdose
 drug psychosis
+drug rehabilitation
 drug resistance in psychiatry
 drug used in erectile dysfunction
 drug withdrawal
@@ -9381,6 +9428,7 @@ educational administration and supervision
 educational anthropology
 educational assessment
 educational geography
+educational intervention
 educational management
 educational planning
 educommunication
@@ -9442,6 +9490,7 @@ elbow
 elbow fracture
 elbow joint
 elbow tendinopathy
+electric stimulation therapy
 electrical and computer engineering
 electrical burn
 electrical conduction system of the heart
@@ -9463,6 +9512,7 @@ electronic engineering
 electronic literature
 electronics
 electronics and nanotechnology
+electrostimulation
 Elek's test
 elemental semiconductors
 elementary and secondary education
@@ -9535,6 +9585,7 @@ emicizumab
 EML4-ALK positive lung cancer
 Emmonsiosis
 emotional and behavioral disorders
+Emotionally focused therapy
 emotionally unstable personality disorder
 empagliflozin
 empagliflozin / metformin
@@ -9542,6 +9593,7 @@ empagliflozin/linagliptin
 emphysema
 emphysematous cholecystitis
 emphysematous cystitis
+Empiric therapy
 empodium
 empty nose syndrome
 empty sella syndrome
@@ -9687,12 +9739,14 @@ endothelium
 endothelium development
 endothrix infectious disease
 endotoxemia
+endovascular coiling
 Endovascular papillary hemangioendothelioma
 enduring personality change after psychiatric illness
 energy and environmental engineering
 enflurane
 enfortumab vedotin
 enfuvirtide
+engagement intervention
 Engelhard-Yatziv syndrome
 engineering
 engineering electronics
@@ -9868,6 +9922,7 @@ epidural spinal canal angiolipoma
 epidural spinal canal meningioma
 epigastric pain
 epigastrium
+epigenetic therapy
 epiglottic cartilage
 epiglottis
 epiglottis cancer
@@ -9945,6 +10000,7 @@ epitympanic recess
 epizootic rabbit enteropathy
 epizootiology
 eplerenone
+Epley maneuver
 epoetin alfa
 epoetin beta
 epoetin delta
@@ -9989,6 +10045,7 @@ ergoloid mesylate
 ergometrine
 ergonomics
 ergotamine
+ergotherapy
 ergotism
 eribulin
 erlotinib
@@ -10262,6 +10319,7 @@ Eustachian tube dysfunction
 eustrongylidosis
 euthyroid Graves orbitopathy
 euthyroid sick syndrome
+evaluation and treatment of pain
 Evans' syndrome
 even-plus syndrome
 everolimus
@@ -10795,6 +10853,7 @@ feces and droppings symptom
 Fechtner syndrome
 fecolith
 feeding ecology
+feeding method
 feeling of neck constriction
 Feigenbaum-Bergeron syndrome
 Feingold syndrome
@@ -11749,6 +11808,7 @@ gender dysphoria in children
 gender incongruence
 gender studies
 gene duplication disease
+gene therapy
 general and adult education
 General Biology
 general economics
@@ -12044,6 +12104,7 @@ glottis neoplasm
 glottis squamous cell carcinoma
 glottis verrucous carcinoma
 glucagon
+Glucagon rescue
 glucagon tolerance test
 glucagonoma
 glucametacin
@@ -12695,7 +12756,9 @@ hemorrhagic syndrome caused by Lonomia caterpillar
 hemorrhoid
 hemoscrotum
 hemosiderosis
+hemostatic techniques
 Hemosuccus pancreaticus
+hemotherapy
 hemothorax
 hemotympanum
 Hendra virus infection
@@ -12972,6 +13035,7 @@ Hermansky-Pudlak syndrome 9
 hermaphrodite genitalia development
 hernia
 hernia of ovary and fallopian tube
+heroic measure
 heroin
 heroin dependence
 herpangina
@@ -13026,6 +13090,7 @@ Hidradenoma
 hidrocystoma
 High altitude pulmonary edema
 high anion gap metabolic acidosis
+high flow therapy
 high grade ovarian serous adenocarcinoma
 high myopia-sensorineural deafness syndrome
 high output cardiac failure
@@ -13062,6 +13127,7 @@ hippocampal pyramidal neuron
 Hippocampal sclerosis
 hippocampus
 hippology
+hippotherapy
 Hirata disease
 hircismus
 Hirschsprung disease-ganglioneuroblastoma syndrome
@@ -13222,6 +13288,7 @@ horizontal gaze palsy with progressive scoliosis
 horizontal pupil
 hormone producing pituitary cancer
 Hormone receptor positive breast tumor
+hormone therapy
 Hormone-sensitive cancer
 horned turban snail allergy
 Horner's syndrome
@@ -14129,11 +14196,13 @@ immunoglobulin beta deficiency
 immunoglobulin M
 immunohistochemistry
 immunology
+immunomodulation
 immunoparasitology
 immunopathology
 immunoproliferative disorder
 immunoproteomics
 Immunotactoid or fibrillary glomerulopathy
+immunotherapy
 immunotoxicology
 IMOD
 imolamine
@@ -14152,6 +14221,7 @@ impossible syndrome
 impulse control disorder
 in situ carcinoma
 in situ pulmonary adenocarcinoma
+In-water recompression
 inability to swallow
 Inadequate secretion of antidiuretic hormone
 inamrinone
@@ -14332,6 +14402,7 @@ infiltrating ureter transitional cell carcinoma
 infiltrative basal cell carcinoma
 infiltrative lung tuberculosis
 infiltrative tuberculosis
+infinity walk
 inflamed seborrheic keratosis
 Inflammation of the guttural pouches
 inflammatory and toxic neuropathy
@@ -14384,6 +14455,7 @@ influenza
 influenza myocarditis
 influenza myositis
 influenza pandemic
+Influenza treatment
 influenza virus encephalitis
 influenza virus pneumonia
 informatics
@@ -14449,6 +14521,7 @@ inhibited male orgasm
 inhibitory interneuron
 iniencephaly
 iniparib
+initial periodontal therapy
 initiation of neural tube closure
 injury
 Injury of axillary nerve
@@ -14469,6 +14542,7 @@ innermost intercostal muscle
 innovation and entrepreneurship
 innovation management
 innovative sustainable energy engineering
+inoculation
 inorganic chemistry
 inosine triphosphatase deficiency
 inotuzumab ozogamicin
@@ -14477,6 +14551,7 @@ insect antenna
 Insect mouthparts
 insect wing
 insect-inflicted wound
+Insects in medicine
 insomnia
 inspiration movement
 inspiration phase
@@ -14529,6 +14604,7 @@ intellectual disability-severe speech delay-mild dysmorphism syndrome
 intellectual disability-strabismus syndrome
 intensive care medicine
 Intensive care unit delirium
+intensive therapy
 intention tremor
 Inter-American Studies
 interaction design
@@ -14637,6 +14713,7 @@ interosseous membrane of left leg
 interosseous membrane of right forearm
 interosseous membrane of right leg
 Interpeduncular fossa
+interpersonal and social rhythm therapy
 interphalangeal joint of hand
 interphalangeal joint of index finger
 interphalangeal joint of little finger
@@ -14803,6 +14880,7 @@ intrinsic cardiomyopathy
 intrusive thought
 intussusception
 inulin
+invasion
 invasion biology
 invasion ecology
 invasion genetics
@@ -14825,6 +14903,7 @@ inverted follicular keratosis
 Inverted nipple
 inverted papilloma
 inverted transitional papilloma
+investigational therapy
 involuntary skeletal muscle contraction
 iobenguane I-131
 iodamide
@@ -14836,6 +14915,7 @@ Iododerma
 iodoquinol
 ioflupane I-123
 iohexol
+Iontophoresis
 iopamidol
 iopanoic acid
 iopromide
@@ -14907,6 +14987,7 @@ ischemic hepatitis
 Ischemic monomelic neuropathy
 ischemic neuropathy
 ischemic optic neuropathy
+ischemic preconditioning
 ischemic stroke
 Ischial bursitis
 ischiocavernosus muscle
@@ -15178,6 +15259,7 @@ kanamycin A
 Kandinsky–Clérambault syndrome
 Kang cancer
 kangaku
+Kangaroo care
 Kangri ulcer
 Kansei engineering
 Kanzaki disease
@@ -15615,6 +15697,7 @@ larynx liposarcoma
 larynx sarcoma
 larynx squamous papilloma
 larynx verrucous carcinoma
+laser therapy
 Lassa fever
 Lasthenie de Ferjol syndrome
 latamoxef
@@ -15625,6 +15708,7 @@ latanoprostene bunod
 late congenital syphilis
 Late congenital syphilitic oculopathy
 late dumping syndrome
+late intervention
 Late life depression
 late termination of pregnancy
 late yaws
@@ -15705,6 +15789,7 @@ Latrodectism
 lattice corneal dystrophy
 Laubry-Pezzi syndrome
 laudanum
+laughter therapy
 Laugier–Hunziker syndrome
 Laurence-Moon syndrome
 laureth
@@ -16119,6 +16204,7 @@ ligament of left elbow joint
 ligament of right elbow joint
 Ligamentous laxity
 Light chain deposition disease
+light therapy
 Lightwood–Albright syndrome
 Ligneous conjunctivitis
 lilapsophobia
@@ -16705,6 +16791,7 @@ magnesium oxide
 magnesium oxybate
 magnesium sulfate
 magnesium trisilicate
+magnetic field therapy
 magnetic resonance angiography
 magnetic resonance cholangiopancreatography
 magnetic-resonance imaging
@@ -16907,6 +16994,9 @@ mammology
 management
 management control system
 management information systems
+management of baldness
+Management of depression
+Management of Parkinson's disease
 Management of ulcerative colitis
 management science
 management studies
@@ -17027,6 +17117,7 @@ mass communication research
 mass media
 MASS syndrome
 Mass-gathering medicine
+massage of neural pathways
 masseter muscle
 Masseteric artery
 Massive giant cell tumor of pelviacetabulum
@@ -17166,6 +17257,8 @@ mechanical engineering
 mechanical entropion
 mechanical lagophthalmos
 mechanical strabismus
+mechanical thrombolysis
+mechanical ventilation
 mechanics
 mechanics and constructive mechanical engineering
 mechlorethamine
@@ -17282,6 +17375,7 @@ medical assistance to procreation
 medical diagnosis
 medical education
 medical entomology
+medical gas therapy
 medical genetics
 medical history
 medical humanities
@@ -17301,6 +17395,7 @@ medical sociology
 medical statistics
 medical test
 medical toxicology
+medical treatment
 medical ultrasonography
 medical use of acetic acid
 medical uses of silver
@@ -17799,6 +17894,7 @@ Microgenia
 microglandular adenosis
 microglandular adenosis of breast
 microglia
+microglial inhibitor
 micrognathism
 Microgyrus
 microhematuria
@@ -17850,6 +17946,7 @@ micturition disturbance
 mid spinal cord excitatory neuron
 mid spinal cord inhibitory neuron
 mid/ventral spinal cord interneuron
+MIDAS
 midazolam
 middle back pain
 middle cerebral artery
@@ -17956,6 +18053,7 @@ Minimally conscious state
 Minimally differentiated acute myeloblastic leukemia
 Minimally invasive adenocarcinoma of the lung
 minimally invasive strabismus surgery
+minimally invasive therapy
 mining engineering
 mining software repositories
 Mink Viral Enteritis
@@ -17982,6 +18080,7 @@ mirror agnosia
 Mirror movement disorder
 mirror movements 2
 mirror movements 3
+mirror therapy
 mirtazapine
 MIS416
 miscarriage
@@ -18184,6 +18283,7 @@ monkeypox
 monoarthritis
 monobenzone
 monochromacy
+monoclonal antibody therapy
 monoclonal gammopathy
 monoclonal gammopathy of renal significance
 monoclonal gammopathy of uncertain significance
@@ -18212,6 +18312,7 @@ Monorchism
 Monosomy
 Monosomy 14
 Monostotic fibrous dysplasia
+monotherapy
 mons pubis
 Monteggia fracture
 montelukast
@@ -18264,6 +18365,7 @@ mother tongue and literature
 motherhood studies
 motility-related diarrhea
 motion sickness
+motivational therapy
 motor developmental delay due to 14q32.2 paternally expressed gene defect
 motor disorder
 motor nerve
@@ -18389,6 +18491,7 @@ mouth disease
 mouth infection
 mouth irritation
 mouth symptom
+mouth to nose respiration
 mouth ulcer
 movement disorders
 movie and tv production
@@ -18457,6 +18560,7 @@ mucosal protective agent
 mucositis
 mucosulfatidosis
 mucus
+mud bath
 mudflat ecology
 Muehrcke's nails
 Muenke syndrome
@@ -18689,6 +18793,7 @@ myoblast development
 myoblastoma
 myocardial degeneration
 myocardial infarction
+Myocardial infarction management
 myocardial infarction with ST segment elevation
 myocardial ischemia
 myocardial perfusion imaging
@@ -19350,6 +19455,7 @@ neuroma
 neuromast development
 neuromathematics
 neuromere
+neuromodulation
 neuromuscular disease
 neuromuscular junction
 neuromuscular junction disease
@@ -19821,6 +19927,7 @@ obesity due to leptin receptor gene deficiency
 obesity due to pro-opiomelanocortin deficiency
 obesity due to prohormone convertase 1 deficiency
 Obesity hypoventilation syndrome
+obesity management
 obesity research
 obeticholic acid
 Obetrol
@@ -19897,6 +20004,7 @@ occupational lung disease
 occupational medicine
 occupational safety
 occupational stress
+occupational therapy
 Occupational therapy after stroke
 occurs_with
 ocean and coastal law
@@ -20108,6 +20216,7 @@ ophthalmoscopy
 opiate dependence
 opioid induced endocrinopathy
 opioid overdose
+opioid rotation
 opioid use disorder
 opioid withdrawal syndrome
 opisthonephros
@@ -20230,6 +20339,7 @@ organ dysfunction
 organ of Corti
 organ perforation
 organ performance
+organ sparing treatment
 organ system
 organ system benign neoplasm
 organ system cancer
@@ -20307,6 +20417,7 @@ Orpington Prognostic Scale
 orthodontic bone screw
 orthognathic surgery
 Orthomyxoviridae infectious disease
+orthopedic procedures
 orthopedic surgery
 orthopedics
 orthophoria
@@ -20461,6 +20572,7 @@ outer pillar cell
 outer renal medulla
 outer stripe of outer renal medulla
 outlet dysfunction constipation
+outpatient surgery
 ovarian angiosarcoma
 ovarian artery
 ovarian benign neoplasm
@@ -21079,6 +21191,7 @@ Pasteurella multocida infection
 Pasteurellaceae infections
 pasteurellosis
 pastoral counseling
+pastoral counselling
 pastoral ministry
 pastoral studies
 Patagium
@@ -21111,6 +21224,7 @@ pathological lying
 pathology
 pathophysiology
 Pathophysiology of Asthma
+patient care
 patiromer
 patisiran
 patristics
@@ -21135,6 +21249,7 @@ peanut allergy
 Pearson syndrome
 peat bog ecology
 Peat fire cancer
+Peat pulp bath
 peatland ecology
 pecten
 pectineal line
@@ -21572,6 +21687,7 @@ personality disorder
 personality disorder not otherwise specified
 personality state
 personality test
+personalized therapy
 personnel counseling
 pertrochanteric fracture
 pertussis
@@ -21616,6 +21732,7 @@ phacogenic glaucoma
 phacolytic glaucoma
 phaeochromocytoma
 phaeohyphomycosis
+phage therapy
 phagocyte bactericidal dysfunction
 phakomatosis
 phalanx chondroma
@@ -21645,6 +21762,7 @@ pharmacoeconomics
 pharmacology
 Pharmacology and pharmaceutical sciences
 pharmacology of traditional Chinese medical formulae
+pharmacotherapy
 pharmacovigilance
 pharology
 pharyngeal cancer
@@ -21739,6 +21857,7 @@ phosphoglycerate kinase 1 deficiency
 Phosphohydroxylysinuria
 phosphoribosylpyrophosphate synthetase superactivity
 phosphorus metabolism disease
+photochemotherapy
 photodermatitis
 photodermatosis
 photogrammetry and remote sensing
@@ -21752,6 +21871,8 @@ photophobia
 Photophthalmia
 photosensitive epilepsy
 photosensitivity
+phototherapy for neonatal jaundice
+photothermal therapy
 phototoxic dermatitis
 Phototoxicity
 phraseology
@@ -21784,6 +21905,7 @@ physiotherapy
 physostigmine
 phytophotodermatitis
 phytosociology
+phytotherapy
 phytotrophology
 pia mater
 piano performance
@@ -22466,6 +22588,7 @@ pralidoxime
 pramipexole
 pramlintide
 pranlukast
+pranotherapy
 prasterone
 prasterone sulfate
 prasugrel
@@ -22725,6 +22848,7 @@ primate disease
 primate TRB secretory cell
 primate-specific TAC3 striatal inhibitory neuron
 primatology
+Prime Boost
 primidone
 primitive neuroectodermal tumor of the corpus uteri
 primitive neuroectodermal tumor with Leptomeningeal Spread
@@ -22742,6 +22866,7 @@ PRNT
 proband
 probe-to-bone test
 probenecid
+probiotics
 probucol
 procainamide
 procaine
@@ -23102,9 +23227,11 @@ psychological anthropology
 psychological counseling
 psychological services
 psychological test
+psychological treatment
 psychology
 psychology and well-being
 psychomotor disease
+psychomotor therapy
 psychoorganic syndrome
 psychopathological symptom
 psychopathy
@@ -23114,6 +23241,7 @@ psychosis
 psychosocial short stature
 psychosomatic disease
 psychosomatic medicine
+psychotherapy
 pteralia
 pterygium
 Pterygium inversum unguis
@@ -23417,6 +23545,7 @@ rac-tilidine
 racecadotril
 racemetirosine
 Rachischisis
+racking
 racotumomab
 Racquet nail
 radial artery
@@ -23448,8 +23577,10 @@ Radicular pain
 radiculopathy
 radio and television
 radio-frequency engineering
+radioactive iodine therapy
 radiobiology
 radiocarpal joint
+radiofrequency therapy
 radiography
 radioimmunoassay
 Radiologically isolated syndrome
@@ -23704,6 +23835,7 @@ Reichmann's disease
 Reinke's edema
 Reis-Bücklers corneal dystrophy
 Reiter disease
+rejuvenation
 relacatib
 relapsed/refractory diffuse large B-cell lymphoma
 relapsing epidemic typhus
@@ -23724,6 +23856,7 @@ REM sleep behavior disorder
 REM sleep parasomnia
 remazole black respiratory allergy
 remdesivir
+remedy
 remestemcel-L
 remifentanil
 remikiren
@@ -23829,6 +23962,7 @@ reproductive system
 reproductive system development
 reproductive system disease
 reproductive system neoplasm
+reproductive techniques
 reproductive tract infection
 reptile anatomy
 reptile genetics
@@ -23876,6 +24010,7 @@ respiratory system abnormality
 respiratory system benign neoplasm
 respiratory system cancer
 respiratory system development
+respiratory therapy
 respiratory tract
 respiratory tract fistula
 respiratory tract infection
@@ -24058,6 +24193,7 @@ retinoschisis
 retinoschisis of fovea
 Retracted nipple associated with childbirth
 retraction of the pectoral girdle
+retreatment
 Retrobulbar Hemorrhage
 Retrocalcaneal bursitis
 retrocochlear disease
@@ -24564,6 +24700,7 @@ salt lake ecology
 salt marsh ecology
 Salt water aspiration syndrome
 Salter–Harris fracture
+salvage therapy
 Salzburg EEG criteria
 SAM-LNP-S
 SAM-LNP-S-TCE
@@ -24772,6 +24909,7 @@ Scombroid food poisoning
 scotoma
 Scott syndrome
 SCP-1
+scrambler therapy
 scrapie
 screening
 screenwriting
@@ -25009,6 +25147,7 @@ serologic test
 serology
 seronegative rheumatoid arthritis
 seropositive rheumatoid arthritis
+serotherapy
 serotyping
 Serous carcinoma
 serous conjunctivitis except viral
@@ -25102,6 +25241,8 @@ sex cord-stromal benign neoplasm
 sex differentiation disease
 sex hormone-producing adrenal cortex adenoma
 sex organ
+sex reassignment procedures
+sex reassignment therapy
 Sex xxxx
 sexology
 sexual addiction
@@ -25590,6 +25731,7 @@ sociology of work
 sociomusicology
 sociopathy
 sociotechnology
+sociotherapy
 sodium aurothiomalate allergy
 sodium bicarbonate
 sodium cellulose phosphate
@@ -26114,6 +26256,8 @@ Stafne defect
 stage direction for opera
 staghorn calculus
 stalk
+standard therapy
+Standard treatment
 standardology
 stannosis
 stanozolol
@@ -26134,6 +26278,7 @@ starvation
 stasis dermatitis
 stasis edema
 STAT3-related early-onset multisystem autoimmune disease
+statin therapy
 Statin-associated autoimmune myopathy
 statistics
 status asthmaticus
@@ -26157,6 +26302,7 @@ stem bromelain
 stem cell biology
 stem cell development
 stem cell ethics
+Stem cell therapy for macular degeneration
 Stemagen
 Stemirac
 Stener lesion
@@ -26543,6 +26689,7 @@ supersonic aerodynamics
 supination of the forearm
 supinator muscle
 supine hypotensive syndrome
+supportive care
 suppresor t lymphocyte
 suppression amblyopia
 suppurative cholangitis
@@ -26590,6 +26737,7 @@ surfer's ear
 Surfer's knots
 Surfer's myelopathy
 surgery
+Surgery in ancient Rome
 surgical anastomosis
 surgical incision
 surgical oncology
@@ -26663,6 +26811,7 @@ symphysis menti
 symphysis pubis
 symptom
 symptom-depleted schizophrenia
+symptomatic treatment
 symptomatology
 synaptic cleft
 synaptic potential
@@ -27012,6 +27161,8 @@ telecommunication
 telecommunication operations
 telecommunications systems management
 telematics
+telepsychiatry
+telepsychology
 television studies
 telithromycin
 telmisartan
@@ -27105,6 +27256,7 @@ Terson syndrome
 tertiary lymphoid structure
 tertiary neurosyphilis
 tertiary peritonitis
+Tertiary prevention
 tertiary syphilis
 tertiary syphilitic encephalitis
 tertiary syphilitic meningitis
@@ -27234,6 +27386,8 @@ theory of computation
 theory of language
 theory of machines
 theranostics
+therapeutic gene modulation
+therapeutic writing
 therapy-related acute myeloid leukemia
 thermobiology
 thermodynamics
@@ -27264,6 +27418,7 @@ third trochanter
 third ventricle
 third ventricle chordoid glioma
 third-degree atrioventricular block
+third-line therapy
 THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome
 thonzylamine
 thoracic aorta
@@ -27481,6 +27636,7 @@ tizanidine
 TKM-Ebola
 TMEM199-CDG
 Tn Polyagglutination syndrome
+tobacco use cessation devices
 tobacco use disorder
 tobaccology
 tobramycin
@@ -27687,6 +27843,7 @@ transcatheter aortic valve replacement
 transcobalamin II deficiency
 transcortical motor aphasia
 transcranial magnetic stimulation
+transcutaneous electrical nerve stimulation
 transdermal testosterone gel
 transesophageal echocardiography
 Transfusion associated circulatory overload
@@ -27800,8 +27957,15 @@ Treacher Collins syndrome 1
 Treacher Collins syndrome 2
 Treacher Collins syndrome 3
 Treacher Collins syndrome 4
+treatment of arterial hypertension
+treatment of burns
 treatment of cancer
+treatment of COVID-19
+treatment of hereditary diseases
+treatment of masturbation
 treatment of mental disorders
+treatment of multiple sclerosis
+treatment of paedophilia
 Treble voice
 trecovirsen
 trecovirsen sodium
@@ -28000,6 +28164,7 @@ tubercle of bone
 tuberculin test
 tuberculoid leprosy
 tuberculosis
+tuberculosis management
 Tuberculosis of the adrenal glands
 tuberculous arthritis
 Tuberculous cellulitis
@@ -28175,6 +28340,7 @@ ulnar neuropathy
 ulnar-mammary syndrome
 ulobetasol
 ultrasonographically guided transvaginal hydrolaparoscopy
+Ultraviolet light therapy
 umbilical artery
 umbilical cord compression
 umbilical cord prolapse
@@ -28523,6 +28689,7 @@ uvula cancer
 uvulitis
 vaborbactam
 vaccine development
+Vaccine therapy
 vaccine-associated enhanced respiratory disease
 vaccinia
 VACTERL association
@@ -28925,6 +29092,7 @@ viral skin disease
 viremia
 virilism
 Virodene
+virotherapy
 viroxime
 virtual colonoscopy
 virtual reality sickness
@@ -29153,6 +29321,7 @@ WAT coventional type 2 DCs subset A
 WAT-resident  ILC2
 WAT-resident ILC1
 WAT-resident ILC3
+Water cure
 water deprivation test
 water intoxication
 water resources engineering and management
@@ -29179,6 +29348,7 @@ webbed toes
 Weber's gland
 Weber's syndrome
 wedge shaped vertebra
+weight loss treatment
 Weil's disease
 Weill-Marchesani syndrome
 Weissenbacher-Zweymuller syndrome
@@ -29481,6 +29651,7 @@ ziconotide
 zidovudine
 Zieve's syndrome
 Zika fever
+Zika virus disease treatment
 zileuton
 zilucoplan
 zimeldine
