@@ -1,0 +1,261 @@
+pathology
+toxicology
+psychiatry
+child pulmonology
+pediatric radiology
+pediatric traumatology
+pediatric urology
+clinical neurophysiology
+preventive medicine
+clinical pharmacology
+venereology
+laryngology
+insurance medicine
+Lifestyle medicine
+medical mycology
+cardiogenetics
+Natural orifice translumenal endoscopic surgery
+battlefield medicine
+cardiology
+Pharmaceutical medicine
+rhinology
+urogynecology
+public health physician
+medical parasitology
+roentgenology
+pediatric neurology
+dermatovenerology
+podiatry
+dentistry
+oral surgery
+pedaudiology
+social medicine
+technical medicine
+Sexual medicine
+adhesive dentistry
+sports traumatology
+strabology
+clinical nutrition
+phlebology
+veterinary surgery
+phthisiology
+physical medicine and rehabilitation
+neuropsychiatry
+obstetrics and gynaecology
+neurology
+geriatrics
+internal medicine
+orthognathic surgery
+behavioral medicine
+aesthetic medicine
+maritime medicine
+Predictive medicine
+aviation medicine
+equine medicine
+renal pathology
+oncogenetics
+family planning methods
+integrative medicine
+immunology
+immunopathology
+emergency medicine
+gastroenterology
+emergency nursing
+bronchology
+genitourinary medicine
+gynecologic oncology
+operational medicine
+pediatric plastic surgery
+oncological plastic surgery
+clinical epidemiology
+clinical genetics
+hospital medicine
+clinical oncology
+pediatric endocrinology
+orthopedic surgery
+lipidology
+medical assistance to procreation
+human pathology
+genitourinary oncology
+endocrine oncology
+science of prosthetics
+obstetric medicine
+immuno-oncology
+hematopathology
+reproductive endocrinology and infertility
+osteopathic medicine
+interventional neuroradiology
+Pediatric gastroenterology
+dermatopathology
+family medicine
+symptomatology
+molecular medicine
+public medicine
+human dental medicine
+Vertebroneurology
+desmurgy
+adolescent medicine
+hospice and palliative medicine
+emetology
+Cardiogeriatrics
+Colpocleisis
+Prison healthcare
+craniofacial surgery
+obstetrics
+clinical medicine
+midwifery
+legal medicine
+pediatric gynaecology
+pediatric neurosurgery
+perinatal psychiatry
+cardiooncology
+oncohematology
+pediatric orthopedy
+pharmacology
+ophthalmology
+pediatrics
+speech-language pathology
+surgery
+neurosurgery
+nuclear medicine
+orthopedics
+pediatric visceral surgery
+diagnostic neuroradiology
+diagnostic microbiology
+Geriatric traumatology
+general practice
+psychiatric semiology
+functional surgery
+bone surgery
+addiction medicine
+critical emergency medicine
+minimally invasive strabismus surgery
+head and neck surgery
+orthotics
+academic medicine
+oral pathology
+thoracic oncology
+molecular immunology
+liver surgery
+Sports psychiatry
+pain medicine
+otolaryngology
+lymphology
+immunotoxicology
+pre-hospital emergency medicine
+neuroembryology
+medical oncology
+Tauro-Traumatology
+keraunomedicine
+Mass-gathering medicine
+medical toxicology
+molecular virology
+neurointensive care
+neuromuscular medicine
+oncogenomics
+Pediatric ophthalmology
+cardiac surgery
+refractive surgery
+hematology
+oncology
+pulmonology
+pediatric cardiac surgery
+foot and ankle surgery
+gynecological surgery
+thoracic surgery
+essure
+medical entomology
+clinical immunology
+endocrinology
+maternal-fetal medicine
+medical microbiology
+hand surgery
+rheumatology
+surgical oncology
+interventional cardiology
+clinical virology
+oral medicine
+electromedicine
+community medicine
+medical jurisprudence
+radiology
+veterinary medicine
+anaesthesiology
+pain management
+occupational medicine
+urology
+andrology
+trauma surgery
+reproductive medicine
+dermatology
+gastrointestinal surgery
+forensic medicine
+throat surgery
+burn surgery
+medical rehabilitation
+spine surgery
+algesiology
+coloproctology
+mammology
+assessment medicine
+neuroradiology
+hepatology
+nephrology
+general surgery
+allergology
+regenerative medicine
+traumatology
+interventional radiology
+diabetology
+gynaecology
+intensive care medicine
+anatomical pathology
+radiation oncology
+pediatric pathology
+radiation therapy
+plastic surgery
+medical genetics
+pathophysiology
+medical jurisprudence
+mastology
+psychosomatic medicine
+dietetics
+Interventional pain management
+family planning
+abdominal surgery
+sleep medicine
+Strabismus surgery
+eye surgery
+infectious diseases
+clinical pathology
+oral and maxillofacial surgery
+environmental medicine
+transfusion medicine
+neuropediatrics
+neuroendocrinology
+anaplastology
+social psychiatry
+sports medicine
+angiology
+hysterectomy
+audiology
+neurotology
+colorectal surgery
+diving medicine
+space medicine
+pediatric surgery
+nosology
+neonatology
+travel medicine
+bariatric medicine
+Fetal surgery
+military medicine
+vascular surgery
+phoniatrics
+gerontopsychiatry
+haemostasis specialty
+otology
+neuropathology
+infection epidemiology
+palliative medicine
+alcohology
