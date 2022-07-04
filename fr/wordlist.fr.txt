@@ -68,6 +68,7 @@ A-bêta-lipoprotéinémie
 abacavir
 abacavir/lamivudine
 abaissement du niveau énergétique
+abajoue
 abarelix
 abasie
 abatacept
@@ -109,6 +110,7 @@ abcès tubo-ovarien
 abcès à pyogènes du foie
 abcès épidural
 abdomen
+abdomen des arthropodes
 abduction de la hanche
 abduction des doigts
 abduction du bras à l'épaule
@@ -420,6 +422,7 @@ adinazolam
 adipocyte
 adipomastie
 adipsie
+aditus ad antrum
 administration de l'éducation
 administration des services de santé
 administration publique
@@ -646,10 +649,12 @@ agénésie surrénalienne
 AICA-ribosidurie
 AIDS-Phobie
 aile
+aile de l'insecte
 aine
 Ainhum
 air médical
 aire cérébrale
+aire de Wernicke
 Aire tegmentale ventrale
 aires de Brodmann
 aisselle
@@ -821,6 +826,7 @@ altération de l'ADN
 altération de la thyroïde
 altération osseuse
 aluminose
+alvéole
 alvéole dentaire
 alvéolite pulmonaire
 alvéolyse
@@ -1030,6 +1036,7 @@ angiosarcome médiastinal
 angiosarcome pédiatrique
 angiostrongylose nerveuse
 angle de la mandibule
+angle irido-cornéen
 angor de Prinzmetal
 angor instable
 angor intestinal
@@ -1164,6 +1171,7 @@ anse de Henle
 anse sentinelle
 antazoline
 antenne
+Antenne de l'insecte
 anthracose
 anthracosilicose
 anthrax staphylococcique
@@ -1220,6 +1228,7 @@ antitoxine tétanique
 antivariqueux
 Antonio Barbero Carnicero
 antre du pylore
+antre mastoïdien
 anté-hypophyse
 Antéversion de l'os
 anurie
@@ -1347,14 +1356,19 @@ apoplexie hypophysaire
 apoplexie utéroplacentaire
 appareil
 appareil cardiovasculaire
+appareil digestif
+appareil digestif bas
+appareil digestif haut
 appareil digestif humain
 appareil juxtaglomérulaire
 appareil lacrymal
 appareil locomoteur
+appareil phonatoire
 appareil reproducteur féminin
 appareil reproducteur masculin
 appareil respiratoire
 appareil urinaire
+appareil uro-génital
 appendagite épiploïque
 appendice
 appendice iléo-cæcal
@@ -1385,10 +1399,12 @@ arachnoïdite
 arachnoïdite de la moelle épinière
 arbovirose
 arbre bronchique
+arc aortique
 Arc aortique droit
 arc costal
 arc lipoïdique
 arcade alvéolaire
+Archentéron
 architecture
 architecture d'entreprise
 architecture d'intérieur
@@ -1469,11 +1485,15 @@ articaïne
 articulation
 articulation atlanto-occipitale
 Articulation axoïdo-atloïdienne
+articulation coxo-fémorale
 articulation de l'épaule
+articulation de la main
 articulation du poignet
 Articulation fibreuse
+Articulation immobile
 articulation interphalangienne de la main
 articulation métacarpo-phalangienne
+articulation olécranienne
 articulation synoviale
 articulation temporo-mandibulaire
 articulations carpo-métacarpiennes
@@ -1916,6 +1936,7 @@ baloxavir
 balsalazide
 bambutérol
 Bamlanivimab
+bande bacillaire
 barbe
 barbe de trois jours
 barbe à la Lincoln
@@ -2091,6 +2112,7 @@ blépharophyma
 blépharospasme
 boceprevir
 bohémistique
+bois
 boiterie
 boiterie du cheval
 borréliose
@@ -2337,8 +2359,10 @@ canal atrio-ventriculaire partiel
 Canal carotidien
 canal carpien
 canal cholédoque
+canal cochléaire
 canal d'Arantius
 canal de Cloquet
+canal de l'épendyme
 canal de Schlemm
 canal de Sténon
 canal du nerf facial
@@ -2637,6 +2661,7 @@ capreomycin
 capsaïcine
 Capsule articulaire
 capsule de Bowman
+capsule de Glisson
 capsule interne
 capsulite
 capsulite rétractile de l'épaule
@@ -2961,6 +2986,7 @@ carmustine
 Carnassière
 carnosinémie
 carnosité
+Caroncule
 caroncule lacrimale
 caroncule urétrale
 carotenémie
@@ -2969,9 +2995,11 @@ carpe
 Carpométacarpe
 carprofen
 Carraghenate de doxycycline
+cartilage
 cartilage aryténoïde
 cartilage costal
 cartilage cricoïde
+cartilage de Meckel
 cartilage thyroïde
 Cartilages corniculés
 Cartilages cunéiformes
@@ -3019,12 +3047,16 @@ caverne tuberculeuse
 cavernite
 cavitation osseuse
 cavité abdominale
+cavité cardiaque
 cavité crânienne
 cavité glénoïdale de la scapula
 cavité générale
 cavité nasale
+cavité péricardique
 cavité péritonéale
 cavité thoracique humaine
+cavité tympanique
+cavité utérine
 cavographie
 Cediranib
 cefdinir
@@ -3046,10 +3078,12 @@ Cellule de Clara
 Cellule de Fananas
 cellule de Purkinje
 cellule de Schwann
+cellule mastoïdienne
 cellule photovoltaïque
 Cellule réticulaire
 Cellule satellite gliale
 Cellule tumorale circulante
+cellule épithéliale bronchiale
 Cellules de Renshaw
 Cellules malpighiennes atypiques du col utérin
 cellulite
@@ -3067,6 +3101,7 @@ celtologie
 cemiplimab
 Center for Autism and Related Disorders
 centre de traumatologie
+centre respiratoire
 cerclage du col de l'utérus
 ceritinib
 cerliponase alfa
@@ -3089,6 +3124,7 @@ chagrin
 chair de poule
 chalazion
 chalicose
+chambre antérieure de l'œil
 chambre postérieure de l'oeil
 chancre mou
 chancre syphilitique
@@ -3186,6 +3222,7 @@ chlorure de cuivre(II)
 chlorure de méthylbenzéthonium
 chlorure de potassium
 chlorure de sodium
+Choanoderme
 choc apexien
 choc cardiogénique
 choc hémorragique
@@ -3196,6 +3233,7 @@ cholangiocarcinome
 cholangiocarcinome intra-hépatique
 cholangiocarcinome intrahépatique à cellules en bague à chaton
 Cholangiographie transhépatique percutanée
+Cholangiole
 cholangiopancréatographie rétrograde endoscopique
 cholangite ascendante
 cholangite biliaire primitive
@@ -3351,8 +3389,10 @@ cinétose
 ciprofibrate
 ciprofloxacine
 circonvolution cérébrale
+circuit de Papez
 circulaire du cordon ombilical
 circulation collatérale
+circulation fœtale
 circulation sanguine
 cirrhose
 cirrhose amérindienne infantile
@@ -3394,6 +3434,7 @@ clioquinol
 clips d'anévrisme
 clitoris
 cloaque
+cloaque embryonnaire
 clobazam
 clobutinol
 clofarabine
@@ -3471,6 +3512,7 @@ collagénome éruptif
 collagénose perforante réactionnelle
 collapsus trachéal
 collapsus ventriculaire
+collet dentaire
 colliculus inférieur
 colliculus supérieur
 colobome
@@ -3519,6 +3561,7 @@ communication interculturelle
 communication organisationnelle
 communication politique
 communication visuelle
+compartiment
 complexe d'infériorité
 complexe de Carney
 complexe de gluconate ferrique de sodium
@@ -3555,6 +3598,8 @@ conception de  vaccins
 concerta
 condensation pulmonaire
 conduction cardiaque
+conduit biliaire intrahépatique
+Conduit cystique
 Conduit hépatique
 conduit lacrymo-nasal
 conduit thoracique
@@ -3635,9 +3680,11 @@ coqueluche
 coqueluche à Bordetella parapertussis
 cor bovinum
 corbadrine
+cordage tendineux
 corde colique
 corde vocale
 cordite
+cordon ombilical
 cordon spermatique
 corectopie
 corifollitropine alfa
@@ -3656,11 +3703,13 @@ corps calleux
 corps caverneux
 corps caverneux du clitoris
 corps ciliaire
+Corps de Brockmann
 corps du fémur
 corps du sternum
 corps jaune
 corps mamillaires
 corps spongieux
+corps vitré
 corps étranger
 corps étranger dans l'oeil
 corps étranger dans l'oreille
@@ -3690,6 +3739,7 @@ cosmologie
 cosmétologie
 costochondrite
 cou
+couche de Dua
 coude
 coup de chaleur
 coup de soleil
@@ -3743,6 +3793,7 @@ crise épileptique du sevrage alcoolique
 crise épileptique généralisée
 crise épileptique non convulsive généralisée
 crise épileptique partielle
+crista galli
 cristallin
 cristallographie
 cristaux de cholestérol
@@ -3753,6 +3804,7 @@ croc
 crosse de l'aorte
 crotamiton
 croup
+croupe
 croûte de lait
 cruralgie
 cryoglobulinémie
@@ -3774,7 +3826,9 @@ Création littéraire
 créolistique
 crétinisme
 Crête
+crête buccinatrice
 crête flottante
+crête frontale
 crête iliaque
 Crête neurale
 crête occipitale interne
@@ -3792,6 +3846,7 @@ culture microbiologique
 culture virale
 cultures régionales françaises
 Cuneus
+Cupule (anatomie)
 curage de nez
 curage ganglionnaire cervical
 curarisation résiduelle postopératoire
@@ -3849,6 +3904,7 @@ cystadénome séreux ovarien
 Cystathioninurie
 cysticercose
 cysticercose sous-cutanée
+Cystide
 cystine
 cystinose
 cystinurie
@@ -3946,8 +4002,10 @@ cétose
 cétose primitive de la vache laitière
 cétrorélix
 côlon
+côlon ascendant
 côlon descendant
 côlon sigmoïde
+côlon transverse
 Cône terminal
 côte
 côte cervicale
@@ -3956,6 +4014,7 @@ Cœnurose
 cœnurose humaine
 cœur
 cœur croisé
+cœur droit
 cœur humain
 cœur pulmonaire aigu
 cœur pulmonaire bilharzien
@@ -3993,6 +4052,7 @@ dapoxétine
 dapsone
 Daratumumab
 darbépoétine alfa
+dard
 darifenacin
 darunavir
 dasabuvir
@@ -4233,6 +4293,7 @@ dienogest
 dientamœbose
 difformité
 difformités dento-faciales
+diffusion alvéolo-capillaire
 Différence de longueur de jambe
 diflunisal
 difluocortolone
@@ -4271,6 +4332,7 @@ diplocorie
 diplomatie
 diplopie
 diplopodie
+Diplostigmatie
 Diplégie
 diplégie brachiale amyotrophique
 Diplégie des membres supérieurs
@@ -4288,6 +4350,7 @@ disomie uniparentale paternelle du chromosome 14
 disopyramide
 disproportion fœto-pelvienne
 Disque de Merkel
+disque du nerf optique
 disque intervertébral
 dissection aortique
 dissection aortique familiale
@@ -5391,6 +5454,7 @@ endométrite chronique non spécifique
 endométrite déciduale chronique
 endométrite gonococcique aigüe
 endométrite syncytiale
+Endonèvre
 endophtalmie
 endophtalmie aigüe
 endophtalmie chronique
@@ -5642,6 +5706,7 @@ fatigue chronique idiopathique
 fatigue intellectuelle
 fausse couche
 fausse côte
+fausse patte
 Fausse route
 fausse route urétrale
 fausse teigne amiantacée
@@ -5658,6 +5723,7 @@ fenoterol
 fenproporex
 fenspiride
 fentanyl
+Fente de Marfan
 fente du voile du palais
 fente labiale
 fente labio-palatine
@@ -5666,11 +5732,14 @@ fente laryngo-trachéo-oesophagienne
 fente palatine
 fente palatine et ankyloglossie liées à l'X
 fente palatine isolée
+fente synaptique
 Fenticonazole
 Fesoterodine
 fesse
+feuille nasale
 feuillet embryonnaire
 fexofénadine
+fibre de Purkinje
 fibrillation
 fibrillation atriale
 fibrillation auriculaire familiale
@@ -5737,6 +5806,7 @@ fibroxanthome atypique
 fibroélastome papillaire
 fibroélastose endocardique
 fidaxomicine
+filament sébacé
 filaminopathie musculaire
 filariose
 filariose de Malaisie
@@ -5931,6 +6001,7 @@ folklore
 folkloristique
 follicule ovarien
 follicule pileux
+Follicule tertiaire
 Folliculite
 folliculite d'irritation
 folliculite décalvante
@@ -5952,6 +6023,7 @@ fongémie
 Fontanelle
 fonte musculaire
 foramen cæcum de l'os frontal
+Foramen de Panizza
 foramen déchiré
 foramen ethmoïdal antérieur
 foramen ethmoïdal postérieur
@@ -5991,15 +6063,19 @@ fosaprépitant
 foscarnet
 fosfomycine
 fosse condylaire
+fosse cérébrale postérieure
 fosse digastrique
 Fosse iliaque
 fosse infratemporale
+Fosse lombaire
 fosse mandibulaire
 Fosse ptérygo-palatine
+Fosse temporale
 fossette colobomateuse de la papille
 fossette cornéenne de Fuchs
 Fotémustine
 fovéa
+fovéola
 foyer d'infection primaire
 foyer de Ghon
 foyer de Rich
@@ -6088,6 +6164,7 @@ frovatriptan
 fructosurie
 Fructosémie
 Frunévetmab
+frustule
 FTA-ABS
 fucosidose
 fugue dissociative
@@ -6294,6 +6371,7 @@ Glandes de Brünner
 glandes de von Ebner
 glandes palatines
 glandes prépuciales
+Glandes péribuccales
 glandes salivaires principales
 glasdegib
 glaucome
@@ -6423,6 +6501,7 @@ glycémie à jeun
 glyptographie
 glécaprévir
 gnathite
+gnathosoma
 Gnathostomose
 goitre
 goitre dû à un trouble de l'hormonosynthèse
@@ -6511,6 +6590,7 @@ greffe
 greffe d'organe
 grenouillette
 grepafloxacin
+griffe
 griffe cubitale
 grippe
 grippe aviaire
@@ -6623,6 +6703,7 @@ halofantrine
 halogénodermie
 halopéridol
 halothane
+Haltère de l'insecte
 Hamartome
 hamartome achromique
 hamartome apocrine
@@ -6702,6 +6783,7 @@ hidradénome papillifère
 hidrocloratiazida
 hidrocystome
 hidrosadénite
+hile du poumon
 hippocampe
 hippologie
 hircisme
@@ -7188,6 +7270,7 @@ Hyponychium
 hypooestrogénisme
 hypoparathyroïdie
 hypoparathyroïdie récessive liée à l'X
+hypopharynx
 hypophosphatasie
 hypophosphatasie de l'adulte
 hypophosphatasie de l'enfant
@@ -7265,6 +7348,7 @@ hypoxémie néonatale
 Hystérectomie
 hystérie
 Hyōri
+Härna
 Héctor Pérez-Redondo
 hélicidine
 héliophysique
@@ -8305,6 +8389,8 @@ l-proline
 L-thyroxine
 L-tyrosine
 labetalol
+labrum
+labyrinthe
 labyrinthe osseux
 labyrinthite
 labyrinthite circonscrite
@@ -8331,6 +8417,7 @@ lait
 LAM avec différenciation minimale
 lambrolizumab
 lame basale
+lame criblée de l'os ethmoïde
 lamivudine
 lamotrigine
 Lampe de Wood
@@ -8531,13 +8618,18 @@ lidocaïne
 Lifitegrast
 ligament
 ligament alvéolo-dentaire
+ligament collatéral tibial
 ligament collatéral ulnaire
+ligament conoïde
 ligament crico-thyroïdien
 ligament croisé antérieur
 ligament croisé postérieur
 ligament de la nuque
 ligament inguinal
+ligament palpébral médial
 ligament rond de l'utérus
+Ligament trapézoïde
+ligaments de Cooper
 ligne arquée
 ligne latérale
 Ligne mylo-hyoïdienne
@@ -8670,6 +8762,7 @@ littérature russe
 livedo réticulaire
 lixisénatide
 loase
+lobe
 lobe d'oreille
 lobe frontal
 lobe limbique
@@ -9032,6 +9125,7 @@ macrotie
 macula
 macula densa
 macule
+macule auditive
 macule sacculaire
 maculopathie
 maculopathie toxique de la rétine
@@ -9785,6 +9879,7 @@ mannosidose
 manque de tonus de la langue
 mansonellose
 mansonellose à Mansonella ozzardi
+manteau
 manubrium du marteau
 manubrium sternal
 manœuvre de Dix-Hallpike
@@ -9799,6 +9894,7 @@ Maria Magdalena Heras i Fortuny
 marketing
 marketing numérique
 marque d'injection
+Marsupium
 Marta Torrens Mèlich
 marteau
 Martí Ferrer Bruguera
@@ -9844,19 +9940,23 @@ mazindol
 maçonnologie
 maïeutique
 Mecillinam
+Media
 megestrol
 meloxicam
 melphalan
 melæna
 membrane basale glomérulaire
+Membrane de Bowman
 membrane de Descemet
 membrane synoviale
 membrane épirétinienne
 membranes et fibres hyaloïdes
 membre
+Membre chiridien
 membre fantôme
 membre inférieur humain
 membre supérieur
+membre supérieur libre
 menace de fausse couche
 menthol
 menton
@@ -10013,6 +10113,7 @@ mogamulizumab
 molaire
 molgramostime
 molinologie
+mollet
 molluscum contagiosum
 Molluscum pendulum
 molsidomine
@@ -10487,6 +10588,7 @@ myélomalacie
 myélome
 myélome indolent
 myélome multiple
+myélomère
 Myéloméningocèle
 myélopathie
 myélopathie cervico-arthrosique
@@ -10498,6 +10600,7 @@ mâchoire édentée
 Mèche de cheveux
 méat acoustique externe
 méat acoustique interne
+méat urinaire
 mébendazole
 mébutate d'ingénol
 mébévérine
@@ -10718,6 +10821,8 @@ mésencéphale
 mésentère
 mésilate de DIHYDROERGOTOXINE
 mésiocclusion
+Méso
+mésocôlon
 mésoderme
 mésonéphrome bénin
 mésonéphros
@@ -10823,6 +10928,7 @@ naevus intradermique
 naevus pigmenté a cellules fusiformes de Reed
 nafarelin
 naftifine
+Nageoire adipeuse
 Nail-Patella syndrome
 nalbuphine
 nalméfène
@@ -10877,6 +10983,7 @@ nerf crânien
 Nerf facial
 nerf fibulaire profond
 Nerf fibulaire superficiel
+nerf fémoral
 nerf glossopharyngien
 Nerf hypoglosse
 nerf ischiatique
@@ -10895,9 +11002,12 @@ nerf phrénique
 Nerf plantaire latéral
 Nerf plantaire médial
 nerf pudendal
+nerf périphérique
 nerf radial
+nerf sensitif
 Nerf sous-orbitaire
 nerf spinal
+nerf splanchnique
 nerf terminal
 nerf tibial
 nerf trijumeau
@@ -11140,6 +11250,7 @@ noyau caudé
 Noyau du faisceau solitaire
 Noyau lenticulaire
 noyau rouge
+noyau sous-thalamique
 Noyau suprachiasmatique
 Noyau supraoptique
 noyau vestibulaire
@@ -11514,6 +11625,8 @@ oreillons
 orf
 organe
 organe de Corti
+organe sensoriel
+organe sexuel
 organe tendineux de Golgi
 organe voméro-nasal
 organisation industrielle
@@ -11538,6 +11651,7 @@ os
 os alvéolaire
 os capitatum
 Os carré
+os cortical
 os coxal
 os cuboïde
 os cunéiforme
@@ -11559,6 +11673,7 @@ os pisiforme
 Os quadratojugal
 os scaphoïde
 os sphénoïde
+os spongieux
 os sésamoïde
 os temporal
 Os trapèze
@@ -11568,6 +11683,7 @@ os wormien
 os zygomatique
 oseltamivir
 Osimertinib
+osselet
 ossification du ligament jaune
 ossification du ligament longitudinal postérieur
 ossification hétérotopique
@@ -11671,6 +11787,7 @@ otite séreuse
 otite séreuse aiguë
 otite séreuse allergique
 oto-antrite
+otocyste
 Otocéphalie
 otolithe
 otologie
@@ -11688,6 +11805,8 @@ otéolyse carpo-tarsienne multicentrique avec ou sans néphropathie
 otéracil
 ouabaine
 Ouraque
+ouverture inférieure du thorax
+ouverture supérieure du thorax
 ovaire
 ovaire multifolliculaire
 ovaire polykistique
@@ -11804,6 +11923,7 @@ pantoprazole
 panuvéite
 papavérine
 Papille de Bergmeister
+papille linguale
 papille rénale
 Papilles gustatives
 papillite de l'anus
@@ -11910,6 +12030,7 @@ paraplégie spastique familiale
 paraplégie spastique familiale ascendante à début précoce
 paraplégie spastique familiale type 4
 paraplégie spastique type 7
+parapode
 paraproctite
 paraproctite aiguë
 paraprotéinémie
@@ -11952,7 +12073,11 @@ paronychie à Candida
 parotide
 parotidite
 paroxétine
+Pars flaccida
+Pars plana
 pars planite
+pars reticulata
+pars tensa
 partie latérale de l'os occipital
 parvovirose
 parémiologie
@@ -11982,6 +12107,7 @@ patte
 patte d'oie
 paume
 paupière
+pavillon auriculaire
 pazopanib
 pazufloxacine
 PCR quantitative
@@ -11997,6 +12123,7 @@ pegfilgrastim
 peginterféron alfa-2a
 peginterféron alfa-2b
 pegvisomant
+peigne dentaire
 peinture décorative
 Pellagre
 pellicule
@@ -12099,6 +12226,7 @@ pet vaginal
 Peter B. Bennett
 petit omentum
 petit trochanter
+petite aile de l’os sphénoïde
 petite taille par déficit en GHSR
 petites et moyennes entreprises
 petits foramens palatins
@@ -12268,9 +12396,11 @@ pilocarpine
 Pilomatrixome
 pilosité abdominale
 pilosité pubienne
+pilosité sous les aisselles
 pimecrolimus
 pimozide
 pinacidil
+pinacoderme
 pinavérium
 pindolol
 pinguécula
@@ -12308,6 +12438,8 @@ pivampicilline
 pivmécillinam
 pixantrone
 pizotifène
+Pièces buccales de l'insecte
+pièces buccales des arthropodes
 Piébaldisme
 piétin
 placard érythémateux de Janeway
@@ -12359,12 +12491,14 @@ Plexus veineux rectal
 Plexus veineux vaginal
 Plexus veineux vésical
 Pli semi-lunaire de la conjonctive
+pli sous-fessier
 plica du genou
 plis et ruptures de la membrane de Bowman
 Plombémie
 plume
 plèvre
 pléiocytose
+Pléopode
 pléthysmographie
 pneumatocèle
 pneumatose kystique de l'intestin
@@ -12443,10 +12577,12 @@ pneumopéritoine
 pneumorachis
 pneumoscrotum
 pneumosinus dilatans
+Pneumostome
 pneumothorax
 pneumothorax spontané avec pression positive
 pneumothorax spontané primitif
 pneumothorax tuberculeux
+Poche cutanée marginale
 poche parodontale
 poches périorbitaires
 pochite
@@ -12581,6 +12717,7 @@ pontage
 pontage coronarien à coeur battant
 pontage de la selle turcique
 poractant alfa
+Pore de Kohn
 porencephalie acquise
 Porencéphalie
 porocarcinome eccrine
@@ -12726,6 +12863,7 @@ propofol
 Propylex
 propylthiouracile
 prosencéphale
+Prosome
 prosopagnosie
 prosopalgie
 Prosopamnésie
@@ -13076,6 +13214,8 @@ rachitisme hypophosphatémique autosomique récessif
 rachitisme hypophosphatémique héréditaire avec hypercalciurie
 rachitisme hypophosphatémique lié à l'X récessif
 Rachitisme vitamino-résistant hypophosphatémique
+racine dentaire
+racine du poumon
 Racine nerveuse
 racécadotril
 radiculalgie
@@ -13104,12 +13244,14 @@ ramelteon
 ramipril
 Ramon Balius i Juli
 ramosetron
+Ramphothèque
 ramucirumab
 Rangaku
 ranibizumab
 ranolazine
 ranélate de strontium
 rapacuronium
+Raphé (diatomée)
 raphé périnéal
 rapport AC/A
 rapport cup/disc
@@ -13279,6 +13421,7 @@ rosacée granulomateuse
 rosacée à germes gram négatif
 rosiglitazone
 rosoxacine
+rostre
 rosuvastatine
 rotation du torse
 rotation externe de l'humérus
@@ -13345,12 +13488,14 @@ réaction périostée
 réaction schizophrénique
 Réadaptation cardiaque
 récession gingivale
+récessus épitympanique
 réchauffement climatique et mobilité humaine
 récidive tumorale locale
 réduction ventriculaire
 réflexe d'extrusion
 régadénoson
 région lombaire
+région pubienne
 régorafénib
 régurgitation
 régénération du foie
@@ -13445,6 +13590,7 @@ S-adénosylméthionine
 Sabermétrie
 sabot et griffe
 Sac aérien
+sac endolymphatique
 Sac lacrymal
 saccule
 Sacituzumab govitecan
@@ -13575,6 +13721,7 @@ saturation artérielle en oxygène
 saturation pulsée en oxygène
 saturnisme
 saxagliptine
+scala tympani
 Scandale de l'huile frelatée
 scaphocéphalie
 scaphocéphalie familiale type McGillivray
@@ -13740,6 +13887,7 @@ scrofuloderme
 scrotodynie
 scrotum
 scrotum en châle
+scutellum
 scénarisation
 scénographie
 seafarer fatigue
@@ -13747,6 +13895,7 @@ sebelipase alfa
 secnidazole
 secteur de l'immobilier
 secukinumab
+segment antérieur de l'oeil
 sein
 sein tubéreux
 Seliciclib
@@ -13768,6 +13917,8 @@ septicémie charbonneuse
 septicémie hémorragique
 septicémie à Salmonella
 septième vertèbre thoracique
+septum alvéolaire
+septum du cœur
 septum interventriculaire
 septum nasal
 Septum pellucidum
@@ -13842,13 +13993,17 @@ Sinus coronaire
 sinus de l'ouraque
 sinus de Rokitansky-Aschoff de la vésicule biliaire
 sinus de Valsalva
+sinus ethmoïde
+sinus frontal
 sinus maxillaire
 sinus paranasal
+sinus piriforme
 sinus péricranii
 sinus pétreux inférieur
 sinus sagittal supérieur
 sinus sigmoïde
 sinus sphéno-pariétal
+sinus sphénoïdal
 sinus transverse de la dure-mère
 sinusite
 sinusite ethmoïdale aiguë
@@ -13863,6 +14018,8 @@ sinusite maxillaire aiguë
 sinusite maxillaire chronique
 sinusite sphénoïdale aiguë
 sinécatéchines
+siphon
+siphosome
 Sipuleucel-T
 sirolimus
 sirop calmante
@@ -13936,6 +14093,7 @@ soie de porc
 soin infirmier
 soins non programmés
 soins péri-opératoires
+Sole pédieuse
 solfège
 solifénacine
 solriamfétol
@@ -13986,6 +14144,7 @@ spectacle vivant
 spectinomycine
 spectre autistique
 spectrométrie de masse en tandem
+Spermathèque
 spermatite
 spermatocèle
 Spermaturie
@@ -14001,6 +14160,7 @@ sphénoïdite chronique
 sphérophakie
 sphérulose collagène
 spicule
+Spike
 Spina bifida
 spina bifida cystica
 spina bifida occulta
@@ -14032,6 +14192,7 @@ spondylopathie traumatique
 spondylose
 spondylose lombaire
 spongiologie
+spongocèle
 sporotrichose
 sprue tropicale
 spécialité l’hémostase
@@ -14063,6 +14224,7 @@ stent prostatique
 sternum
 sternum bifide
 stibogluconate de sodium
+stigmate
 stimulation magnétique transcranienne
 stiripentol
 stomatite
@@ -14079,6 +14241,7 @@ stomatocytose héréditaire
 stomatocytose héréditaire avec hématies hyperhydratées
 stomatologie
 stomatomycose
+stop
 strabisme
 strabisme intermittent
 strabisme mécanique
@@ -14089,10 +14252,13 @@ streptomycine
 streptozotocine
 stress au travail
 striatum
+Strie médullaire
+strie vasculaire
 stries angioïdes
 stries angioïdes de la choroïde
 strongylose équine
 structure  lymphoïde  tertiaire
+Stylet cristallin
 stylisme
 stynrome de Basilicata-Akhtar
 stéatite
@@ -15714,6 +15880,7 @@ syringome
 syringome chondroïde malin
 syringome de la vulve
 syringomyélie
+Système aquifère
 système bancaire
 système endocrinien
 système limbique
@@ -15835,6 +16002,7 @@ tanycyte
 tapentadol
 taphonomie
 tarentisme
+Tarse
 tarse
 tarsométatarse
 tartre dentaire
@@ -15891,6 +16059,7 @@ tendinopathie tibiale postérieure
 tendinose
 tendon
 tendon d'Achille
+tendon rotulien
 teneur corpusculaire moyenne en hémoglobine
 tension mammaire
 Tente du cervelet
@@ -15959,6 +16128,7 @@ thiopropérazine
 thioridazine
 Thiotepa
 thoracoscopie
+thorax
 thracologie
 thrombasthénie de Glanzmann
 thrombocytopénie amégacaryocytaire congénitale
@@ -16115,6 +16285,7 @@ tissu biologique
 tissu conjonctif
 tissu conjonctif dense
 tissu conjonctif lâche
+tissu lymphoïde
 tissu lymphoïde associé au tube digestif
 tissu lymphoïde associé aux muqueuses
 tissu musculaire
@@ -16128,6 +16299,7 @@ TOC du couple
 tocilizumab
 tofacitinib
 tofisopam
+Toile choroïdienne
 Tokak
 tolbutamide
 Tolcapone
@@ -16186,6 +16358,7 @@ toxoplasmose oculaire
 toxémie
 trabectédine
 trabéculation vésicale
+trabéculum
 tracheobronchomalacie
 trachome
 trachée
@@ -16194,6 +16367,7 @@ trachéobronchite
 trachéobronchomégalie
 trachéobronchopathie chondro-ostéoplastique
 trachéomalacie
+tractus optique
 Traductique
 traductologie
 Trait drépanocytaire
@@ -16585,9 +16759,11 @@ trétinoïne
 tube collecteur
 tube neural
 tube séminifère
+tuber cinereum
 tubercule de Darwin
 tubercule du muscle scalène antérieur
 tubercule pubien
+tubercule supraglénoïdal
 tuberculome intracranien
 tuberculose
 tuberculose abdominale
@@ -16629,6 +16805,7 @@ tuberculose uro-génitale
 tuberculose verruqueuse
 tuberculoses ultrarésistantes
 tubocurarine
+tubule rénal
 tubulopathie
 tularémie
 tularémie gastro-intestinale
@@ -17147,6 +17324,7 @@ tuméfaction du bassin
 tuméfaction mammaire
 tungose
 tungusologie
+tunnel cubital
 turcologie
 turoctocog alfa
 tymazoline
@@ -17319,6 +17497,7 @@ usage de cocaïne
 usage médical de l'acide acétique
 usage récréatif des benzodiazépines
 usages médicaux de l'argent
+Ushnisha
 ustekinumab
 Usul al-Fiqh
 usure dentaire
@@ -17365,11 +17544,15 @@ valine
 valsartan
 valve
 valve aortique
+valve auriculo-ventriculaire
 valve cardiaque
 valve mitrale
 valve postérieure de l'urètre
 valve pulmonaire
+Valve sigmoïde
 valve tricuspide
+valve veineuse
+valvule connivente
 Valvule de Thebesius
 valvule iléo-cæcale
 valvulopathie aortique
@@ -17476,6 +17659,7 @@ Veine profonde
 veine pulmonaire
 veine rénale
 Veine sacrale médiane
+Veine saphène
 veine sous-clavière
 veine splénique
 Veine superficielle
@@ -17490,6 +17674,7 @@ Veines pudendales internes
 veinule
 velmanase alfa
 velpatasvir
+Velum
 vemurafenib
 venlafaxine
 ventre de batracien
@@ -17534,6 +17719,7 @@ vessie
 vessie de porc
 vessie natatoire
 vessie neurologique
+vestibule
 Vestibule vulvaire
 vestibulite nasale
 Vestibulodynie
@@ -17670,12 +17856,16 @@ zolmitriptan
 zolpidem
 zona
 zona disséminé
+zona incerta
 zona lié au SIDA
 zona ophtalmique
 zona sine herpete
+zone de Kiesselbach
 Zone pellucide
 zone réticulée
+zone érogène
 zonisamide
+zonule de Zinn
 zoologie
 zoologie des invertébrés
 zoomusicologie
@@ -17687,6 +17877,7 @@ ZS-9
 Zuckerschleim
 zuclopenthixol
 zygomycose
+zygosporocyste
 zézaiement
 Çala
 Çopur
@@ -17805,6 +17996,7 @@ zézaiement
 éducation scientifique
 éducation spécialisée
 éducation à l'environnement
+édéage
 éfatutazone
 éfavirenz
 égyptologie
@@ -17859,6 +18051,7 @@ zézaiement
 épanchement péricardique
 épanchement subdural
 épaule
+épendyme
 épendymocyte
 épendymome
 épendymome anaplasique
@@ -18050,6 +18243,8 @@ zézaiement
 ésotropie alternante
 ésotropie monoculaire
 éséridine
+étage sous tentoriel
+étage sus tentoriel
 étanercept
 état de choc du à la Lewisite
 État de conscience minimal

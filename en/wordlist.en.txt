@@ -324,6 +324,7 @@
 "malignant neoplasm of trachea, bronchus and lung"
 "marketing, innovation and technology"
 "mathematical, physical and natural sciences"
+"mature vesicular follicle, antral follicle"
 "Meckel syndrome, type 10"
 "Meckel syndrome, type 11"
 "megalencephalic leukoencephalopathy with subcortical cysts 2B, remitting, with or without mental retardation"
@@ -683,6 +684,7 @@ abdominal pain
 abdominal pain between meals
 abdominal pregnancy
 abdominal rigidity
+abdominal shell
 abdominal surgery
 abdominal swelling
 abdominal tenderness
@@ -786,6 +788,7 @@ accessory nail of the fifth toe
 accessory nerve
 accessory nerve disease
 accessory nerve injury
+accessory nidamental gland
 accessory pancreas
 accessory parotid gland
 accessory spleen
@@ -860,6 +863,7 @@ acid erosion
 Acid peptic diseases
 acid-labile subunit deficiency
 acidophil adenoma
+Acidopore
 acidosis
 acid–base imbalance
 acinar cell carcinoma
@@ -1208,11 +1212,14 @@ Adie-Critchley syndrome
 adinazolam
 adipocyte
 Adiponectin deficiency
+adipose eyelid
+Adipose fin
 adipose tissue
 adipose tissue neoplasm
 adiposis dolorosa
 Adipsia
 aditus to left mastoid antrum
+aditus to mastoid antrum
 aditus to right mastoid antrum
 adjustment disorder
 administration
@@ -1358,6 +1365,7 @@ advanced sleep phase syndrome 2
 advanced sleep phase syndrome 3
 Advanced Therapy Medicinal Product
 Adverse reaction to biologic agents
+aedeagus
 aerobic actinomyces infection
 aerodynamics
 aeroecology
@@ -1379,6 +1387,7 @@ afegostat
 afelimomab
 afferent arteriole
 afferent loop syndrome
+afferent nerve fiber
 Aflatoxicosis
 aflatoxins-related hepatocellular carcinoma
 aflibercept
@@ -1680,16 +1689,20 @@ altretamine
 aluminosis
 Alvarez' syndrome
 alveolar arch
+alveolar arch of maxilla
 alveolar bone loss
 alveolar canals
 Alveolar capillary dysplasia
+alveolar duct
 alveolar echinococcosis
 alveolar foramina of maxilla
 alveolar lung disease
 alveolar osteitis
 alveolar pneumonia
+alveolar pore
 alveolar process
 alveolar rhabdomyosarcoma
+alveolar septum
 alveolar soft part sarcoma
 alveoli adenoma
 alveolitis
@@ -1727,6 +1740,7 @@ amaurosis-hypertrichosis syndrome
 Amaurotic nystagmus
 Amazia
 ambenonium
+ambiguous genitalia
 amblyopia
 Ambras type hypertrichosis universalis congenita
 ambrisentan
@@ -1841,6 +1855,8 @@ ampulla of posterior semicircular duct of right membranous labyrinth
 ampulla of right anterior semicircular canal
 ampulla of right lateral semicircular canal
 ampulla of right posterior semicircular canal
+ampulla of semicircular canal
+ampulla of semicircular duct
 ampulla of Vater
 ampulla of Vater adenocarcinoma
 ampulla of Vater adenosquamous carcinoma
@@ -1853,6 +1869,7 @@ ampulla of Vater mucinous adenocarcinoma
 ampulla of Vater neoplasm
 ampulla of Vater small cell carcinoma
 ampulla of Vater squamous cell carcinoma
+ampullary crest
 ampullary crest of semicircular duct of left membranous labyrinth
 ampullary crest of semicircular duct of right membranous labyrinth
 ampullary hair cell
@@ -1932,11 +1949,15 @@ anal Paget's disease
 anal papillitis
 anal prolapse
 Anal sac adenocarcinoma
+Anal scale
+anal shell
 anal spasm
 anal sphincter dysplasia
 anal squamous cell carcinoma
 anal stricture
+anal teeth
 anal triangle
+anal verge
 Analbuminaemia
 Analgesic nephropathy
 analytical chemistry
@@ -2129,6 +2150,8 @@ annular ligament of left radius
 annular ligament of right radius
 annular pancreas
 Annular pustular psoriasis
+annulus
+annulus fibrosus
 annulus fibrosus cell
 anodontia
 anogenital venereal wart
@@ -2168,6 +2191,7 @@ anterior accessory saphenous vein
 anterior bony ampulla
 anterior cerebral artery
 anterior cerebral artery infarction
+anterior chamber of the eye
 Anterior choroidal artery
 anterior column
 Anterior commissure
@@ -2180,16 +2204,20 @@ anterior cruciate ligament injury
 anterior dislocation of lens
 anterior ethmoidal artery
 anterior ethmoidal foramen
+anterior fibromuscular stroma of prostate
 anterior foramen magnum meningioma
 anterior horn cell disease
+anterior horn of lateral ventricle
 anterior horn of spinal cord
 anterior hypothalamic nucleus
 anterior inferior cerebellar artery
 anterior inferior iliac spine
 anterior inferior renal segment
 anterior interosseous syndrome
+anterior interventricular sulcus
 anterior ischemic optic neuropathy
 anterior jugular vein
+anterior lingual gland
 anterior mediastinum cancer
 anterior membranous ampulla
 anterior midgut (ectodermal) morphogenesis
@@ -2209,6 +2237,7 @@ anterior segment dysgenesis 6
 anterior segment dysgenesis 7
 anterior segment dysgenesis 8
 anterior segment mesenchymal dysgenesis
+anterior segment of eyeball
 anterior semicircular canal
 anterior semicircular canal proper
 anterior semicircular duct
@@ -2276,6 +2305,7 @@ Antisynthetase syndrome
 antithrombin alfa
 antithrombin III deficiency
 antivaricose agent
+antlers
 Antley-Bixler syndrome
 Antonio Barbero Carnicero
 antrafenine
@@ -2303,6 +2333,7 @@ aortic arch
 aortic arch anomaly-facial dysmorphism-intellectual disability syndrome
 aortic arch defects
 aortic arch syndromes
+Aortic arches
 aortic atherosclerosis
 aortic disease
 aortic dissection
@@ -2425,6 +2456,7 @@ aquatic science
 aqueous geochemistry
 aqueous humour
 aqueous misdirection
+aquiferous system
 AR-42
 Arabian philology
 Arabic Language Studies
@@ -2443,6 +2475,7 @@ arbovirus encephalitis
 arbutamine
 archaeology
 Archaeology of New Guinea and Pacific Islands (excl. New Zealand)
+archenteron
 archeothanatology
 archexin
 architectonics
@@ -2465,6 +2498,7 @@ arcuate uterus
 arcus senilis
 ardeparin sodium
 Area postrema
+area praeoptica medialis
 area studies
 Arenaviridae infectious disease
 arenavirus hemorrhagic fever
@@ -2490,6 +2524,7 @@ aripiprazole
 aripiprazole lauroxil
 arizonosis
 arm
+arm bone
 arm hair
 arm injuries
 arm weakness
@@ -2568,6 +2603,7 @@ arterolane
 artery
 artery development
 artery disease
+artery system
 artesunate
 artesunate/mefloquine
 arthralgia
@@ -2581,6 +2617,8 @@ arthrogryposis multiplex congenita-4
 Arthrogryposis–renal dysfunction–cholestasis syndrome
 arthropathy
 arthropod anatomy
+arthropod mandible
+arthropod mouthparts
 arthrosis of hip
 arthus reaction
 articaine
@@ -2592,6 +2630,7 @@ articular cartilage injury
 articular surface for cuboid on calcaneus
 articular surface of mandibular fossa of temporal bone
 articulation disorder
+articulatory apparatus
 artificial intelligence
 artificial lens implant migration
 artificial psychology
@@ -2618,6 +2657,7 @@ ascending aorta
 ascending aorta anomaly
 ascending aortic aneurysm
 ascending cholangitis
+ascending colon
 ascending colon cancer
 Ascending limb of loop of Henle
 Ascher's syndrome
@@ -2802,6 +2842,7 @@ atrioventricular node
 atrioventricular reentrant tachycardia
 atrioventricular septal defect
 atrioventricular septum
+atrioventricular valve
 atrioventricular valve anomaly
 atrioventricular valve development
 atrium
@@ -2862,12 +2903,15 @@ auditory hair cell
 auditory neuropathy
 Auditory neuropathy spectrum disorder
 auditory neuroscience
+auditory ossicle
 auditory processing disorder
 auditory science
 August Castelló i Roca
 aura
 auranofin
+auricle
 auricular cancer
+auricular cartilage
 auricular muscle
 auriculo condylar syndrome
 Auriculocondylar syndrome 2
@@ -3507,6 +3551,7 @@ baby colic
 bacampicillin
 Bachmann's bundle
 bacillary angiomatosis
+Bacillary band
 Bacillary dysentery
 bacitracin / hydrocortisone / neomycin / polymyxin B
 bacitracin / neomycin / polymyxin B
@@ -3733,6 +3778,7 @@ belimumab
 belinostat
 Bell's palsy
 Bellini duct carcinoma
+belly cord
 belotecan
 bemiparin
 bemnifosbuvir
@@ -3983,6 +4029,7 @@ Bifid rib
 bifonazole
 Bifrontal craniotomy
 big history
+bikini line
 bilastine
 bilateral breast cancer
 Bilateral frontoparietal polymicrogyria
@@ -4018,6 +4065,7 @@ bile duct rhabdomyosarcoma
 bile duct sarcoma
 bile duct signet ring cell carcinoma
 bile ducts
+bile ductule
 bile reflux
 Bilharzial cor pulmonale
 biliary atresia
@@ -4030,6 +4078,7 @@ biliary peritonitis
 Biliary pruritus
 biliary reflux
 Biliary sludge
+biliary system
 biliary tract cancer
 biliary tract disease
 biliary tract intraductal papillary mucinous neoplasm
@@ -4284,10 +4333,13 @@ blood test
 blood vessel
 blood vessel finding
 blood viscosity
+blood-air barrier
+Blood-Spinal Cord Barrier
 blood–brain barrier
 Bloom syndrome
 blot
 Blount's disease
+blowhole
 Blowout fracture
 Blue 88
 blue baby syndrome
@@ -4319,6 +4371,7 @@ body of femur
 body of fifth lumbar vertebra
 body of first lumbar vertebra
 body of fourth lumbar vertebra
+body of lateral ventricle
 Body of left pubis
 body of lumbar vertebra
 body of metatarsal bone
@@ -4329,6 +4382,7 @@ body of sternum
 body of stomach
 body of third lumbar vertebra
 body of thoracic vertebra
+body of tongue
 body psychotherapy
 body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency
 Boerhaave syndrome
@@ -4380,6 +4434,7 @@ bone neoplasm
 bone of fifth lumbar vertebra
 bone of first lumbar vertebra
 bone of fourth lumbar vertebra
+bone of hand
 bone of second lumbar vertebra
 bone of third lumbar vertebra
 bone osteosarcoma
@@ -4448,6 +4503,7 @@ Bowen's disease
 Bowen-Conradi syndrome
 Bowenoid papulosis
 Bowman's capsule
+Bowman's membrane
 Bowman's membrane folds or rupture
 boxer's fracture
 Boylan Dew Greco syndrome
@@ -4460,6 +4516,7 @@ brachial plexus neuritis
 brachial plexus neuropathy
 brachial veins
 brachialis muscle
+Brachidium
 brachiocephalic artery
 brachioradialis
 Brachycephalic Airway syndrome
@@ -4499,6 +4556,7 @@ Brain biopsy
 brain cancer
 brain capillary endothelial cell
 brain compression
+brain cortex
 brain ependymoma
 brain fever
 brain germinoma
@@ -4642,6 +4700,7 @@ Brewer infarcts
 brexpiprazole
 briakinumab
 Brian Arthur Sellick
+Bride (Medizin)
 brief psychotic disorder
 brief reactive psychosis
 brigatinib
@@ -4662,6 +4721,7 @@ brivaracetam
 broad ligament malignant neoplasm
 Broadbent inverted sign
 broadcast communication
+Brockmann body
 brodalumab
 Brodie abscess
 Brodmann area
@@ -4682,6 +4742,7 @@ bronchial adenoma
 bronchial artery
 bronchial disease
 bronchial endocrine tumor
+bronchial epithelial cell
 bronchial hyperresponsiveness
 bronchial mucus gland adenoma
 bronchial neoplasm
@@ -4717,6 +4778,7 @@ bronchus carcinoma in situ
 bronchus cartilage development
 bronchus development
 bronchus mucoepidermoid carcinoma
+Brood pouch
 Brooke-Spiegler syndrome
 Brooks-Wisniewski-Brown syndrome
 brotizolam
@@ -4762,6 +4824,7 @@ Buccal exostosis
 buccal gland
 buccal mucosa neoplasm
 buccal mucosa squamous cell carcinoma
+Buccinator crest
 buccinator muscle
 buckle fracture
 buclizine
@@ -4775,6 +4838,7 @@ building science
 buildings archaeology
 bulb of penis
 bulb of vestibule
+bulbar conjunctiva
 bulbar conjunctival dermoid or conjunctival dermolipoma
 Bulbar palsy
 bulbar polio
@@ -4786,6 +4850,8 @@ bulbomembranous urethral cancer
 bulbospinal polio
 bulbospongiosus muscle
 Bulbous corpuscle
+bulbus
+Bulbus glandis
 bulevirtide
 bulging flanks
 bulimia
@@ -4799,6 +4865,7 @@ Bullous small vessel vasculitis
 bumetanide
 bunamiodyl
 bundle bone
+bundle branch
 bundle branch block
 bundle of His
 buparlisib
@@ -4914,6 +4981,7 @@ calcium metabolism disease
 calcium oxalate nephrolithiasis
 calcium pyrophosphate dihydrate crystal deposition disease
 calculus
+calf
 calf hair
 calf lung
 calf stomach
@@ -4929,12 +4997,14 @@ calvarial doughnut lesions with bone fragility
 calvarial fracture
 camazepam
 camel hair
+camera
 Camera-Marugo-Cohen syndrome
 camera-type eye development
 Cameralism
 Cameron lesions
 Camisa disease
 camostat
+Campaniform sensilla
 campanology
 camphor spirit
 campomelic dysplasia
@@ -4956,7 +5026,9 @@ canal for auditory tube
 canal for tensor tympani
 canaliculitis
 canaliculus for chorda tympani
+Canals of Hering
 Canavan disease
+cancellous bone
 cancer
 cancer biology
 cancer by anatomical entity
@@ -5026,6 +5098,7 @@ capsule opacification
 capsulitis
 captodiame
 captopril
+caput epididymis
 Caput medusae
 caput succedaneum
 CAR-T cells
@@ -5094,6 +5167,7 @@ cardiac anomalies-developmental delay-facial dysmorphism syndrome
 cardiac arrest
 cardiac asthma
 cardiac cell development
+cardiac chamber
 cardiac dislocation
 Cardiac Edema
 Cardiac fibroma
@@ -5107,6 +5181,7 @@ Cardiac myxoma
 cardiac neural crest cell
 Cardiac plexus
 cardiac sarcoidosis
+cardiac septum
 cardiac surgery
 cardiac syndrome X
 cardiac tamponade
@@ -5192,10 +5267,12 @@ Carpometacarpus
 carprofen
 Carrion's disease
 carteolol
+cartilage
 cartilage cancer
 cartilage development involved in endochondral bone morphogenesis
 cartilage fracture
 cartilage of body of lumbar vertebra
+cartilage of bronchus
 cartilage of extrapulmonary bronchus
 cartilage of fifth lumbar vertebra
 cartilage of first lumbar vertebra
@@ -5212,10 +5289,13 @@ cartilage of subsegmental bronchus
 cartilage of superior surface of body of lumbar vertebra
 cartilage of third lumbar vertebra
 cartilage tumor
+cartilaginous endplate
 cartilaginous endplate cell
+cartilaginous ridge
 cartography
 Cartography of New York City
 cartooning
+Caruncle
 Carvajal syndrome
 carvone allergic contact dermatitis
 cascade stomach
@@ -5457,10 +5537,12 @@ cemento-ossifying fibroma
 Cementoblast
 cementoblastoma
 cementocyte
+Cementoenamel junction
 cementoma
 cementum
 cemiplimab
 Cenani-Lenz syndactyly syndrome
+Cenchrus
 cenderitide
 cenegermin
 cenesthopathic schizophrenia
@@ -5471,6 +5553,7 @@ Centor criteria
 Central Asian studies
 central auditory disease
 central breast papilloma
+central canal of spinal cord
 central conducting lymphatic anomaly
 Central cord syndrome
 central core myopathy
@@ -5532,6 +5615,7 @@ central nervous system venous angioma
 central nervous system viral disease
 Central neurocytoma
 central neuroglial cell
+Central nucleus of the amygdala
 central pontine myelinolysis
 central precocious puberty
 central precocious puberty 1
@@ -5630,6 +5714,7 @@ cerebral hypoxia
 cerebral infarction
 Cerebral laceration
 cerebral lipidosis
+cerebral lobe
 cerebral lymphoma
 cerebral malaria
 cerebral malformation
@@ -5738,11 +5823,13 @@ Cervicogenic headache
 cervicomedullary junction neoplasm
 Cervicothoracic spina bifida cystica
 cervix
+Cervix
 cervix carcinoma
 cervix development
 cervix disease
 cervix endometrial stromal tumor
 cervix endometriosis
+cervix epithelium
 cervix erosion
 cervix melanoma
 cervix small cell carcinoma
@@ -5858,6 +5945,7 @@ Chat dorsal inhibitory spinal cord neuron
 Chediak-Higashi syndrome
 cheek
 cheek mucosa cancer
+cheek pouch
 Cheek teeth
 cheese washer's lung
 cheilitis
@@ -6051,6 +6139,7 @@ chlorthalidone / clonidine
 chlorzoxazone
 choanal atresia
 choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome
+Choanoderm
 choking
 cholangiocarcinoma
 cholangiolocellular carcinoma
@@ -6109,6 +6198,7 @@ chondropathy
 chondrosarcoma
 choral studies
 chorangiosis
+chordae tendineae
 chordee
 chorditis
 chordoid glioma
@@ -6404,6 +6494,7 @@ ciliary body spindle cell melanoma
 ciliary ganglion
 ciliary muscle
 ciliary muscle cell
+ciliary zone
 ciliated cyst of the vulva
 ciliopathy
 Ciliophora infectious disease
@@ -6433,6 +6524,7 @@ circadian rhythm sleep disorder
 Circle of Willis
 Circoviridae infection
 circuit theory
+circular fold
 circulating tumor cell
 circulatory collapse
 circulatory insufficiency
@@ -6477,6 +6569,7 @@ claustrophobia
 clavicle
 clavicle fracture
 clavulanic acid
+claw
 clay-shoveler fracture
 CLBS14 (Ologo)
 clear cell acanthoma
@@ -6559,6 +6652,7 @@ clivus chondroid chordoma
 clivus chordoma
 clivus meningioma
 cloaca
+Cloaca
 cloacal exstrophy
 cloacal gland development
 cloacogenic carcinoma
@@ -6644,6 +6738,7 @@ cochlea
 cochlear aqueduct
 cochlear canaliculus
 cochlear disease
+cochlear duct
 cochlear duct of left membranous labyrinth
 cochlear duct of right membranous labyrinth
 cochlear inner hair cell
@@ -6714,6 +6809,7 @@ collagenous colitis
 Collagenous spherulosis
 collagenous sprue
 collapse
+collarette
 collateral circulation
 collecting duct system
 Colles' fracture
@@ -6778,6 +6874,7 @@ colostrum
 Colpocephaly
 Colpocleisis
 colposcopy
+Colulus
 columnar cell variant papillary carcinoma
 columnar/cuboidal epithelial cell differentiation
 coma
@@ -6867,6 +6964,7 @@ commerce
 commercial law
 commercial sciences
 comminuted fracture
+commissural fiber
 commissure of inferior colliculus
 commissure of superior colliculus
 common bile duct
@@ -6912,6 +7010,7 @@ comparative mythology
 comparative philology
 comparative religion
 comparative sociology
+compartment
 compartment syndrome
 compensatory emphysema
 Compensatory hyperhidrosis
@@ -7015,6 +7114,7 @@ condoliase
 conduct disorder
 conducted energy weapon injury
 conducting
+conducting zone
 conduction aphasia
 conductive hearing loss
 condylar fossa
@@ -7026,6 +7126,7 @@ Condyloma
 condylomata lata
 cone dystrophy
 cone monochromacy
+cone of light
 cone-rod dystrophy
 cone-rod dystrophy 1
 cone-rod dystrophy 10
@@ -7356,6 +7457,7 @@ conjunctival degenerations and deposits
 conjunctival deposit
 conjunctival disease
 conjunctival folliculosis
+conjunctival fornix
 conjunctival intraepithelial neoplasm
 conjunctival neoplasm
 conjunctival nevus
@@ -7376,6 +7478,7 @@ connective tissue development
 connective tissue disease
 connective tissue disorder due to lysyl hydroxylase-3 deficiency
 connective tissue neoplasm
+Conoid ligament
 Conotruncal heart malformations
 Conradi–Hünermann syndrome
 consciousness studies
@@ -7435,6 +7538,7 @@ conventional malignant hemangiopericytoma
 convergence insufficiency
 convergent extension
 conversion disorder
+Cooper's ligaments
 copanlisib
 Copenhagen disease
 copper deficiency
@@ -7445,6 +7549,7 @@ coptology
 Cor bovinum
 cor pulmonale
 cor triatriatum
+Coracoacromial ligament
 coracobrachialis muscle
 coracoid process
 coral reef biology
@@ -7492,6 +7597,7 @@ corneal opacity
 corneal perforation
 Corneal scarring
 corneal staphyloma
+corneal stroma
 corneal ulcer
 corneal vacuolization
 Cornelia de Lange syndrome
@@ -7520,6 +7626,7 @@ coronary restenosis
 coronary sinus
 coronary sinus valve development
 coronary stenosis
+coronary sulcus
 coronary thrombosis
 coronary vasculature development
 coronavirus disease
@@ -7537,15 +7644,19 @@ corpus callosum lipoma
 corpus callosum oligodendroglioma
 corpus cavernosum clitoridis
 corpus cavernosum penis
+corpus epididymis
 corpus luteum
 corpus luteum cyst
 corpus striatum
+Corpuscles of Herbst
 corrected measurement of calcium
 corrosion engineering
 cortex of left kidney
 cortex of right kidney
+cortex parahippocampalis
 cortical area
 cortical blindness
+cortical bone
 cortical collecting duct
 cortical deafness
 cortical dysplasia-focal epilepsy syndrome
@@ -7576,6 +7687,8 @@ cosmography
 cosmology
 costal cartilage
 Costal margin
+costal pleura
+costal shell
 Costello syndrome
 Costocervical trunk
 costochondritis
@@ -7678,6 +7791,7 @@ Creutzfeldt-Jakob disease
 CRH test
 cri-du-chat syndrome
 cribriform carcinoma
+cribriform plate
 cribriform variant testicular seminoma
 cricoid cartilage
 cricopharyngeal spasm
@@ -7693,6 +7807,7 @@ crisaborole
 crisantaspase
 crisis informatics
 Crisscross heart
+crista galli
 critical emergency medicine
 critical illness polyneuropathy
 critical race studies
@@ -7718,6 +7833,7 @@ Crouzon syndrone
 Crouzonodermoskeletal syndrome
 crown of tooth
 cruciate ligament injury
+crura
 crus of penis
 crush syndrome
 crustacean allergy
@@ -7736,9 +7852,11 @@ cryptorchidism
 cryptorchidism-arachnodactyly-intellectual disability syndrome
 cryptosporidiosis
 cryptosporidiosis-chronic cholangitis-liver disease syndrome
+Cryptostoma
 crystal arthropathy
 crystal violet
 crystalline deposits in vitreous
+crystalline style
 crystallography
 CSF albumin
 CSF glucose
@@ -7747,6 +7865,7 @@ CSF/serum albumin ratio
 CSF/serum glucose ratio
 CT053
 CTX001
+Cubital tunnel
 cubital tunnel syndrome
 cubitus valgus
 cubitus varus
@@ -7775,6 +7894,7 @@ Cuneus
 cup-to-disc ratio
 cupric chloride
 cupric chloride Cu-64
+cupula
 curatorial studies
 CURB-65
 Currarino syndrome
@@ -7863,6 +7983,7 @@ cystathioninuria
 cysteamine
 Cystic adventitial disease
 cystic basal cell carcinoma
+cystic duct
 cystic duct development
 cystic echinococcosis
 Cystic eyeball
@@ -7879,6 +8000,7 @@ cystic vein
 Cystica profunda
 cysticercosis
 cysticercosis cutis
+cystid
 cystinosis
 cystinuria
 cystinuria type A
@@ -7956,6 +8078,7 @@ dance studies
 dance theory
 dandruff
 Dandy-Walker syndrome
+Danger triangle of the face
 Danon disease
 danthron
 dantrolene
@@ -8155,6 +8278,7 @@ dental trauma
 dentate gyrus of hippocampal formation granule cell
 dentate nucleus development
 dentatorubral-pallidoluysian atrophy
+denticle
 dentin caries
 dentin dysplasia
 dentine
@@ -8393,6 +8517,7 @@ diaphragma sellae meningioma
 diaphragmatic eventration
 diaphragmatic hernia
 diaphragmatic paralysis
+diaphragmatic pleura
 diaphragmatic rupture
 diaphyseal medullary stenosis-bone malignancy syndrome
 diaphysis
@@ -8456,6 +8581,7 @@ diffuse amacrine cell of retina
 diffuse astrocytoma
 diffuse brain injury
 diffuse cerebral and cerebellar atrophy-intractable seizures-progressive microcephaly syndrome
+Diffuse chemosensory system
 Diffuse cholesteatosis of middle ear and mastoid
 diffuse cutaneous mastocytosis
 diffuse cystic renal dysplasia
@@ -8489,6 +8615,7 @@ diflunisal
 difluprednate
 Digastric fossa of Mandible
 digastric muscle
+digastric muscle group
 digenic disease
 DiGeorge syndrome
 digestive sign
@@ -8609,6 +8736,7 @@ diplomatic history
 diplomatic history of the United States
 diplopia
 Diplopodia
+Diplostigmaty
 Dipygus
 Dipylidium caninum infectious disease
 dipyridamole
@@ -8671,6 +8799,7 @@ dissociative amnesia
 dissociative disorder
 dissociative identity disorder
 distal 10q deletion syndrome
+distal airway
 distal arthrogryposis
 distal arthrogryposis type 1
 distal arthrogryposis type 10
@@ -8726,6 +8855,7 @@ distal spinal muscular atrophy type 4
 distal spinal muscular atrophy type 5
 Distal Trisomy 10q
 Distal trisomy 5q
+distal tubule
 distended loops of intestines on rectal
 distichia
 distichiasis with congenital anomalies of the heart and peripheral vasculature
@@ -8807,6 +8937,8 @@ dorsal otocyst cell
 Dorsal raphe nucleus
 dorsal root ganglion development
 dorsal spinal cord interneuron
+Dorsal tegmental nucleus
+dorsolateral prefrontal cortex
 dorsopathy
 dorzolamide
 dorzolamide/timolol
@@ -8880,6 +9012,7 @@ dry eye syndrome
 dry nose and throat
 dryness
 du Pan syndrome
+Dua's layer
 dual-energy X-ray absorptiometry
 dual-role transvestism
 Duane retraction syndrome
@@ -8892,6 +9025,7 @@ Duct ectasia of breast
 ductal coarctation of the aorta
 Ductopenia
 ductus arteriosus
+ductus reuniens
 ductus venosus
 Duker Weiss Siber syndrome
 Dukes' disease
@@ -9306,6 +9440,7 @@ elbasvir
 elbasvir/grazoprevir
 elbow
 elbow fracture
+elbow joint
 elbow tendinopathy
 electrical and computer engineering
 electrical burn
@@ -9331,6 +9466,7 @@ electronics and nanotechnology
 Elek's test
 elemental semiconductors
 elementary and secondary education
+elephant's trunk
 elephantiasis
 elephantiasis nostras
 eletriptan
@@ -9354,6 +9490,7 @@ eluxadoline
 elvitegravir
 elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide
 elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil
+elytron
 Em-eukal
 emapalumab
 emapticap pegol
@@ -9405,6 +9542,7 @@ empagliflozin/linagliptin
 emphysema
 emphysematous cholecystitis
 emphysematous cystitis
+empodium
 empty nose syndrome
 empty sella syndrome
 empyema
@@ -9478,6 +9616,7 @@ endocrine gland neoplasm
 endocrine infection
 endocrine oncology
 endocrine organ benign neoplasm
+endocrine pancreas
 endocrine pancreas disease
 endocrine system
 endocrine system development
@@ -9493,10 +9632,12 @@ endogenous depression
 endogenous intoxication
 endoleak
 endolymph
+endolymphatic duct
 endolymphatic duct of left membranous labyrinth
 endolymphatic duct of right membranous labyrinth
 Endolymphatic hydrops
 endolymphatic hydrops
+endolymphatic sac
 endolymphatic sac tumor
 endometrial adenocarcinoma
 endometrial adenosquamous carcinoma
@@ -9528,6 +9669,7 @@ endometritis
 endometrium
 endometrium carcinoma in situ
 endomyocardial fibrosis
+endoneurium
 endophthalmitis
 endosalpingiosis
 Endoscopic endonasal surgery
@@ -9663,6 +9805,7 @@ eosinophilic pneumonia
 Eosinophilic pustular folliculitis of infancy
 eosinophilic variant of chromophobe renal cell carcinoma
 epacadostat
+ependyma
 ependymal cell
 Ependymal tumor
 ependymal tumor of spinal cord
@@ -9743,6 +9886,7 @@ epiphyseal plate
 epiphysis
 epiphysis of femur
 Epiploic appendagitis
+epiproct
 epiretinal membrane
 epirizole
 epirubicin
@@ -9761,6 +9905,7 @@ episodic ataxia type 8
 episodic kinesigenic dyskinesia 1
 episodic kinesigenic dyskinesia 2
 epispadias
+episternum
 Epithalamus
 epithelial and subepithelial dystrophy
 epithelial basement membrane dystrophy
@@ -9792,9 +9937,11 @@ epithelioma
 Epithelioma cuniculatum
 epithelium
 epithelium development
+epithelium of esophagus
 epithelium of left cornea
 epithelium of right cornea
 epithelium regeneration
+epitympanic recess
 epizootic rabbit enteropathy
 epizootiology
 eplerenone
@@ -9846,6 +9993,7 @@ ergotism
 eribulin
 erlotinib
 Ermine phenotype
+erogenous zone
 Erosio interdigitalis blastomycetica
 Erosion of cervix uteri
 Erosive pustular dermatitis of the scalp
@@ -10038,6 +10186,7 @@ ethionamide
 Ethiopian studies
 ethmocephaly
 ethmoid bone
+ethmoid sinus
 ethmoid sinus adenocarcinoma
 ethmoid sinus adenoid cystic carcinoma
 ethmoid sinus cancer
@@ -10154,9 +10303,11 @@ exhibitionism
 exisulind
 exocervical carcinoma
 exocrine gland
+exocrine pancreas
 exocrine pancreas development
 exocrine pancreatic cancer
 exocrine pancreatic insufficiency
+exocrine system
 exocrine system development
 exophthalmic ophthalmoplegia
 exophthalmos
@@ -10214,10 +10365,12 @@ external ear disease
 external ear malformation
 external ear neoplasm
 external ear squamous cell carcinoma
+external globus pallidus
 external iliac artery
 external iliac vein
 external jugular vein
 external occipital protuberance
+external orifice of uterus
 external pillar cell of cochlea
 External resorption
 extra-adrenal paraganglioma
@@ -10229,6 +10382,7 @@ extraglomerular mesangial cell
 extragonadal germ cell cancer
 extragonadal nonseminomatous germ cell tumor
 extragonadal seminoma
+extrahepatic bile duct
 extrahepatic bile duct adenocarcinoma
 extrahepatic bile duct adenoma
 extrahepatic bile duct carcinoma
@@ -10358,6 +10512,7 @@ failed back syndrome
 failure of eruption of teeth
 fairyology
 fake moustache
+falciform ligament
 fallopian tube
 fallopian tube adenocarcinoma
 fallopian tube adenofibroma
@@ -10682,6 +10837,7 @@ female sexual arousal disorder
 female singing voice
 female status
 female stress incontinence
+female urethra
 female urethra development
 female urethral cancer
 female urogenital disease
@@ -10695,9 +10851,11 @@ femoral fracture
 femoral head fracture
 femoral hernia
 femoral neck fracture
+femoral nerve
 femoral neuralgia
 femoral neuropathy
 femoral shaft fracture
+femoral shell
 femoral vein
 femoral vein thrombophlebitis
 Femoral-facial syndrome
@@ -10707,6 +10865,7 @@ fen ecology
 fenbufen
 fencamfamin
 fendiline
+Fenestra
 fenethylline hydrochloride
 fenirofibrate
 fenofibrate
@@ -10836,6 +10995,7 @@ film theory
 Film/video-based therapy
 filmmaking
 Filoviridae infectious disease
+filtration slit
 fimasartan
 finafloxacin
 finance
@@ -10896,6 +11056,7 @@ fixed pupil
 fjord ecology
 Flabby alveolar ridge
 flaccid paralysis
+Flagellum
 Flail chest
 flamencology
 Flammer syndrome
@@ -10945,6 +11106,7 @@ floodplain ecology
 floor of mouth basaloid squamous cell carcinoma
 floor of mouth mucoepidermoid carcinoma
 floor of mouth squamous cell carcinoma
+floor of the mouth
 floor of the mouth cancer
 floppy eyelid syndrome
 flopropione
@@ -11035,6 +11197,7 @@ focal segmental glomerulosclerosis 7
 focal segmental glomerulosclerosis 8
 focal segmental glomerulosclerosis 9
 Foetal-maternal haemorrhage
+foetus circulation
 Foix–Alajouanine syndrome
 Foix–Chavany–Marie syndrome
 folate deficiency
@@ -11097,6 +11260,7 @@ foramen cecum
 Foramen lacerum
 foramen magnum
 foramen magnum meningioma
+Foramen of Panizza
 foramen ovale
 Foramen ovale
 foramen petrosum
@@ -11109,6 +11273,7 @@ forearm
 forearm bones
 forearm fracture
 forearm injury
+foregut
 Foreign accent syndrome
 foreign area studies
 foreign body
@@ -11156,6 +11321,7 @@ fosfomycin
 fosinoprilat
 fosphenytoin
 fospropofol
+fossa ovalis
 fostamatinib
 Foster-Kennedy syndrome
 fotemustine
@@ -11169,8 +11335,10 @@ fourth metatarsal bone
 fourth ventricle
 fovea centralis
 fovea for ligament of head of femur
+foveal avascular zone
 foveal hypoplasia 1
 foveal hypoplasia-optic nerve decussation defect-anterior segment dysgenesis syndrome
+foveola
 Foville's syndrome
 Fowler syndrome
 Fox-Fordyce disease
@@ -11198,6 +11366,7 @@ Fraser syndrome 3
 Frasier syndrome
 FRAXE intellectual disability
 freckle
+free upper limb
 Freeman–Sheldon syndrome
 freemartinism
 Fregoli delusion
@@ -11224,9 +11393,11 @@ frog belly
 Froin's syndrome
 front fangs
 front office operations
+front side of the neck
 frontal angle of parietal bone
 frontal bone
 frontal convexity meningioma
+frontal crest
 frontal foramen
 frontal lobe
 frontal lobe disorder
@@ -11235,6 +11406,8 @@ frontal lobe epilepsy
 frontal lobe injury
 frontal lobe neoplasm
 frontal margin of sphenoid
+frontal pole
+frontal sinus
 frontal sinus cancer
 frontal sinus inverted papilloma
 frontal sinus neoplasm
@@ -11262,6 +11435,7 @@ fructose malabsorption
 fruit allergy
 fruit development
 frunevetmab
+frustule
 Fryns Fabry Remans syndrome
 Fryns syndrome
 FTA-ABS
@@ -11532,6 +11706,7 @@ gastrointestinal surgery
 gastrointestinal system benign neoplasm
 gastrointestinal system cancer
 gastrointestinal system disease
+gastrointestinal tract
 gastrointestinal tuberculosis
 gastrointestinal tularemia
 gastrojejunal ulcer
@@ -11568,6 +11743,7 @@ gemfibrozil
 gemifloxacin
 Gemistocyte
 gemtuzumab ozogamicin
+gena
 gender dysphoria
 gender dysphoria in children
 gender incongruence
@@ -11640,6 +11816,7 @@ Genitopatellar syndrome
 genitourinary hemorrhage
 genitourinary medicine
 genitourinary oncology
+genitourinary system
 genitourinary system disease
 genodermatosis
 genology
@@ -11783,6 +11960,7 @@ glandular pattern ovarian yolk sac tumor
 glandular rosacea
 glandular tularemia
 glandular-alveolar pattern testicular yolk sac tumor
+glans
 glans penis
 glans penis cancer
 Glanzmann's thrombasthenia
@@ -11814,6 +11992,7 @@ glipizide
 glipizide/metformin
 gliquidone
 glisoxepide
+Glisson's capsule
 global business
 global change biology
 global finance
@@ -11825,6 +12004,7 @@ globose nucleus development
 globoszoospermia
 globus pallidus
 globus pallidus development
+globus pallidus externus
 glomangioma
 glomangiomatosis
 glomangiomyoma
@@ -11889,6 +12069,7 @@ glutaric aciduria type 1
 glutathione
 glutathione synthetase deficiency
 Glutathionuria
+gluteal sulcus
 gluteal surface of ilium
 gluteal tuberosity
 gluten allergy
@@ -11944,6 +12125,7 @@ GM604
 gnathitis
 gnathodiaphyseal dysplasia
 gnathomiasis
+gnathosoma
 GNE myopathy
 goat brain
 goat disease
@@ -12132,6 +12314,7 @@ guidance counselling
 Guillain–Barré syndrome
 Guillem Verger i Garau
 guitar performance
+gular shell
 Gulf War syndrome
 gum cancer
 gummatous syphilis
@@ -12160,6 +12343,7 @@ gyrus
 H syndrome
 Haarlem oil
 habenular commissure
+habenular nucleus
 Habit-tic deformity
 hadacidin
 Haemaccel
@@ -12185,6 +12369,7 @@ hair
 hair defect-photosensitivity-intellectual disability syndrome
 hair diseases
 hair follicle
+hair follicle matrix region
 hair follicle neoplasm
 Hair follicle nevus
 hair of abdomen
@@ -12231,6 +12416,7 @@ haloperidol
 haloprogin
 halothane
 Halperin-Birk syndrome
+halteres
 Haltlose personality disorder
 HAM
 hamartoma
@@ -12250,6 +12436,7 @@ hand deformity
 hand dermatosis
 hand disease
 Hand eczema
+hand joint
 Hand of benediction
 hand paresis
 hand surgery
@@ -12297,6 +12484,7 @@ hawkinsinuria
 HCL-V
 HCV in children and pregnancy
 head
+head and neck
 head and neck cancer
 head and neck carcinoma
 head and neck disease
@@ -12516,6 +12704,7 @@ Hennekam syndrome
 Henoch-Schoenlein purpura
 Henoch-Schönlein nephritis
 Henri Savigny
+Henry's pocket
 heparin
 heparin cofactor 2 deficiency
 Heparin necrosis
@@ -12534,11 +12723,13 @@ hepatic flexure cancer
 hepatic hemangioma
 hepatic infarction
 hepatic insufficiency
+hepatic lobule
 hepatic microvascular dysplasia
 hepatic osteogenic sarcoma
 hepatic overlap syndrome
 hepatic porphyria
 hepatic portal vein
+hepatic portal venule
 Hepatic radioembolization
 hepatic tuberculosis
 hepatic vascular disease
@@ -12561,6 +12752,7 @@ hepatitis E
 hepatization of lungs
 hepatobiliary disease
 hepatobiliary neoplasm
+hepatobiliary system
 hepatobiliary system cancer
 hepatoblast differentiation
 hepatoblastoma
@@ -12849,6 +13041,7 @@ hilar lung carcinoma
 hilar lung neoplasm
 Hill–Sachs lesion
 hilum of kidney
+hilum of lung
 hindgut carcinoid tumor
 hindgut contraction
 hindgut development
@@ -12862,6 +13055,7 @@ hip contracture
 hip dysplasia
 hip enthesopathy
 hip fracture
+hip joint
 Hippocampal commissure
 hippocampal interneuron
 hippocampal pyramidal neuron
@@ -13059,6 +13253,7 @@ Huarahi Māori
 Hughes-Stovin syndrome
 Hulle cell development
 human  CD14++CD16– monocytes
+human abdomen
 human adrenal bridge cell
 human airway ciliated epithelial cell
 human airway epithelium
@@ -13235,6 +13430,7 @@ human uterine stromal fibroblast
 human uterine unciliated epithelial cell
 human vagina
 human vertebral column
+human visual cortex
 human von Economo neuron
 human Vγ4+ IEL
 human WAT coventional type 2 DCs subset A
@@ -13246,6 +13442,7 @@ humanities and tourism
 human–computer interaction
 human–robot interaction
 Humeral avulsion of the glenohumeral ligament
+humeral shell
 humeroradial joint
 humeroradial synostosis
 humeroulnar joint
@@ -13699,6 +13896,7 @@ hysterectomy
 hysteria
 Hystrix-like ichthyosis–deafness syndrome
 Hyōri
+Härna
 Héctor Pérez-Redondo
 hépatitis C infection by  blood products
 I Ching studies
@@ -13810,6 +14008,8 @@ ileal disease
 ileal neoplasm
 Ileal veins
 ileitis
+ileocecal fold
+ileocecal junction
 ileocecal valve
 ileocolic artery
 Ileocolic vein
@@ -14085,6 +14285,7 @@ inferior extensor retinaculum of left ankle
 inferior extensor retinaculum of right ankle
 Inferior frontal gyrus
 inferior gemellus muscle
+inferior horn of lateral ventricle
 inferior mesenteric artery
 inferior myocardial infarction
 inferior nasal concha
@@ -14104,6 +14305,7 @@ inferior renal segment
 inferior reticular formation development
 inferior suprarenal artery
 inferior temporal line of parietal bone
+Inferior thoracic aperture
 inferior thyroid artery
 inferior thyroid veins
 Inferior tympanic canaliculus
@@ -14209,9 +14411,12 @@ infraorbital artery
 Infraorbital foramen
 infraorbital nerve
 infraspinatus muscle
+Infratemporal fenestra
 Infratemporal fossa
 infratentorial cancer
 infratentorial neoplasm
+Infratentorial region
+infundibular recess
 infundibulocystic basal cell carcinoma
 ingenol mebutate
 ingrown hair
@@ -14258,6 +14463,8 @@ inner ear neoplasm
 inner medullary collecting duct development
 inner nuclear layer of left retina
 inner nuclear layer of right retina
+inner renal medulla
+inner stripe of outer renal medulla
 innermost intercostal muscle
 innovation and entrepreneurship
 innovation management
@@ -14266,6 +14473,9 @@ inorganic chemistry
 inosine triphosphatase deficiency
 inotuzumab ozogamicin
 insect anatomy
+insect antenna
+Insect mouthparts
+insect wing
 insect-inflicted wound
 insomnia
 inspiration movement
@@ -14349,7 +14559,9 @@ interferon gamma-1b
 interferon kappa
 interferon-alpha
 interferon-responsive airway ciliated cell
+interfollicular epidermis
 intergluteal cleft
+intergular shell
 interior architecture
 interleukin-7 receptor alpha deficiency
 interlinguistics
@@ -14376,6 +14588,7 @@ internal capsule
 internal carotid agenesis
 internal carotid artery
 internal carotid artery dissection
+internal globus pallidus
 internal hemorrhoid
 internal hirudiniasis
 internal hordeolum
@@ -14384,6 +14597,7 @@ internal jugular vein
 internal mammary-coronary artery anastomosis
 internal medicine
 internal occipital crest
+internal orifice of uterus
 internal pillar cell of cochlea
 internal pudendal artery
 internal pudendal veins
@@ -14542,6 +14756,7 @@ intraductal papilloma
 Intradural pseudoaneurysm
 Intraepidermal neutrophilic IgA dermatosis
 intraglomerular mesangial cell
+intrahepatic bile duct
 intrahepatic bile duct adenoma
 intrahepatic bile duct cystadenoma
 intrahepatic bile duct development
@@ -14552,6 +14767,7 @@ intrahepatic cholestasis of pregnancy
 intrahepatic cholestasis of pregnancy 1
 intrahepatic cholestasis of pregnancy 3
 intrahepatic gall duct cancer
+intralobular bile duct
 intramuscular hemangioma
 intraneural perineurioma
 Intranodal palisaded myofibroblastoma
@@ -14639,6 +14855,7 @@ irbesartan
 irbesartan / hydrochlorothiazide
 IRF6-related disorders
 IRIDA syndrome
+iridocorneal angle
 iridocorneal endothelial syndrome
 iridocyclitis
 Iridodialysis
@@ -14655,6 +14872,7 @@ iris disease
 iris hypoplasia with glaucoma
 iris mixed cell melanoma
 iris neoplasm
+iris root
 iris sphincter muscle
 iris spindle cell melanoma
 iritis
@@ -14822,6 +15040,7 @@ Jefferson fracture
 jejunal adenocarcinoma
 jejunal cancer
 jejunal disease
+jejunal mucosa
 jejunal neoplasm
 jejunal somatostatinoma
 jejunal veins
@@ -15067,7 +15286,9 @@ kidney small cell carcinoma
 kidney stone
 kidney stone disease
 kidney transplantation
+kidney tubule
 Kienbock's disease
+Kiesselbach's plexus
 Kikuchi disease
 Kimura disease
 kinanthropology
@@ -15099,6 +15320,7 @@ Klüver–Bucy syndrome
 knee
 knee arthritis
 Knee buckling
+Knee bursae
 knee dislocation
 knee effusion
 knee extensor tendonitis
@@ -15154,6 +15376,7 @@ kyphoscoliosis
 kyphoscoliotic heart disease
 kyphosis
 Kyrle disease
+Kölliker’s organ
 König's syndrome
 Kōgaku
 L-2-hydroxyglutaric aciduria
@@ -15203,6 +15426,8 @@ labor presentation
 laboratory infectious disease
 laboratory procedure
 labour economics
+labrum
+labyrinth
 labyrinthine bilateral reactive loss
 labyrinthine concussion
 labyrinthine dysfunction
@@ -15252,6 +15477,7 @@ lacunar stroke
 LADD syndrome
 Ladd's bands
 Lafora disease
+Lagena
 lagophthalmos
 Laing early-onset distal myopathy
 lake ecology
@@ -15259,11 +15485,13 @@ lamb lung
 lamb stomach
 LAMB Syndrome
 Lamb-Shaffer syndrome
+lambda
 lambda 5 deficiency
 lambdoid border of occipital bone
 lambdoid suture
 Lambert-Eaton myasthenic syndrome
 Lambotte syndrome
+lamella
 Lamellar corpuscle
 lamellar hole
 lamellar ichthyosis
@@ -15342,6 +15570,7 @@ laropiprant / nicotinic acid
 larotrectinib
 Larsen syndrome
 Larsen-like syndrome B3GAT3 type
+larval abdomen
 larval development
 larval ecology
 larval heart development
@@ -15371,6 +15600,7 @@ laryngomalacia
 Laryngoonychocutaneous syndrome
 Laryngopharyngeal reflux
 laryngopharyngitis
+laryngopharynx
 laryngoscopy
 laryngospasm
 laryngostenosis
@@ -15408,6 +15638,8 @@ latent syphilis
 Latent tuberculosis
 lateral bony ampulla
 lateral border of the scapula
+Lateral cervical nucleus
+lateral collateral ligament
 lateral column
 lateral condyle of femur
 lateral condyle of left femur
@@ -15423,6 +15655,8 @@ lateral flexion of the torso
 lateral ganglionic eminence cell
 lateral geniculate nucleus development
 Lateral giant interneuron
+lateral habenular nucleus
+Lateral horn of insect brain
 lateral Kölliker’s organ cell
 lateral line
 lateral line development
@@ -15481,6 +15715,7 @@ law and legal studies
 law and management
 law and religion
 law in context
+layer of synovial tissue
 Lazy leukocyte syndrome
 LCZ696
 Le Fort fracture of skull
@@ -15534,9 +15769,11 @@ left atrial pressure
 left atrium
 left auricular cartilage
 left biceps brachii
+left bundle branch
 left bundle branch hemiblock
 left carotid body
 left cingulate gyrus
+left colon
 left common tendinous ring
 left corniculate cartilage
 left coronary artery
@@ -15560,6 +15797,7 @@ left gastric vein
 left gastroepiploic artery
 left greater trochanter
 left greater wing of sphenoid
+left heart
 left hemicolectomy
 left hip joint
 Left hippocampal formation
@@ -15580,6 +15818,7 @@ left levator veli palatini
 left lower quadrant abdominal pain
 left lung
 left lung development
+left lung lobe
 left malleus
 left middle finger
 left middle temporal gyrus
@@ -15685,6 +15924,7 @@ leiomyosarcoma
 leiomyosarcoma nonmetastatic
 leishmaniasis
 leisure studies
+lekku
 Lemierre's syndrome
 leminoprazole
 Lemsip
@@ -15732,6 +15972,7 @@ lesser curvature of the stomach
 lesser omentum
 lesser palatine foramina
 lesser trochanter
+lesser wing of sphenoid bone
 letermovir
 Lethal acantholytic epidermolysis bullosa
 Lethal arthrogryposis with anterior horn cell disease
@@ -15872,6 +16113,8 @@ Lifestyle medicine
 lifileucel
 lifitegrast
 ligament
+Ligament
+ligament of elbow joint
 ligament of left elbow joint
 ligament of right elbow joint
 Ligamentous laxity
@@ -15887,6 +16130,7 @@ Limb girdle syndrome
 limb ischemia
 limb-girdle muscular dystrophy
 Limbal nodule
+Limbal ring
 limber tail syndrome
 limbic encephalitis
 limbic lobe
@@ -15917,6 +16161,7 @@ lingual artery
 lingual gland
 lingual goiter
 lingual nerve injury
+lingual papilla
 Lingual Thyroid
 lingual veins
 lingual-facial-buccal dyskinesia
@@ -16060,6 +16305,7 @@ liver tumor
 Livestock cloning
 lixisenatide
 LL Cheong Skin & Laser Clinic
+lobar bronchus
 lobar bronchus development
 lobar holoprosencephaly
 lobar pneumonia
@@ -16109,6 +16355,7 @@ long bones of lower limb cancer
 Long COVID
 long COVID in children
 long crus of incus
+long head of biceps femoris muscle
 long head of left biceps brachii
 long head of right biceps brachii
 long nephron development
@@ -16175,13 +16422,21 @@ Low-flow priapism
 Low-grade fibromyxoid sarcoma
 Low-grade myofibroblastic sarcoma
 Low-set ears
+lower abdomen
 lower back pain
+lower body of stomach
 lower clivus meningioma
+lower eyelid
 lower gastrointestinal bleeding
 Lower gastrointestinal series
+lower gastrointestinal tract
 lower gingival squamous cell carcinoma
 lower gum cancer
+lower leg
 lower lip cancer
+lower lobe of left lung
+lower lobe of lung
+lower lobe of right lung
 lower respiratory tract
 lower respiratory tract disease
 lower respiratory tract infection
@@ -16208,6 +16463,7 @@ lumacaftor
 lumacaftor/ivacaftor
 lumasiran
 lumbar artery
+lumbar fossa
 lumbar plexus neoplasm
 lumbar puncture
 lumbar region
@@ -16356,6 +16612,7 @@ lymphogranuloma venereum
 lymphohistiocytoid mesothelioma
 lymphoid interstitial pneumonia
 lymphoid leukemia
+lymphoid tissue
 lymphoid tissue formation
 lymphology
 lymphoma
@@ -16453,6 +16710,7 @@ magnetic resonance cholangiopancreatography
 magnetic-resonance imaging
 magnetohydrodynamics
 Mahvash Disease
+main bronchus
 main bronchus cancer
 maintainability
 maintenance of gastrointestinal epithelium
@@ -16495,6 +16753,7 @@ male reproductive system disease
 male reproductive system neoplasm
 male singing voice
 male status
+male urethra
 male urethra development
 male urethral cancer
 male urogenital disease
@@ -16626,12 +16885,14 @@ Malum perforans
 malunion
 malunited fracture
 mammal anatomy
+mammal horn
 mammal tooth
 mammalian brain development
 mammalian ecology
 mammalian genetics
 mammalian vision
 MammaPrint
+Mammary alveolus
 mammary analogue secretory carcinoma
 mammary gland
 mammary gland development
@@ -16687,6 +16948,7 @@ manogepix
 manpower systems analysis
 Mansonella ozzardi infectious disease
 mansonelliasis
+mantle
 mantle cell lymphoma
 Mantleoma
 Mantoux test
@@ -16713,6 +16975,7 @@ Marfan syndrome
 marfanoid–progeroid–lipodystrophy syndrome
 margin of atlas
 marginal corneal ulcer
+marginal shell
 marginal zone B-cell lymphoma
 Maria Magdalena Heras i Fortuny
 Marie Unna hereditary hypotrichosis
@@ -16781,8 +17044,10 @@ mastitis in dairy cattle
 mastocytoma
 mastocytosis
 mastoid angle of parietal bone
+mastoid antrum
 mastoid border of occipital bone
 mastoid canaliculus
+mastoid cell
 mastoid foramen
 mastoid process
 mastoiditis
@@ -16841,6 +17106,7 @@ maxillary disease
 maxillary expansion
 maxillary first premolar
 maxillary fracture
+maxillary gland
 maxillary hiatus
 Maxillary hypoplasia
 maxillary lateral incisor
@@ -16913,6 +17179,7 @@ Meckel syndrome 5
 Meckel syndrome 6
 Meckel syndrome 8
 Meckel syndrome type 7
+Meckel's cartilage
 Meckel's diverticulitis
 Meckel's diverticulum
 Meckel's diverticulum cancer
@@ -16934,6 +17201,7 @@ media science
 media sociology
 media studies
 medial border of scapula
+medial collateral ligament
 medial epicondyle of left femur
 medial epicondyle of right femur
 medial epicondyle of the femur
@@ -16941,13 +17209,16 @@ medial epicondyle of the humerus
 medial epicondylitis
 medial ganglionic eminence cell
 Medial giant interneuron
+medial habenular nucleus
 medial Kölliker’s organ cell
 medial lemniscus
 medial lip
 Medial medullary syndrome
+Medial palpebral ligament
 medial parabrachial pigmented nucleus neuron
 medial plantar nerve
 Medial pontine syndrome
+medial prefrontal cortex
 medial prefrontal cortex neuron
 medial pterygoid muscle
 medial rectus muscle
@@ -16984,6 +17255,7 @@ mediastinal mesenchymal tumor
 mediastinal neoplasm
 mediastinal neurilemmoma
 mediastinal osteogenic sarcoma
+mediastinal pleura
 mediastinal soft tissue cancer
 mediastinitis
 mediastinum
@@ -17050,6 +17322,7 @@ medrysone
 medulla oblongata
 medullary breast carcinoma
 medullary carcinoma
+medullary collecting duct
 medullary colon carcinoma
 medullary cystic kidney disease
 medullary sponge kidney
@@ -17147,6 +17420,7 @@ melphalan
 melphalan allergy
 memantine
 memantine / donepezil
+Membrana granulosa
 membrane biophysics
 membranoproliferative glomerulonephritis
 membranoproliferative glomerulonephritis type 3
@@ -17262,6 +17536,7 @@ mesoaxial synostotic syndactyly with phalangeal reduction
 mesoblastic nephroma
 mesocarb
 mesocestoidiasis
+mesocolon
 mesoderm
 mesoderm development
 mesonephric capsule development
@@ -17319,6 +17594,7 @@ metanephric capsule development
 metanephric collecting duct development
 metanephric cortex development
 metanephric glomerular basement membrane development
+metanephric glomerulus
 metanephric glomerulus development
 metanephric nephron development
 metanephric pyramids development
@@ -17331,6 +17607,7 @@ metaphyseal dysplasia-maxillary hypoplasia-brachydacty syndrome
 metaphysics
 Metaphysis
 metapneumovirus infection
+Metapodial
 metaproterenol
 metaraminol
 metastase of liver cancer
@@ -17372,12 +17649,14 @@ metastatic tumor to the epididymis
 metastatic tumor to the iris
 metastatic tumor to the testis
 metastatic vulvar cancer
+metastoma
 Metastron
 metastrongylosis
 metatarsal bones
 metatarsal valgus
 metatarsalgia
 Metatarsophalangeal joint sprain
+metatarsus
 metatropic dysplasia
 metatypical basal cell carcinoma
 metaxalone
@@ -17591,6 +17870,8 @@ middle ear squamous cell carcinoma
 Middle East respiratory syndrome
 Middle Eastern studies
 middle finger
+middle lobe of lung
+middle lobe of right lung
 middle lobe syndrome
 middle meningeal artery
 middle part of inferior nasal concha
@@ -18079,6 +18360,7 @@ mouse purkinje neuron
 mouse Pvalb- precursor ganglionic eminence cell
 mouse pyramidal cell
 mouse renal pericyte
+mouse retina
 mouse seminal vesicle cell
 mouse skin-resident mast cell
 mouse smooth muscle cell
@@ -18293,6 +18575,7 @@ muscle neoplasm
 muscle of auditory ossicle
 muscle of face
 muscle of head proper
+muscle of leg
 muscle of mastication
 muscle of palate
 muscle of pharynx
@@ -18328,6 +18611,8 @@ musculoskeletal system benign neoplasm
 musculoskeletal system cancer
 musculoskeletal system symptom
 musculotubal canal
+Musculus iliocostalis cervicis
+Musculus longissimus thoracis
 musculus uvulae
 Muselmann
 museography
@@ -18388,6 +18673,7 @@ myelolipoma
 Myeloma cast nephropathy
 Myelomalacia
 myelomeningocele
+Myelomere
 Myelonecrosis
 Myeloperoxidase deficiency
 myelophthisic anemia
@@ -18412,6 +18698,7 @@ myocardial stunning
 myocarditis
 myocardium
 myocardium cancer
+myocardium of ventricle
 myoclonic astatic epilepsy
 myoclonic cerebellar dyssynergia
 myoclonic dystonia
@@ -19125,6 +19412,7 @@ neurotoxic disorder
 Neurotrophic keratitis
 neurotrophic keratoconjunctivitis
 neurovascular conflict
+neurovascular system
 neurovegetative disorder
 neutral lipid storage disease
 neutral lipid storage myopathy
@@ -19174,6 +19462,7 @@ nicorandil
 nicotine dependence
 nicotine poisoning
 nicotine withdrawal
+nidamental gland
 nidufexor
 Niemann-Pick disease
 Niemann-Pick disease type A
@@ -19435,6 +19724,7 @@ nose cone design
 nose development
 nose disease
 nose neoplasm
+nose-leaf
 nose-picking
 nosology
 nosophobia
@@ -19443,6 +19733,7 @@ Not-for-profit law
 notochord
 notochord cell development
 notochordal cancer
+notum
 novobiocin
 NPH insulin
 Npy dorsal inhibitory spinal cord neuron
@@ -19453,6 +19744,7 @@ nuchal cord
 nuchal ligament
 nuchal line
 nuchal scan
+nuchal shell
 nuclear and plasma physics
 nuclear medicine
 nuclear montage
@@ -19583,6 +19875,7 @@ occipital lobe neoplasm
 occipital margin of temporal bone
 Occipital neuralgia
 occipital pachygyria and polymicrogyria
+occipital pole
 occipitofrontalis muscle
 occiput
 Occlusal trauma
@@ -19704,6 +19997,7 @@ Old Nordic Religion
 old person smell
 Oldfield syndrome
 olecranon bursitis
+olecranon fossa
 olfaction disorder
 olfactory bulb
 Olfactory ensheathing glia
@@ -19837,6 +20131,7 @@ oprelvekin
 Opsismodysplasia
 opsoclonus
 Opsoclonus myoclonus syndrome
+optic (nerve) tract
 optic atrophy
 optic atrophy 10
 optic atrophy 11
@@ -19851,6 +20146,7 @@ optic atrophy 9
 optic atrophy-intellectual disability syndrome
 optic canal
 optic chiasm
+optic disc
 Optic disc pallor
 optic disk drusen
 optic nerve
@@ -19863,6 +20159,7 @@ optic nerve sheath meningioma
 Optic nerve tumor
 optic neuritis
 Optic papillitis
+optic recess
 optical microscope
 optical microscopy
 optometry
@@ -20121,6 +20418,7 @@ other dermis disorder
 other epidermal disorder
 Other pervasive developmental disorders
 Other Specified Feeding or Eating Disorder
+Otic placode
 otic polyp
 otic vesicle development
 otitis externa
@@ -20129,10 +20427,13 @@ otitis interna
 otitis media
 OTL-103
 otoantritis
+otocyst
 Otodental syndrome
 otofaciocervical syndrome
 otolaryngology
 otolith
+otolith organ
+otolithic membrane
 otology
 otomycosis
 otopalatodigital syndrome spectrum disorder
@@ -20157,6 +20458,8 @@ outer auditory hair cell
 outer ear
 outer medullary collecting duct development
 outer pillar cell
+outer renal medulla
+outer stripe of outer renal medulla
 outlet dysfunction constipation
 ovarian angiosarcoma
 ovarian artery
@@ -20404,6 +20707,7 @@ Palmoplantar ectodermal dysplasia
 palmoplantar keratoderma-deafness syndrome
 palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome
 palmoplantar keratosis
+palpebral conjunctiva
 palpebral edema
 palpebral epidermal tumor
 palpebral sebaceous gland tumor
@@ -20498,6 +20802,7 @@ Pap test
 PAPA syndrome
 papaverine
 paper studies
+Papez circuit
 papillary adenocarcinoma
 papillary adenofibroma
 papillary adenoma
@@ -20506,6 +20811,7 @@ papillary conjunctivitis
 papillary craniopharyngioma
 papillary cystadenocarcinoma
 papillary cystadenoma
+papillary duct
 papillary eccrine adenoma
 papillary ependymoma
 papillary extrahepatic bile duct adenocarcinoma
@@ -20540,6 +20846,7 @@ papular stomatitis
 Papuloerythroderma of Ofuji
 papulonecrotic tuberculid
 papulosquamous disorder
+parabrachial pigmented nucleus
 paracetamol
 paracetamol toxicity
 paracetamol/metoclopramide
@@ -20549,6 +20856,7 @@ Paradental cyst
 paradigmatics
 paradoxical bronchospasm
 paradoxical embolism
+parafovea
 paraganglioma
 paragonimiasis
 parahippocampal gyrus
@@ -20597,6 +20905,7 @@ paranoid personality disorder
 paranoid psychosis
 paranoid schizophrenia
 paranoid state
+paranotum
 paraovarian cyst
 paraparesis
 parapertussis
@@ -20608,6 +20917,7 @@ paraphimosis
 paraphrenia
 paraplegia
 Parapneumonic effusion
+parapodium
 Paraproctitis
 paraproteinemia
 parapsoriasis
@@ -20663,6 +20973,7 @@ parietal lobe malignant  neoplasm
 parietal margin of sphenoid
 parietal notch of temporal bone
 Parietal operculum
+parietal pleura
 Parinaud's oculoglandular syndrome
 Parinaud's syndrome
 Paris syndrome
@@ -20708,11 +21019,17 @@ Paroxysmal sympathetic hyperactivity
 paroxysmal tachycardia
 Paroxysmal tonic upgaze
 Parry–Romberg syndrome
+pars flaccida
 pars flaccida of left tympanic membrane
 pars flaccida of right tympanic membrane
+pars intercerebralis
+pars plana
 Pars plana exudative cyst
 Pars plana primary cyst
 pars planitis
+pars plicata
+pars reticulata
+pars tensa
 pars tensa of left tympanic membrane
 pars tensa of right tympanic membrane
 Parsonage-Turner syndrome
@@ -20775,6 +21092,7 @@ patellar dislocation
 patellar dysostosis
 patellar dysplasia
 patellar tendinitis
+patellar tendon
 Patellar tendon rupture
 patellofemoral pain syndrome
 patent blue V allergy
@@ -20818,9 +21136,11 @@ Pearson syndrome
 peat bog ecology
 Peat fire cancer
 peatland ecology
+pecten
 pectineal line
 pectineus muscle
 pectoral girdle
+pectoral shell
 pectoralis major
 pectoralis minor muscle
 pectus carinatum
@@ -20876,6 +21196,7 @@ pediatric traumatology
 pediatric urology
 pediatric visceral surgery
 pediatrics
+Pedicel
 pedicle of fifth lumbar vertebra
 pedicle of first lumbar vertebra
 pedicle of fourth lumbar vertebra
@@ -20915,6 +21236,7 @@ Pelizaeus-Merzbacher disease
 pellagra
 Pellegrini-Stieda syndrome
 Pellucid marginal degeneration
+peltidium
 pelvic examination
 pelvic floor dysfunction
 Pelvic floor muscle disorder
@@ -20974,6 +21296,7 @@ penis captivus
 penis carcinoma
 penis carcinoma in situ
 penis enlargement
+penis funnel
 penis mixed squamous cell carcinoma
 penis non-invasive verrucous carcinoma
 penis Paget's disease
@@ -21041,6 +21364,7 @@ periaqueductal gray G-Dat low mouse midbrain dopaminergic neuron
 periarthritis
 periarthritis humero-scapularis
 pericardial carcinomatosis
+pericardial cavity
 pericardial cyst
 pericardial effusion
 pericardial fluid
@@ -21063,6 +21387,7 @@ periductal breast myoepitheliosis
 Perifollicular fibroma
 perifolliculitis
 perilymph
+perilymphatic duct
 Perilymphatic fistula
 perimeningeal infections
 Perimyositis
@@ -21139,6 +21464,7 @@ peripheral focal chorioretinitis
 Peripheral giant-cell granuloma
 peripheral lymph node tuberculosis
 peripheral motor neuropathy-dysautonomia syndrome
+peripheral nerve
 peripheral nerve hyperexcitability
 peripheral nerve injury
 peripheral nerve schwannoma
@@ -21162,6 +21488,7 @@ Peripheral vascular examination
 peripheral vertigo
 periprosthetic fracture
 perisplenitis
+Peristomium
 Perisynaptic schwann cells
 peritoneal benign neoplasm
 peritoneal carcinoma
@@ -21265,6 +21592,7 @@ Peter B. Bennett
 Peters anomaly
 Peters plus syndrome
 pethidine
+petiole
 petit mal status
 Petit's hernia
 petroclival meningioma
@@ -21510,6 +21838,7 @@ pimecrolimus
 pimozide
 pinacidil
 pinacidil monohydrate
+Pinacoderm
 pinaverium
 Pincer nails
 pindobind
@@ -21519,6 +21848,7 @@ pineal gland
 pineal gland astrocytoma
 pineal gland development
 pineal parenchymal tumor of intermediate differentiation
+pineal recess
 pineal region choriocarcinoma
 pineal region germinoma
 pineal region immature teratoma
@@ -21551,6 +21881,7 @@ pirenzepine
 piretanide
 pirfenidone
 piriform cortex
+piriform sinus
 piriformis muscle
 piriformis syndrome
 pirlindole
@@ -21694,6 +22025,7 @@ pleomorphic liposarcoma
 pleomorphic rhabdomyosarcoma
 pleomorphic undifferentiated sarcoma
 Pleomorphic xanthoastrocytoma
+pleopod
 plerixafor
 plethora of newborn
 plethysmography
@@ -21701,6 +22033,7 @@ pleura
 pleural adenomatoid tumor
 pleural biphasic mesothelioma
 pleural cancer
+pleural cupula
 pleural desmoplastic mesothelioma
 pleural disease
 pleural effusion
@@ -21756,6 +22089,7 @@ pneumoperitoneum
 pneumorrhachis
 Pneumoscrotum
 Pneumosinus dilatans
+Pneumostome
 pneumothorax
 Pneumovirus infectious disease
 podiatry
@@ -21997,6 +22331,7 @@ posterior amorphous corneal dystrophy
 posterior auricular artery
 posterior bony ampulla
 posterior border of petrous part of temporal bone
+Posterior cardinal vein
 posterior cerebral artery
 posterior cerebral artery infarction
 posterior chamber of eyeball
@@ -22005,6 +22340,7 @@ posterior column ataxia-retinitis pigmentosa syndrome
 Posterior communicating artery
 Posterior cord syndrome
 posterior corneal pigmentation
+posterior cranial fossa
 posterior cranial fossa meningioma
 posterior cricoarytenoid muscle
 posterior cruciate ligament
@@ -22017,15 +22353,18 @@ posterior fossa ependymoma
 posterior fossa malformation
 posterior fossa syndrome
 Posterior funiculus
+posterior horn of lateral ventricle
 posterior inferior cerebellar artery
 posterior inferior iliac spine
 posterior interosseous nerve syndrome
+posterior interventricular sulcus
 posterior ischemic optic neuropathy
 Posterior lobe of cerebellum
 posterior mediastinum cancer
 posterior membranous ampulla
 posterior myocardial infarction
 posterior nasal aperture
+posterior parietal cortex
 posterior part of inferior nasal concha
 posterior part of left leg
 posterior part of right leg
@@ -22041,6 +22380,7 @@ posterior polymorphous corneal dystrophy 4
 posterior renal segment
 Posterior reversible encephalopathy syndrome
 posterior scleritis
+posterior scrotal nerves
 posterior semicircular canal
 posterior semicircular canal proper
 posterior semicircular duct
@@ -22102,6 +22442,7 @@ potomania
 Pott disease
 Pott's puffy tumor
 Potter's syndrome
+pouch
 pouchitis
 poult enteritis mortality syndrome
 poultry disease
@@ -22205,6 +22546,7 @@ prenylamine
 Preotact
 Preparticipation physical evaluation
 Prepatellar bursitis
+prepuce
 prepuce cancer
 preputial gland
 presbycusis
@@ -22488,6 +22830,7 @@ prolapse
 prolapse of female genital organ
 prolapse of lacrimal gland
 prolapse of urethra
+proleg
 prolidase deficiency
 Proliferating angioendotheliomatosis
 proliferating T cell
@@ -22529,6 +22872,7 @@ propylthiouracil
 Prosector's wart
 prosecution
 prosencephalon
+prosoma
 prosopagnosia
 Prosopamnesia
 prosopography
@@ -22566,6 +22910,7 @@ prostate squamous cell carcinoma
 prostate stromal sarcoma
 prostate symptom
 prostate transitional cell carcinoma
+prostate/seminal vesicles
 prostatic acinar adenocarcinoma
 prostatic adenoma
 prostatic congestion
@@ -22583,6 +22928,7 @@ prostatitis
 prostatocystitis
 Prostatorrhea
 prosthesis-related infection
+Prostomium
 protamine sulfate
 protanomaly
 protanopia
@@ -22622,6 +22968,7 @@ protriptyline
 Protrusio acetabuli
 provenance research
 proventriculus
+proximal airways
 proximal convoluted tubule
 proximal convoluted tubule segment 1 cell development
 Proximal diabetic neuropathy
@@ -22675,6 +23022,7 @@ pseudoaneurysm
 pseudoangiomatous stromal hyperplasia
 pseudobulbar affect
 pseudobulbar palsy
+pseudocoelom
 Pseudocowpox
 Pseudodiarrhea
 Pseudodyssynergia
@@ -22766,6 +23114,7 @@ psychosis
 psychosocial short stature
 psychosomatic disease
 psychosomatic medicine
+pteralia
 pterygium
 Pterygium inversum unguis
 Pterygium unguis
@@ -22778,6 +23127,7 @@ Pthirus pubis infestation
 ptosis
 ptosis of the breast
 Puberty menorrhagia
+pubic area
 pubic bone
 pubic hair
 pubic stubble
@@ -22823,6 +23173,7 @@ pulmonary actinomycosis
 pulmonary adenomatosis
 pulmonary alveolar microlithiasis
 pulmonary alveolar proteinosis
+pulmonary alveolus
 Pulmonary angiography
 pulmonary arteriovenous malformations
 pulmonary artery
@@ -22865,6 +23216,7 @@ pulmonary injury
 pulmonary interstitial emphysema
 pulmonary irritation
 pulmonary laceration
+pulmonary lobe
 pulmonary neuroendocrine tumor
 pulmonary nodular lymphoid hyperplasia
 pulmonary paracoccidioidomycosis
@@ -22913,6 +23265,7 @@ Punjabi literature
 pupil
 pupil disorder
 pupil symptom
+pupillary zone
 Pupillotonia
 PURA syndrome
 pure alexia
@@ -22924,6 +23277,7 @@ Pure mitochondrial myopathy
 pure red-cell aplasia
 purine nucleoside phosphorylase deficiency
 Purkinje cell
+Purkinje fiber
 Purple glove syndrome
 purpura
 Purpura cerebri
@@ -22957,6 +23311,7 @@ pyeloureteritis cystica
 Pylephlebitis
 pyloric antrum
 pyloric antrum cancer
+pyloric part
 pyloric stenosis
 pyloromyotomy
 pylorospasm
@@ -23135,6 +23490,7 @@ ranolazine
 ranula
 rapacuronium bromide
 rapadilino syndrome
+raphe
 raphe nuclei
 rapid antigen test
 Rapid plasma reagin
@@ -23428,8 +23784,10 @@ renal pelvis squamous cell carcinoma
 renal pelvis transitional cell carcinoma
 renal pelvis urothelial papilloma
 renal plexus
+renal pyramid
 renal replacement therapy
 renal sarcoidosis
+renal segment
 renal sinus
 renal syphilis
 renal system development
@@ -23466,6 +23824,7 @@ reproductive medicine
 reproductive organ benign neoplasm
 reproductive organ cancer
 reproductive shoot system development
+reproductive structure
 reproductive system
 reproductive system development
 reproductive system disease
@@ -23499,6 +23858,8 @@ respiratory alkalosis
 respiratory allergy
 Respiratory Aspiration of Gastric Contents
 respiratory basal cell differentiation
+respiratory bronchiole
+respiratory center
 respiratory complication
 respiratory compromise
 respiratory disease
@@ -23521,6 +23882,7 @@ respiratory tract infection
 Respiratory tract inflammation
 respiratory tract neoplasm
 respiratory tract papilloma
+respiratory zone
 respiratory-effort related arousals
 respirovirus infectious disease
 restaurant management
@@ -23551,6 +23913,7 @@ rete testis adenoma
 rete testis neoplasm
 retention
 reteplase
+reticular activating system
 reticular cell
 reticular dysgenesis
 reticular dystrophy of retinal pigment epithelium
@@ -23832,6 +24195,7 @@ right atrial pressure
 right atrium
 right auricular cartilage
 right biceps brachii
+right bundle branch
 right bundle branch block
 right carotid body
 right cingulate gyrus
@@ -23857,6 +24221,7 @@ right gastric vein
 right gastroepiploic artery
 right greater trochanter
 right greater wing of sphenoid
+right heart
 right heart bypass
 right hemicolectomy
 Right hemisphere brain damage
@@ -23879,6 +24244,7 @@ right levator veli palatini
 right lower quadrant abdominal pain
 right lung
 right lung development
+right lung lobe
 right malleus
 right middle finger
 right middle temporal gyrus
@@ -24026,9 +24392,11 @@ Romanian literature
 Romanian studies
 romidepsin
 romiplostim
+root canal
 root canal treatment
 root caries
 root hair cell development
+root of the lung
 root resorption
 root system development
 ropeginterferon alfa-2b
@@ -24049,6 +24417,7 @@ rosoxacin
 Ross procedure
 Ross River fever
 Ross' syndrome
+rostrum
 rosuvastatin
 rotation of the torso
 rotational seismology
@@ -24086,6 +24455,7 @@ rufloxacin
 ruminant stomach
 rumination
 rumination disorder
+rump
 Runner's rump
 running injury
 runny nose
@@ -24149,6 +24519,7 @@ sales engineering
 salicylamide
 Salicylate sensitivity
 salicylic acid
+salience network
 saliva
 saliva secretion
 Salivary duct carcinoma
@@ -24204,6 +24575,8 @@ Sandifer syndrome
 Sanfilippo syndrome
 Sanitary epidemiological reconnaissance
 Sanskrit literature
+Saphenofemoral junction
+saphenous vein
 SAPHO syndrome
 saprisartan
 sapropterin
@@ -24243,6 +24616,7 @@ satraplatin
 satumomab pendetide
 savanna ecology
 savolitinib
+saw tooth
 saxagliptin
 scabies
 scala media of left cochlea
@@ -24265,6 +24639,7 @@ Scalp pruritus
 Scalp Ringworm
 Scalp–ear–nipple syndrome
 Scandinavian studies
+Scape
 scaphocephaly
 scaphoid bone
 Scaphoid fracture
@@ -24361,6 +24736,7 @@ scirrhous adenocarcinoma
 sclera
 scleral disease
 scleral staphyloma
+scleral stroma
 scleredema
 Sclerema neonatorum
 sclerite
@@ -24390,6 +24766,8 @@ sclerotic ring
 sclerotome development
 Scolex
 scoliosis
+Scolopidia
+scolopidium
 Scombroid food poisoning
 scotoma
 Scott syndrome
@@ -24413,6 +24791,7 @@ scrotum squamous cell carcinoma
 scrub typhus
 scurf
 scurvy
+scutellum
 Scytalidium hyalinum infectious disease
 sea-blue histiocyte syndrome
 Sea-blue histiocytosis
@@ -24430,6 +24809,7 @@ sebaceous basal cell carcinoma
 sebaceous breast carcinoma
 sebaceous carcinoma
 sebaceous cyst
+Sebaceous filament
 sebaceous gland
 sebaceous gland anomaly
 sebaceous gland development
@@ -24503,6 +24883,7 @@ sedimentary petrology
 seed development
 seed ecology
 Segmental arterial mediolysis
+segmental bronchus
 Segmental colitis associated with diverticulosis
 segmental dystonia
 Segmental odontomaxillary dysplasia
@@ -24537,8 +24918,10 @@ semantics
 semaxanib
 Semen
 semen analysis
+semi-lunar valve
 semi-lunar valve development
 semicircular canal
+semicircular duct
 semiconductor engineering
 semilunar hiatus
 semimembranosus muscle
@@ -24586,6 +24969,7 @@ sensorineural hearing loss
 sensorium
 sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome
 sensory disorder of eyelid
+sensory organ
 sensory organ benign neoplasm
 sensory perception
 sensory peripheral neuropathy
@@ -24669,6 +25053,7 @@ set of nose hairs
 set of peripheral neuroglial cells
 set of right renal pyramids
 set of rotator cuff muscles
+set of teeth
 setariosis
 setiptiline
 sevelamer
@@ -24716,6 +25101,7 @@ sex cord-gonadal stromal tumor
 sex cord-stromal benign neoplasm
 sex differentiation disease
 sex hormone-producing adrenal cortex adenoma
+sex organ
 Sex xxxx
 sexology
 sexual addiction
@@ -24734,6 +25120,7 @@ Sexual relationship disorder
 sexual sadism
 sexual sadism disorder
 sexuality studies
+sexually immature organism
 sexually transmitted infection
 sexually transmitted intestinal disease
 Sezary's disease
@@ -24756,6 +25143,7 @@ shellfish poisoning
 Shenkui
 shift work sleep disorder
 shigellosis
+shin
 shin splints
 Ship foot
 shipping
@@ -24927,6 +25315,8 @@ sinus tarsi syndrome
 sinus venosus
 Sinus venosus atrial septal defect
 sinusitis
+siphon
+Siphosome
 siponimod
 sipuleucel-T
 sirenomelia
@@ -25032,6 +25422,7 @@ sleepwalking
 slipped capital femoral epiphysis
 slipped epiphysis
 Slipping rib syndrome
+slit sensilla
 slit ventricle syndrome
 Slocumb's syndrome
 Slovak studies
@@ -25252,6 +25643,7 @@ solid pattern testicular yolk sac tumor
 Solid pseudopapillary tumour
 solifenacin
 solifenacin succinate
+Solitary chemosensory cells
 Solitary confinement  in psychiatry
 solitary cyst of breast
 solitary fibrous tumor of the pleura
@@ -25272,6 +25664,7 @@ somatoform disorder
 somatology
 Somatopleuric mesenchyme
 somatosalm
+somatosensible cortex
 somatosensory disorder
 somatostatin
 somatostatinoma
@@ -25369,6 +25762,7 @@ speech-language disorder-1
 speech-language pathology
 sperm granuloma
 sperm microcephaly
+Spermatheca
 spermatic cord
 spermatic cord cancer
 spermatic cord torsion
@@ -25435,6 +25829,7 @@ sphenoid sinus squamous cell carcinoma
 sphenoid sinusitis
 sphenoidal emissary foramen
 sphenoidal margin of temporal bone
+sphenoidal sinus
 sphenoidal sinus cancer
 sphenoidal sinus neoplasm
 sphenoorbital meningioma
@@ -25453,6 +25848,7 @@ spider anatomy
 spider angioma
 spider bite
 Spigelian hernia
+Spike
 spike-ferritin nanoparticle vaccine
 spina bifida
 spina bifida cystica
@@ -25588,6 +25984,7 @@ spiruridiasis
 Spitz nevus
 Spitzoid lesion
 splanchnic circulation
+splanchnic nerves
 spleen
 spleen angiosarcoma
 spleen cancer
@@ -25659,6 +26056,7 @@ spongiform encephalopathy with neuropsychiatric features
 spongiology
 spongiotic dermatitis
 spongiotrophoblast layer development
+spongocoel
 Spongy degeneration of the central nervous system
 spongy urethra
 Spontaneous bacterial peritonitis
@@ -25715,6 +26113,7 @@ stable condition keratoconus
 Stafne defect
 stage direction for opera
 staghorn calculus
+stalk
 standardology
 stannosis
 stanozolol
@@ -25868,6 +26267,8 @@ stress polycythemia
 stress-related disorders
 stretch marks
 Stretta procedure
+stria medullaris of thalamus
+stria vascularis
 stria vascularis of cochlear duct of left membranous labyrinth
 stria vascularis of cochlear duct of right membranous labyrinth
 Striae atrophicans
@@ -25932,6 +26333,7 @@ subaortic course of innominate vein
 subarachnoid hemorrhage
 subarachnoid space
 subareolar duct papillomatosis
+subcapsular sinus
 subclavian artery
 subclavian artery aneurysm
 subclavian steal syndrome
@@ -25995,6 +26397,7 @@ Subphrenic abscess
 subpulmonary stenosis
 subscapular artery
 subscapularis muscle
+subsegmental bronchus
 subserous uterine fibroid
 substance abuse
 substance dependence
@@ -26007,6 +26410,7 @@ substantia nigra
 substantia nigra development
 substernal goiter
 subterranean biology
+subthalamic nucleus
 subthalamic nucleus development
 subthalamus
 Subtrochanteric fracture
@@ -26090,6 +26494,7 @@ superficial muscle of neck
 superficial mycosis
 superficial palmar arch
 superficial pemphigus
+superficial perineal nerve
 Superficial pustular folliculitis
 superficial spreading melanoma
 superficial temporal artery
@@ -26121,8 +26526,10 @@ superior rectus muscle
 superior renal segment
 superior sagittal sinus
 superior suprarenal artery
+superior surface of tongue
 superior tarsal muscle
 superior temporal line of parietal bone
+superior thoracic aperture
 superior thyroid artery
 superior vena cava
 superior vena cava angiosarcoma
@@ -26146,6 +26553,7 @@ suppurative uveitis
 supra-orbital notch
 suprachiasmatic nucleus
 supracondylar line of shaft of femur
+supraglenoid tubercle
 supraglottis cancer
 supraglottis neoplasm
 supraglottis squamous cell carcinoma
@@ -26155,12 +26563,14 @@ suprahyoid muscle
 supraoptic nucleus
 Supraorbital artery
 Supraorbital foramen
+suprapineal recess
 suprapubic pain
 suprasellar meningioma
 supraspinatus muscle
 supratentorial cancer
 supratentorial neoplasms
 supratentorial primitive neuroectodermal tumor
+supratentorial region
 supratrochlear artery
 supravalvular aortic stenosis
 supravalvular pulmonary stenosis
@@ -26254,8 +26664,10 @@ symphysis pubis
 symptom
 symptom-depleted schizophrenia
 symptomatology
+synaptic cleft
 synaptic potential
 Synaptopathy
+synarthroidal joint
 synchronous bilateral breast carcinoma
 synchronous multifocal osteogenic sarcoma
 synchysis scintillans
@@ -26310,6 +26722,7 @@ synkinesis
 synostosis
 synovial angioma
 synovial bursa
+synovial cavity
 synovial cavity of acromioclavicular joint
 synovial cavity of ankle joint
 synovial cavity of distal radio-ulnar joint
@@ -26460,6 +26873,7 @@ tafasitamab
 tafenoquine
 tafluprost
 tafoxiparin sodium
+tagmatum
 tagraxofusp-erzs
 Tahyna virus encephalitis
 taijin kyofusho
@@ -26478,6 +26892,7 @@ tall cell variant papillary carcinoma
 tall stature-scoliosis-macrodactyly of the great toes syndrome
 Talmudic studies
 talniflumate
+talon
 talonavicular coalition
 talus
 tamibarotene
@@ -26549,6 +26964,7 @@ teaching methodology
 teaching science
 team science
 tear of meniscus
+teat
 tebentafusp
 teceleukin
 technetium (99mTc) arcitumomab
@@ -26583,6 +26999,7 @@ teeth hard tissue disease
 tegaserod
 teicoplanin
 Tel Hashomer camptodactyly syndrome
+Tela chorioidea
 telangiectasia
 Telangiectasia macularis eruptiva perstans
 telangiectatic glomangioma
@@ -26618,6 +27035,7 @@ temporal lobe
 temporal lobe epilepsy
 temporal lobe neoplasm
 temporal muscle
+temporal pole
 temporomandibular joint
 temporomandibular joint involvement
 temporomandibular joint pathology
@@ -26653,6 +27071,8 @@ tensor fasciae latae muscle
 tensor tympani muscle
 tensor veli palatini muscle
 Tented eyebrows
+tentorial incisure
+tentorium
 tentorium cerebelli
 teprasiran
 teprotumumab
@@ -26673,6 +27093,7 @@ terguride
 teriflunomide
 teriparatide
 terlipressin
+terminal bronchiole
 Terminal complement pathway deficiency
 terminal hair
 terminal ileitis
@@ -26776,6 +27197,7 @@ thalamencephalon
 thalamic disease
 thalamic infarction
 thalamic neoplasm
+Thalamo-cortico-thalamic circuits
 Thalamocortical dysrhythmia
 thalamus
 thalassemia
@@ -26824,6 +27246,7 @@ thick ascending limb of loop of Henle
 Thiel-Behnke corneal dystrophy
 thiethylperazine
 thigh
+thin ascending limb of loop of Henle
 Thin basement membrane disease
 thioguanine hydrate
 thiopental allergy
@@ -26900,6 +27323,7 @@ thymic carcinoma
 thymic dysplasia
 thymic hypoplasia
 thymic lesion
+thymoid
 thymol
 Thymology
 thymoma
@@ -27065,6 +27489,7 @@ toceranib
 tocilizumab
 Todd's paresis
 toe
+toepad
 tofacitinib
 tofisopam
 Togaviridae infectious disease
@@ -27131,6 +27556,7 @@ tooth supporting structure
 tooth wear
 toothache
 toothbrush moustache
+toothcomb
 topical ophthalmic corticosteroid
 topical prednisolone
 topical steroid
@@ -27203,6 +27629,7 @@ toxoplasmosis
 trabectedin
 Trabecula
 trabecular follicular adenocarcinoma
+trabecular meshwork
 trabecular meshwork development
 trabedersen
 trachea
@@ -27219,6 +27646,7 @@ Tracheal agenesis
 tracheal anomaly
 tracheal calcification
 tracheal cancer
+tracheal cartilage
 tracheal collapse
 Tracheal deviation
 tracheal disease
@@ -27318,9 +27746,11 @@ transthyretin amyloidosis
 Transvaginal Cholecystectomy
 transverse band of elbow joint
 transverse colectomy
+transverse colon
 transverse colon cancer
 Transverse facial artery
 transverse foramen
+Transverse humeral ligament
 transverse muscle of the chin
 transverse muscle of tongue
 transverse myelitis
@@ -27342,6 +27772,7 @@ trapezium
 trapezius muscle
 Trapezoid body
 trapezoid bone
+Trapezoid ligament
 trapidil
 trastuzumab
 trastuzumab deruxtecan
@@ -27394,6 +27825,7 @@ TRH test
 trial advocacy
 triamcinolone
 triamterene
+Triangular fibrocartilage
 triazavirin
 triaziquone
 triazolam
@@ -27562,6 +27994,7 @@ tuba performance
 tubal pregnancy
 tubarial glands
 tuber
+tuber cinereum
 tubercle
 tubercle of bone
 tuberculin test
@@ -27615,10 +28048,12 @@ Tums
 tungiasis
 tungustology
 tunica adventitia cell
+tunica adventitia of blood vessel
 Tunica albuginea
 tunica albuginea of ovary
 tunica albuginea of testis
 tunica intima
+tunica media
 Tunnel cluster
 tunnel vision
 Turkology
@@ -27637,6 +28072,8 @@ two-chambered heart
 Tylenol
 tyloxapol
 tymazoline
+tympanic cavity
+tympanic duct
 tympanic membrane disease
 Tympanic membrane retraction
 tympanic notch
@@ -27747,6 +28184,7 @@ Umbilical-urachal sinus
 umbilicus
 umbo of left tympanic membrane
 umbo of right tympanic membrane
+umbo of tympanic membrane
 umbralisib
 umeclidinium
 umeclidinium bromide/vilanterol
@@ -27757,6 +28195,7 @@ uncinate process of first thoracic vertebra
 uncombable hair syndrome
 unconventional ab T cell
 underactive bladder
+underarm hair
 underground ecology
 understanding aphasia
 Undervirilization
@@ -27796,13 +28235,18 @@ Upper airway resistance syndrome
 upper clivus meningioma
 upper crossed syndrome
 upper extremity
+upper eyelid
 upper gastrointestinal bleeding
 upper gastrointestinal series
+upper gastrointestinal tract
 upper gingival squamous cell carcinoma
 upper gum cancer
 upper limb hypertrophy
 Upper limb nerve paralysis
 upper lip cancer
+upper lobe of left lung
+upper lobe of lung
+upper lobe of right lung
 Upper motor neuron syndrome
 upper respiratory burn
 upper respiratory irritation
@@ -27811,6 +28255,7 @@ upper respiratory tract disease
 upper respiratory tract infection
 upper teeth
 upper thoracic spina bifida cystica
+upper urinary tract
 Upper-extremity deep vein thrombosis
 UPS18 deficiency
 Upshaw Schulman Syndrome
@@ -27912,6 +28357,7 @@ urinary bladder small cell neuroendocrine carcinoma
 urinary bladder villous adenoma
 urinary fistula
 urinary incontinence
+urinary meatus
 urinary retention
 urinary schistosomiasis
 urinary system
@@ -27982,6 +28428,7 @@ Usher syndrome type 2D
 Usher syndrome type 3
 Usher syndrome type 3A
 Usher syndrome type 3B
+ushnisha
 ustekinumab
 usual interstitial pneumonia
 Usul al-fiqh
@@ -27991,6 +28438,7 @@ uterine atony
 uterine benign neoplasm
 uterine body mixed cancer
 uterine carcinosarcoma
+Uterine cavity
 uterine cervix condylomata acuminata
 uterine cervix leukoplakia
 uterine cervix neoplasm
@@ -28058,6 +28506,7 @@ uterus perivascular epithelioid cell tumor
 utricle
 utricle of left membranous labyrinth
 utricle of right membranous labyrinth
+utriculosaccular duct
 UV-sensitive syndrome
 uvea
 uveal cancer
@@ -28217,6 +28666,7 @@ vascular stiffness
 vascular surgery
 vascular system injury
 vascular tissue neoplasm
+vasculature
 vasculature development
 vasculature of fifth lumbar vertebra
 vasculature of first lumbar vertebra
@@ -28286,6 +28736,7 @@ venous thromboembolism
 venous thrombosis
 venous tributary occlusion of retina
 venous ulcer
+venous valve
 Ventilation perfusion mismatch
 ventilation pneumonitis
 ventilator-associated lung injury
@@ -28295,6 +28746,7 @@ ventral excitatory spinal cord interneuron
 ventral inhibitory spinal cord interneuron
 ventral otocyst cell
 Ventral posterior nucleus
+ventral shell
 ventral tegmental area
 ventricle
 ventricular dysfunction
@@ -28377,6 +28829,7 @@ Vestibular adenitis
 vestibular aqueduct
 vestibular canaliculus
 vestibular disease
+vestibular duct
 vestibular gland benign neoplasm
 vestibular hair cell
 vestibular nerve
@@ -28389,6 +28842,7 @@ Vestibular schwannoma
 vestibule of left bony labyrinth
 vestibule of mouth cancer
 vestibule of right bony labyrinth
+vestibule of the ear
 vestibulocerebellar syndrome
 vestibulocochlear nerve
 vestibulocochlear nerve disease
@@ -28479,6 +28933,7 @@ visceral heterotaxy
 visceral larva migrans
 visceral leishmaniasis
 visceral muscle development
+visceral pleura
 visceroptosis
 Viscerotropic leishmaniasis
 viscus
@@ -28533,6 +28988,7 @@ vitreous detachment
 vitreous disease
 vitreous hemorrhage
 vitreous humor proper
+vitreous humour
 vitreous membranes and strands
 vitreous syneresis
 Vitreous touch syndrome
@@ -28701,6 +29157,7 @@ water deprivation test
 water intoxication
 water resources engineering and management
 water retention
+water vascular system
 water-clear cell adenoma
 Waterborne diseases
 Waterhouse-Friderichsen syndrome
@@ -28719,6 +29176,7 @@ Webb-Dattani syndrome
 Webbed neck
 Webbed penis
 webbed toes
+Weber's gland
 Weber's syndrome
 wedge shaped vertebra
 Weil's disease
@@ -28731,6 +29189,7 @@ Wende–Bauckus syndrome
 Werdnig–Hoffmann disease
 Werner syndrome
 Wernicke encephalopathy
+Wernicke's area
 Wernicke–Korsakoff syndrome
 West Nile encephalitis
 West Nile fever
@@ -29043,6 +29502,7 @@ zolpidem
 zomepirac
 zona fasciculata
 zona glomerulosa
+Zona incerta
 Zona pellucida
 zona reticularis
 zone of calcaneus
@@ -29055,10 +29515,12 @@ Zone of hook of hamate
 zone of irregular bone
 zone of long bone
 zone of patella
+zone of skin
 zone of stapes
 zone of sternum
 zonisamide
 Zonular cataract and nystagmus
+zonule of Zinn
 zoology
 zoomusicology
 zoonosis

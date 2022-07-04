@@ -1,0 +1,789 @@
+skin
+insect wing
+conjunctiva
+choroid
+uvula
+posterior chamber of eyeball
+endoneurium
+proleg
+spinal canal
+atrioventricular valve
+vagina
+sinoatrial node
+inguinal ligament
+anal verge
+paranasal sinus
+upper extremity
+male reproductive system
+notum
+Purkinje fiber
+ventricle
+Cooper's ligaments
+Musculus longissimus thoracis
+auditory ossicle
+white matter
+Wernicke's area
+Skeleton
+secondary palate
+saccule
+Siphosome
+parietal pleura
+Aortic arches
+posterior parietal cortex
+lymphoid tissue
+right heart
+visceral pleura
+"mature vesicular follicle, antral follicle"
+endocrine gland
+Eustachian tube
+root canal
+fovea centralis
+tuber cinereum
+gut-associated lymphoid tissue
+cochlea
+metatarsal bones
+mucosa-associated lymphoid tissue
+otocyst
+zona fasciculata
+prosoma
+Metapodial
+superior thoracic aperture
+proximal phalanx
+sensory organ
+tympanic duct
+pars plana
+cardiac chamber
+respiratory system
+external orifice of uterus
+internal orifice of uterus
+Minor calyx
+alveolar pore
+human vagina
+valve
+endolymphatic duct
+cancellous bone
+rump
+Skene's gland
+Papez circuit
+corneal stroma
+uvea
+lateral line
+vitreous humour
+rostrum
+Fenestra
+Anal scale
+subthalamic nucleus
+renal cortex
+area praeoptica medialis
+somatosensible cortex
+Bowman's membrane
+labrum
+Adipose fin
+anterior pituitary
+middle phalanx
+Coracoacromial ligament
+Triangular fibrocartilage
+loop of Henle
+macula densa
+Trapezoid ligament
+semi-lunar valve
+tongue
+Uterine cavity
+Brockmann body
+Brodmann area
+ductus venosus
+adrenal medulla
+scolopidium
+utricle
+blood vessel
+Zona incerta
+zona glomerulosa
+Infratemporal fenestra
+zona reticularis
+left heart
+renal pyramid
+hand joint
+terminal bronchiole
+macula of saccule
+intestine
+left ventricle
+blood-air barrier
+sole
+eye
+blowhole
+gill raker
+tubercle
+collecting duct system
+phalanx of finger
+tarsus
+water vascular system
+cochlear duct
+female reproductive system
+endocrine system
+aditus to mastoid antrum
+sex organ
+genitourinary system
+antlers
+olecranon fossa
+crista galli
+breast
+root of the lung
+frontal crest
+lesser wing of sphenoid bone
+Brood pouch
+connecting tubule
+main bronchus
+pericardial cavity
+peritoneal cavity
+thoracic cavity
+papillary muscle
+neural nucleus
+lateral ventricle
+left atrium
+Pinacoderm
+pubic area
+raphe
+Spermatheca
+renal calyx
+saw tooth
+artery system
+os carpi centrale
+precordium
+scutellum
+Insect mouthparts
+neurovascular system
+hilum of lung
+vena cava
+mitral valve
+hinge joint
+Meckel's cartilage
+sensory system
+scalp
+larynx
+frontal sinus
+glomerulus
+lacrimal gland
+renal medulla
+fundus
+labyrinth
+Tela chorioidea
+zonule of Zinn
+interventricular septum
+laryngeal prominence
+underarm hair
+synaptic cleft
+uterus
+Cervix
+Caruncle
+commissural fiber
+camera
+Cloaca
+Central nucleus of the amygdala
+body of lateral ventricle
+Canals of Hering
+conducting zone
+cone of light
+Cenchrus
+ductus reuniens
+Cubital tunnel
+Bulbus glandis
+Choanoderm
+ampullary crest
+coronary sulcus
+Corpuscles of Herbst
+annulus
+sinus venosus
+atrioventricular septum
+lambda
+alveolar duct
+alveolar septum
+anterior horn of lateral ventricle
+anterior interventricular sulcus
+anterior lingual gland
+cupula
+anular ligament of radius
+Atrioventricular canal
+anterior hypothalamic nucleus
+pouch
+renal pelvis
+ovarian follicle
+tunica adventitia of blood vessel
+afferent nerve fiber
+Membrana granulosa
+aedeagus
+auricle
+adrenal cortex
+hair
+ciliary body
+soft palate
+sphenoidal sinus
+facial skeleton
+fourth ventricle
+ileocecal valve
+supraglenoid tubercle
+compartment
+Glisson's capsule
+foramen magnum
+tragus
+reticular activating system
+gluteal sulcus
+inferior olivary nucleus
+lekku
+endolymphatic sac
+filtration slit
+descending limb of loop of Henle
+hepatobiliary system
+mastoid antrum
+Diffuse chemosensory system
+arthropod mandible
+papillary duct
+anterior chamber of the eye
+atrioventricular node
+femoral nerve
+proventriculus
+circular fold
+posterior cranial fossa
+throat
+spongocoel
+calf
+medial collateral ligament
+cerebellar vermis
+frustule
+minor salivary gland
+bulbus
+comb
+greater curvature of the stomach
+subarachnoid space
+anterior segment of eyeball
+lesser curvature of the stomach
+Bacillary band
+lamella
+vestibule of the ear
+body of stomach
+upper respiratory tract
+von Ebner's gland
+cartilage
+atrium
+optic chiasm
+gland
+gizzard
+nasal septum
+arthropod mouthparts
+Prostomium
+Kiesselbach's plexus
+third ventricle
+tentorium
+stinger
+cystic duct
+bronchiole
+middle ear
+outer ear
+Peyer's patch
+distal radioulnar joint
+salience network
+human lung
+Descemet's membrane
+foetus circulation
+Merkel nerve ending
+cerebral lobe
+skull
+Conoid ligament
+insect antenna
+articulatory apparatus
+splanchnic nerves
+lower respiratory tract
+synovial joint
+Transverse humeral ligament
+iridocorneal angle
+thigh
+ganglion
+eyelid
+nephron
+face
+dorsolateral prefrontal cortex
+electrical conduction system of the heart
+visual cortex
+patellar tendon
+ependyma
+neurocranium
+acetabulum
+distal convoluted tubule
+epitympanic recess
+synarthroidal joint
+interphalangeal joint of hand
+proximal tubule
+fossa ovalis
+Otic placode
+chordae tendineae
+optic (nerve) tract
+habenular commissure
+organ of Corti
+cribriform plate
+mesocolon
+nasopharynx
+adenoid
+cerebral hemisphere
+myocardium
+cheek pouch
+ventricular system
+nail
+oviduct
+thorax
+otolith
+spermatic cord
+macula of retina
+tectorial membrane
+Ligament
+Lagena
+maxillary sinus
+lingual papilla
+Knee bursae
+membranous labyrinth
+human abdomen
+Infratentorial region
+Limbal ring
+suprapineal recess
+external globus pallidus
+synovial bursa
+tibiotarsus
+floor of the mouth
+falx cerebri
+tunica intima
+pleopod
+archenteron
+cerebral aqueduct
+vestibular duct
+aortic valve
+elbow
+pharyngeal tooth
+Pneumostome
+lower abdomen
+anal canal
+descending colon
+foregut
+interatrial septum
+ascending colon
+Bowman's capsule
+semicircular canal
+tarsal bones
+central nervous system
+Foramen of Panizza
+egg tooth
+appendicular skeleton
+falciform ligament
+sigmoid colon
+respiratory zone
+colon
+ileocecal fold
+humeroradial joint
+humeroulnar joint
+wing
+common bile duct
+petiole
+adipose eyelid
+Scolex
+gena
+palatine gland
+carotid body
+Schlemm's canal
+posterior pituitary
+mesangium
+segmental bronchus
+thin ascending limb of loop of Henle
+respiratory center
+Solitary chemosensory cells
+pulmonary lobe
+Thalamo-cortico-thalamic circuits
+radial collateral ligament of elbow joint
+slit sensilla
+thick ascending limb of loop of Henle
+stria medullaris of thalamus
+umbo of tympanic membrane
+vestibular aqueduct
+supratentorial region
+Scolopidia
+ulnar collateral ligament of elbow joint
+pulmonary valve
+cardia
+Conus medullaris
+urinary meatus
+tympanic cavity
+tunica media
+Myelomere
+laryngopharynx
+right atrium
+stria vascularis
+cortical bone
+mantle
+epiproct
+juxtaglomerular apparatus
+episternum
+hard palate
+exocrine gland
+trabecular meshwork
+cochlear aqueduct
+foramen cecum
+submandibular gland
+enteric nervous system
+auricular muscle
+cortical collecting duct
+talon
+Härna
+kidney tubule
+frontal pole
+pseudocoelom
+occipital pole
+lower leg
+peripheral nerve
+ushnisha
+Musculus iliocostalis cervicis
+abdominal cavity
+parotid gland
+pecten
+mastoid cell
+optic recess
+perilymphatic duct
+posterior interventricular sulcus
+posterior scrotal nerves
+posterior horn of lateral ventricle
+nidamental gland
+Medial palpebral ligament
+ampulla of semicircular canal
+pars reticulata
+macula of utricle
+mammal tooth
+pars flaccida
+piriform sinus
+otolithic membrane
+pars plicata
+pineal recess
+abdomen
+beak
+Spike
+semicircular duct
+intrahepatic bile duct
+lobar bronchus
+ampulla of semicircular duct
+elbow joint
+venous valve
+gastrointestinal tract
+perineum
+rib cage
+transverse colon
+foot
+shin
+Acidopore
+temporal pole
+pleura
+glans
+metacarpophalangeal joint
+penis funnel
+crystalline style
+Bride (Medizin)
+Campaniform sensilla
+tricuspid valve
+right ventricle
+siphon
+halteres
+cornea
+parathyroid
+oropharynx
+olfactory bulb
+pituitary gland
+rectum
+thymoid
+synovial cavity
+foveal avascular zone
+left bundle branch
+proximal convoluted tubule
+upper urinary tract
+exocrine system
+lower lobe of lung
+right lung lobe
+medullary collecting duct
+proximal straight tubule
+left lung lobe
+middle lobe of lung
+upper lobe of right lung
+bone of hand
+right bundle branch
+anal teeth
+distal tubule
+subsegmental bronchus
+lower lobe of right lung
+upper lobe of lung
+middle lobe of right lung
+upper lobe of left lung
+leg
+thymus
+humerus
+islet of Langerhans
+Danger triangle of the face
+fifth metacarpal bone
+respiratory tract
+respiratory bronchiole
+Dua's layer
+carpometacarpal joint
+cecum
+cortex parahippocampalis
+Inferior thoracic aperture
+tooth supporting structure
+dental alveolus
+toothcomb
+Cementoenamel junction
+limbic system
+anal shell
+Mammary alveolus
+costal shell
+Colulus
+Cryptostoma
+macula
+abdominal shell
+pectoral shell
+free upper limb
+empodium
+Brachidium
+humeral shell
+ventral shell
+Henry's pocket
+gular shell
+utriculosaccular duct
+femoral shell
+marginal shell
+nuchal shell
+nose-leaf
+Weber's gland
+proximal interphalangeal joint of finger
+intergular shell
+Diplostigmaty
+scrotum
+ulna
+Anterior commissure
+infundibular recess
+ligament of elbow joint
+arm bone
+wrist joint
+lateral habenular nucleus
+medial habenular nucleus
+middle phalanx of toe
+proximal phalanx of toe
+lower lobe of left lung
+hip joint
+middle phalanx of finger
+proximal phalanx of finger
+distal phalanx of toe
+radiocarpal joint
+distal phalanx of finger
+distal interphalangeal joint of finger
+urinary system
+tonsil
+salivary gland
+gnathosoma
+tendon
+iris
+pelvis
+denticle
+proximal radioulnar joint
+sublingual gland
+belly cord
+autonomic nervous system
+phalanx of the foot
+retina
+nipple
+claw
+seminal vesicula
+exocrine pancreas
+female urethra
+long head of biceps femoris muscle
+human visual cortex
+maxillary gland
+collarette
+metastoma
+pupillary zone
+ciliary zone
+aquiferous system
+Kölliker’s organ
+hair follicle matrix region
+medial prefrontal cortex
+distal airway
+proximal airways
+brain cortex
+ambiguous genitalia
+cartilaginous endplate
+cystid
+head and neck
+prostate/seminal vesicles
+lower body of stomach
+globus pallidus externus
+biliary system
+anterior fibromuscular stroma of prostate
+cartilage of bronchus
+male urethra
+annulus fibrosus
+stalk
+lateral collateral ligament
+mammal horn
+elytron
+parabrachial pigmented nucleus
+larval abdomen
+hepatic portal venule
+alveolar arch of maxilla
+endocrine pancreas
+extrahepatic bile duct
+mouse retina
+interfollicular epidermis
+toepad
+vasculature
+tagmatum
+tubarial glands
+accessory nidamental gland
+cartilaginous ridge
+body of tongue
+paranotum
+iris root
+superficial perineal nerve
+bile ductule
+pulmonary alveolus
+central canal of spinal cord
+hip
+sclera
+gustatory papilla
+anterior semicircular duct
+lateral membranous ampulla
+lateral semicircular duct
+anterior bony ampulla
+lateral semicircular canal
+posterior semicircular duct
+jejunal mucosa
+otolith organ
+lateral bony ampulla
+posterior bony ampulla
+epithelium of esophagus
+filiform papilla
+lingual gland
+pars tensa
+buccal gland
+major salivary gland
+molar gland
+anterior membranous ampulla
+posterior membranous ampulla
+posterior semicircular canal
+auricular cartilage
+foliate papilla
+fungiform papilla
+vallate papilla
+anterior semicircular canal
+optic disc
+tentorial incisure
+lumbar fossa
+parafovea
+Peristomium
+Posterior cardinal vein
+left lung
+peltidium
+Sebaceous filament
+inferior horn of lateral ventricle
+bundle branch
+foveola
+body of femur
+front side of the neck
+habenular nucleus
+internal globus pallidus
+Lateral horn of insect brain
+labial gland
+bikini line
+torso
+corpus callosum
+forearm
+carpal bone
+hypothalamus
+palate
+set of teeth
+Primitive streak
+sweat gland
+bony labyrinth
+ethmoid sinus
+peripheral nervous system
+pharynx
+sympathetic nervous system
+parasympathetic nervous system
+brain stem
+erogenous zone
+heart valve
+antenna
+swim bladder
+teat
+pupil
+parapodium
+renal capsule
+glomerular basement membrane
+sebaceous gland
+inner ear
+eardrum
+epidermis
+gonad
+subcapsular sinus
+cervix epithelium
+corpus epididymis
+superior surface of tongue
+upper eyelid
+caput epididymis
+conjunctival fornix
+digastric muscle group
+cardiac septum
+scleral stroma
+mediastinal pleura
+malleolus
+costal pleura
+pleural sac
+left colon
+myocardium of ventricle
+lower eyelid
+upper gastrointestinal tract
+reproductive structure
+pyloric part
+metanephric glomerulus
+sexually immature organism
+bulbar conjunctiva
+ileocecal junction
+bronchial epithelial cell
+layer of synovial tissue
+saphenous vein
+zone of skin
+palpebral conjunctiva
+lower gastrointestinal tract
+muscle of leg
+metacarpal bones
+notochord
+Hippocampal commissure
+pars intercerebralis
+right coronary sulcus
+pteralia
+intralobular bile duct
+Flagellum
+Dorsal tegmental nucleus
+crura
+Pedicel
+diaphragmatic pleura
+inferior renal segment
+renal segment
+outer renal medulla
+outer stripe of outer renal medulla
+Saphenofemoral junction
+anterior inferior renal segment
+Scape
+elephant's trunk
+Blood-Spinal Cord Barrier
+prepuce
+superior renal segment
+Lateral cervical nucleus
+metatarsus
+tracheal cartilage
+pleural cupula
+inner stripe of outer renal medulla
+hepatic lobule
+posterior renal segment
+left coronary sulcus
+inner renal medulla
+anterior superior renal segment
+Buccinator crest

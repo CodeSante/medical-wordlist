@@ -1,0 +1,6 @@
+SELECT ?altLabel
+{
+ VALUES (?wd) {(wd:Q111140)}
+ ?wd skos:altLabel ?altLabel .
+ FILTER (lang(?altLabel) = "fr")
+}
