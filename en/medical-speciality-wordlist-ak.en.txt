@@ -1,0 +1,213 @@
+Pathology
+Interventional Radiology
+cardiovascular medicine
+Geriatrics
+geriatric medicine
+medical gerontology
+agred health care
+Internal medicine
+general medicine
+Medicine (General)
+dental medicine
+dentista
+oral medicine
+SLP
+logopedics
+speech and language therapy
+speech pathology
+speech-language therapy
+surgical procedure
+Surgery
+OB/GYN
+OBG
+OB-GYN
+obstetrics and gynecology
+Neuro
+neuromedicine
+allergy and immunology
+urogynaecology
+child neurology
+paediatric neurology
+neuropediatrics
+podiatric medicine
+orthopaedic
+orthopaedics
+Orthopedic surgery
+orthopedics
+Immunooncology
+REI
+Endovascular neurosurgery
+Endovascular surgical neuroradiology
+Interventional neurology
+Neurointerventional surgery
+obstetrics
+maieutics
+maternity care
+pediatric gynecology
+cardio-oncology
+cardiovascular oncology
+"Pharmacology, Clinical"
+combat casualty care
+field surgery
+nutrology
+phthisiatry
+tuberculosis research
+physiatry
+Physical and Rehabilitation Medicine
+PM&R
+rehabilitation medicine
+Emergency medicine
+accident and emergency medicine
+emergency care
+Gynecologic Surgical Procedure
+Gynecologic Surgical Procedures
+Gynecological surgery
+cardiothoracic surgery
+thoracosurgery
+pædiatrics
+pediatric medicine
+Therapeutics
+eye medicine
+eye care
+opthalmology
+"Surgery, Plastic"
+brain surgery
+neurological surgery
+ENT
+RT
+XRT
+radiotherapy
+RTx
+public health entomology
+veterinary entomology
+naval medicine
+aerospace medicine
+flight medicine
+cancer genetics
+family practice
+semiology
+medical semiology
+symptomology
+oncologic surgery
+oncological surgery
+medical virology
+dental medicine
+oral and maxillofacial medicine
+Hematology
+haematology
+Urology
+paediatric medicine
+paediatrics
+clinical microbiology
+psychiatric symptomatology
+CREM
+CrEM
+"Pathology, Oral"
+algiatry
+burns surgery
+reconstructive burn surgery
+spinal surgery
+"ear, nose, and throat diseases"
+ENT diseases
+oto-rhino-laryngology
+otolaryngology-head and neck surgery
+otorhinolaryngology
+pneumonology
+pulmonary medicine
+respiratory medicine
+respirology
+medical radiology
+orthopaedics
+senology
+psychosomatics
+medical biology
+clinical analysis
+laboratory medicine
+oral surgery
+IR
+"Radiology, Interventional"
+vascular and interventional radiology
+VIR
+legal medicine
+veterinary science
+veterinary sciences
+veterinary studies
+Dermatology
+Hand foot and mouth
+"surgery, oral"
+maxillofacial and oral surgery
+vascular medicine
+O82.2
+MFM
+Maternal–fetal medicine
+perinatology
+stomatology
+Vertebrology
+hebiatrics
+Correctional medicine
+tocology
+oncologic plastic surgery
+PHEM
+clinical oncology
+traumatology
+taurine surgery
+surgery
+Bullfighting Surgery
+taurotraumatology
+clinical microbiology
+microbiology and parasitology
+anaesthesia
+anaesthetics
+anesthesiology
+algology
+pain relief
+work medicine
+ICM
+cardiac surgical procedures
+cardiovascular surgery
+heart surgery
+Refractive Surgical Procedures
+Tauro-Traumatology
+keraunopathy
+neurocritical care
+critical care
+critical care medicine
+intensive care
+anatomic pathology
+Ophthalmologic Surgical Procedure
+Ophthalmologic Surgical Procedures
+infectiology
+infectious disease medicine
+infectious medicine
+Sports medicine
+SEM
+sport and exercise medicine
+sport medicine
+study of diseases
+study of disorders
+study of illnesses
+neonatal
+neonatal medicine
+emporiatrics
+Allergology
+regenerative therapy
+"Genetics, Medical"
+pathological physiology
+physiopathology
+gynecology
+dietology
+science of nutrition
+planned parenthood
+planning of family
+transfusiology
+proctology
+Infectious Disease Epidemiology
+undersea and hyperbaric medicine
+paediatric surgery
+bariatrics
+antenatal surgery
+fetal reconstructive surgery
+prenatal surgery
+Vascular Surgical Procedure
+Vascular Surgical Procedures
+phoniatry

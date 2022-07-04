@@ -1,0 +1,172 @@
+dentisterie
+médecine bucco-dentaire
+médecine dentaire
+gynecologie obstetrique
+orthophonie
+Chirurgie fonctionnelle
+Chirurgie générale
+médecine de prévention
+medecine sociale
+médecine Sociale
+Neuro
+Neurologique
+Neurologiques
+Neurologiste
+immunobiologie
+immunologique
+Phlebologie
+Phlébologue
+médecine physique et réadaptation
+physiatrie
+urgence
+Chirurgie cardiaque pediatrique
+Chirurgie Cardiaque Pédiatrique
+Chirurgie gynecologique
+Chirurgie Gynécologique
+Chirurgie Thoracique
+Pneumochirurgie
+pharmacologique
+ophtalmologique
+ophthalmologie
+roentgenologie
+podiatrie
+chirurgie orthopédique et traumatologie
+AMP
+Assistance médicale à la procréation (AMP)
+hématologie biologique
+NRI
+obstétrique
+Psychiatrie périnatalité (mère # bébé)
+Cancerologie
+Cancérologie
+Cancérologie oncologie
+carcinologie
+Oncogenèse
+Oncologique
+"endocrinologie, diabétologie, métabolisme et nutrition"
+endocrino
+medecine veterinaire
+Cutanée
+Dermato
+Maladies de la peau
+Maladies de peau
+Signes cutanés
+Symptôme dermatologique
+Symptômes Dermatologiques
+Nephrologie
+Entomologie medicale
+Entomologie Médicale
+Immunologie Clinique
+Chirurgie Orthognathique
+La chirurgie orthognathique
+Medecine comportementale
+Médecine Comportementale
+medecine esthetique
+Médecine navale
+La médecine prédictive
+Medecine predictive
+Médecine Prédictive
+Medecine equine
+Médecine Équine
+pathologie rénale
+Oncogenetique
+oncologie génétique
+interruption de grossesse (IVG/IMG) orthogénie
+Semiologie medicale
+symptomatologie
+virologie medicale
+hématologie biologique
+hématopathologie
+chirurgie urologique (urologie)
+gastro-entérologie et hépatologie
+hépato-gastro-entérologie
+cardiologie gériatrique
+taurotraumatologie
+Taureau traumatologie
+Chirurgie Taurine
+oto-rhino-laryngologie
+chirurgie reconstructrice
+chirurgie esthétique
+cancérologie hématologique
+onco-hématologie
+oncologie hématologique
+chirurgie pédiatrique viscérale
+neuroradiologie diagnostique et fonctionnelle
+symptomatologie psychiatrique
+cardiochirurgie
+Chirurgie cardiaque et gros vaisseaux
+Chirurgie cardiovasculaire
+Forensic medicine
+Forensics
+Forensique
+Legal Medicine
+medico-legal
+sénologie
+Psychosomatique psychanalytique
+Analyse médicale
+Analyses médicales
+Biologie medicale
+médecine de laboratoire
+Pathologie clinique
+chirurgie réparatrice
+neurochirurgical
+ORL
+angéiologie
+médecine vasculaire
+"médecine vasculaire (angiologie, phlébologie)"
+Ablation de l'utérus
+Hysterectomie
+médecine périnatale
+périnatologie
+anesthésie
+Anesthesie-reanimation
+Anesthésiologie
+Anesthésiologie-réanimation
+Algologie
+prise en charge de la douleur
+service de réanimation
+USIC
+Medecine nucleaire
+chirurgie orthopédique
+chirurgie osseuse
+orthopedie
+orthopédique
+Antirhumatismal
+Antirhumatismale
+Maladies rhumatismales
+Rhumatismal
+Rhumatismes
+Médecine de la fertilité
+traumatisme physique
+traumatismes physiques
+Radiologie Interventionnelle
+soins intensifs
+urgences
+USIN
+ana-path.
+anatomie-pathologique
+chirurgie viscérale et digestive
+Chirurgie Oculaire
+alcoologie
+Chirurgie digestive
+pathophysiologie
+physiologie pathologique
+Examen gynécologique
+Gynecologie
+Gynécologique
+Gynécologiques
+planning familial
+planning familiale
+Medecine du sport
+Médecine sportive
+nosologique
+néonatal
+neonatalogie
+neonatologie
+néonatologie
+Chirurgie générale
+Proctologue
+chirurgie infantile
+chirurgie pediatrique
+"chirurgie des vaisseaux, artères et veines"
+Phoniatre

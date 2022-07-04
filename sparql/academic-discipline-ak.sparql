@@ -1,0 +1,6 @@
+SELECT DISTINCT ?label WHERE {
+  ?keyword wdt:P31 wd:Q11862829 .
+  ?keyword skos:altLabel ?altLabel .
+  FILTER (lang(?altLabel) = "fr")
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr". }
+}
