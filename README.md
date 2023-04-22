@@ -25,6 +25,8 @@ We appreciate any contributions to this project.
 
 The generate-wordlist-txt.sh command allows you to assemble multiple files containing keyword lists for spell checking from a specific language folder (en, fr, uk). It then sorts the keywords alphabetically and removes all duplicate keywords. The final result is a single file containing all the sorted and unique keywords. This command is useful for consolidating multiple sources of keywords into a single list for use as a reference in spelling correction processes.
 
+The launcher-sparql-query.py script executes a SPARQL query on Wikidata Query Service and saves the results to a file. The user provides the path to the file containing the SPARQL query as well as the path to the file where the results will be saved. The script reads the query from the input file, sends it to Wikidata Query Service, and retrieves the results in JSON format. If the query is successful, the script extracts the desired data from the JSON results and writes it to the output file. If there is an error, the script prints an error message along with the response code.
+
 ## License
 
 This project is licensed under the Do What The F*ck You Want To Public License.
