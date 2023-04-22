@@ -5,9 +5,9 @@ Medical wordlists in English, French, and Ukrainian languages, which can be used
 ## Getting Started
 
 You can find all medical words by language in the following files:
-- fr/wordlist.fr.txt
-- en/wordlist.en.txt
-- uk/wordlist.uk.txt
+- fr/wordlist.fr.txt : 20622 words
+- en/wordlist.en.txt : 164450 words
+- uk/wordlist.uk.txt : 4687
 
 To contribute and add more medical keywords, you can make a merge request.
 
