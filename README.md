@@ -1,6 +1,6 @@
 # Medical Wordlist
 
-Medical wordlists in English, French, and Ukrainian languages, which can be used for spell checking. This project is based on Wikidata and a collection of SPARQL requests using Wikidata Query Service.
+Medical wordlists in English, French, and Ukrainian languages, which can be used for spell checking. This project is based on collection of SPARQL requests using Wikidata Query Service.
 
 ## Getting Started
 
