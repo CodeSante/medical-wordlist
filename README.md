@@ -21,7 +21,7 @@ Contributions are welcome to advance this project and create a comprehensive tax
 
 We appreciate any contributions to this project.
 
-## Script
+## Scripts
 
 The **generate-wordlist-txt.sh** command allows you to assemble multiple files containing keyword lists for spell checking from a specific language folder (en, fr, uk). It then sorts the keywords alphabetically and removes all duplicate keywords. The final result is a single file containing all the sorted and unique keywords. This command is useful for consolidating multiple sources of keywords into a single list for use as a reference in spelling correction processes.
 
