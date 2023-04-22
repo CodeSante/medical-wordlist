@@ -36,7 +36,6 @@ The output files will be generated in the current directory.
 
 ## ⚠️  Project in progress
 
-- SPARQL queries must be reworked
 - SPARQL queries are not yet compliant, the most important is in the wordlist.en.txt file, the goal is not to classify by word types but by SPARQL queries.
 - This project does not come from the medical world
 - The keywords are all in lower case
