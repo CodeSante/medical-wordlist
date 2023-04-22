@@ -1,0 +1,31 @@
+patient
+medication
+prescription
+consultation
+sampling
+hospitalization
+rehabilitation
+prescription
+follow-up
+medical history
+problem
+cardiac
+arterial
+blood test
+care
+antibiotics
+surgical
+therapy
+background treatment
+blood pressure
+cholesterol
+drug treatment
+inflammatory
+cardiovascular diseases
+anticoagulants
+medical
+family history
+palliative care
+alcohol consumption
+rehabilitation
+respiratory system
