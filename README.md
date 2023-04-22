@@ -32,3 +32,4 @@ This project is licensed under the Do What The F*ck You Want To Public License.
 ## Acknowledgments
 
 - [Wikidata Query Service](https://query.wikidata.org)
+- [glutanimate/wordlist-medicalterms-en](https://github.com/glutanimate/wordlist-medicalterms-en)
