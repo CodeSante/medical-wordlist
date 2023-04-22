@@ -1,0 +1,239 @@
+ELISA
+polymerase chain reaction
+biopsy
+electromyography
+histology
+neuroimaging
+immunofluorescence microscopy
+Lachman test
+computed tomography
+urea breath test
+medical history
+spirometry
+laparoscopy
+arterial blood gas analysis
+endoscopic retrograde cholangiopancreatography
+Tourniquet test
+cell culture
+Gram staining
+endoscopy
+positron emission tomography
+observation
+nuchal scan
+lumbar puncture
+echocardiogram
+dyscalculia
+questionnaire
+X-ray
+eye examination
+medical ultrasonography
+physical examination
+western blot
+electrocardiography
+neutralization
+pelvic examination
+immunoassay
+autopsy
+radiography
+bronchoscopy
+liver biopsy
+Ishihara Test
+immunoglobulin M
+serology
+hematology
+Kallikrein related peptidase 3
+Interleukin 2
+agglutination
+genetic testing
+phenotype
+Diascopy
+virtual colonoscopy
+electron microscope
+angiography
+Finkelstein's test
+percutaneous transhepatic cholangiography
+C-reactive protein
+transforming growth factor
+dual-energy X-ray absorptiometry
+medical diagnosis
+interview
+electroencephalography
+ophthalmoscopy
+colonoscopy
+differential diagnosis
+urinalysis
+reverse transcription polymerase chain reaction
+magnetic resonance imaging
+real-time polymerase chain reaction
+single-photon emission computed tomography
+psychological test
+radioimmunoassay
+symptom
+blotting
+tandem mass spectrometry
+blood film
+chromatography
+complete blood count
+blood culture
+blood test
+immunohistochemistry
+functional magnetic resonance imaging
+complement fixation test
+magnetic resonance angiography
+temperature measurement
+optical microscope
+medical imaging
+esophagogastroduodenoscopy
+histopathology
+CURB-65
+sigmoidoscopy
+microscopy
+ocular tonometry
+microbiological culture
+chest radiograph
+screening
+Giemsa stain
+liver function tests
+red blood cell distribution width
+Elek's test
+FTA-ABS
+personality test
+gonioscopy
+Venereal Disease Research Laboratory test
+semen analysis
+thoracoscopy
+Sweat test
+Lower gastrointestinal series
+MammaPrint
+muscle biopsy
+myocardial perfusion imaging
+tilt table test
+sequencing
+histological procedure
+magnetic resonance cholangiopancreatography
+Oncotype DX
+Widal test
+Head impulse test
+transesophageal echocardiography
+Brain biopsy
+neurological examination
+Wassermann test
+Dix–Hallpike test
+pulmonary function test
+bone marrow examination
+hydrogen breath test
+stool test
+Addis count
+Swinging-flashlight test
+Intracranial pressure monitoring
+laryngoscopy
+VDSI
+projectional radiography
+Centor criteria
+electroencephalogram
+Tuberculosis diagnosis
+bilirubinuria
+medical radiography
+medical test
+obstetric ultrasonography
+Nasogastric intubation
+viral culture
+digestive system examination
+bone marrow differential
+Dilated fundus examination
+Blood lead level
+stress echocardiography
+Power Doppler
+rectoscopy
+electrolyte panel
+Rapid urease test
+Sabin–Feldman dye test
+rapid diagnostic test
+serotyping
+Hemagglutination assay
+lipid profile
+Koplik's spots
+rapid strep test
+sputum culture
+upper gastrointestinal series
+sleep study
+transthoracic echocardiography
+Schumm test
+SAD PERSONS scale
+Urine organic acids
+visual field test
+passive hemagglutination test
+radionuclide cisternogram
+Ascoli's test
+tuberculin test
+Vividness of Visual Imagery Questionnaire
+Fecal fat test
+glucose test
+Peripheral vascular examination
+Gross examination
+Czermak-Hering test
+Hypertrophic cardiomyopathy screening
+newborn bilirubin level
+Mentzer index
+Rapid plasma reagin
+Exploratory surgery
+fecal pH test
+lung biopsy
+Direct fluorescent antibody
+Iron tests
+Mallein test
+prostate cancer screening
+exercise electrocardiography
+microbial sensitivity test
+optical microscopy
+Coronary computed tomography angiography
+neurological diagnostic techniques
+cardiovascular magnetic resonance
+Reverse Transcription Loop-mediated Isothermal Amplification
+RAS test
+Lupus band test
+PRNT
+Interleukin 4
+Nardi test
+Vaginal ultrasonography
+Pain Catastrophizing Scale
+PDQ39 questionnaire
+computerized tomography-myelography
+Urine test
+24-hour urine volume
+CDC-1994
+Holmes criteria
+cytological procedure
+X-ray of hip dysplasia
+tumor necrosis factor d1
+color perception test
+Tularin
+blood platelet count
+encefalography
+rapid antigen test
+Van Herick technique
+serum creatine kinase level
+Tokuhashi score
+aberrometry
+agglutination test
+Davidson Trauma Scale
+Structured Clinical Interview for DSM-IV®︎ Dissociative Disorders (SCID-D-R)
+ROSIER scale
+Stop-Bang questionnaire
+Salzburg EEG criteria
+heart rate determination
+serologic test
+throat swab
+probe-to-bone test
+Simpsom grade
+potassium concentration measurement
+Awaji Criteria
+Orpington Prognostic Scale
+Palmini classification
+creatine kinase measurement
+COVID-19 rapid antigen test
+Borden classification
+Koos grading system
+Galassi classification
+NEECHAM Confusion Scale
+chest CT
