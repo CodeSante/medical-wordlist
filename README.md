@@ -9,6 +9,8 @@ You can find all medical words by language in the following files:
 - en/wordlist.en.txt : 171696 words
 - ua/wordlist.ua.txt : 5187 words
 
+By example, **fr/anatomical-structure.fr.txt** french wordlist is the result of **sparql/fr/anatomical-structure.fr.sparql** with **Wikidata Query Service**.
+
 To contribute and add more medical keywords, you can make a merge request.
 
 ## Contributions
