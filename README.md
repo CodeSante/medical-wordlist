@@ -37,7 +37,7 @@ The output files will be generated in the current directory.
 ## ⚠️  Project in progress
 
 - SPARQL queries must be reworked
-- This project does not come from a collaboration with the medical world
+- This project does not come from the medical world
 - The keywords are all in lower case
 
 ## License
