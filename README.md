@@ -27,7 +27,7 @@ The **generate-wordlist-txt.sh** command allows you to assemble multiple files c
 
 The **launcher-sparql-query.py** script executes a SPARQL query on Wikidata Query Service and saves the results to a file. The user provides the path to the file containing the SPARQL query as well as the path to the file where the results will be saved. The script reads the query from the input file, sends it to Wikidata Query Service, and retrieves the results in JSON format. If the query is successful, the script extracts the desired data from the JSON results and writes it to the output file. If there is an error, the script prints an error message along with the response code.
 
-The **update-sparql-query.sh** script takes a command-line argument -d to specify the directory containing all the SPARQL queries to be executed. The script generates the output files with a .txt extension. For example, to execute the script on SPARQL queries located in the sparql/fr directory, run the command :
+The **update-sparql-query.sh** script takes a command-line argument -d to specify the directory containing all the SPARQL queries to be executed. The script generates the output files with a .txt extension using _launcher-sparql-query.py_ script. For example, to execute the script on SPARQL queries located in the sparql/fr directory, run the command :
 
 ```bash
 bash update-sparql-directory.sh -d sparql/fr
