@@ -1,0 +1,6 @@
+SELECT ?label WHERE {
+  ?keyword wdt:P279 ?subclass .
+  ?subclass wdt:P927 ?part .
+  ?keyword rdfs:label ?label FILTER (lang(?label) = "uk") .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],uk". }
+}

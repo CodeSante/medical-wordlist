@@ -1,0 +1,5 @@
+SELECT ?label WHERE {
+  ?keyword wdt:P1995 ?ok .
+  ?keyword rdfs:label ?label FILTER (lang(?label) = "fr") .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr". }
+}

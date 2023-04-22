@@ -1,0 +1,5 @@
+SELECT DISTINCT ?label WHERE {
+  ?sim wdt:P31 wd:Q4936952 .
+  ?sim rdfs:label ?label FILTER (lang(?label) = "en") .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

@@ -1,0 +1,5 @@
+SELECT ?altLabel WHERE {
+  ?keyword wdt:P279 wd:Q11190 .
+  ?keyword skos:altLabel ?altLabel
+  FILTER (lang(?altLabel) = "en")
+}
