@@ -32,7 +32,7 @@ The **update-sparql-query.sh** script takes a command-line argument -d to specif
 ```bash
 bash update-sparql-directory.sh -d sparql/fr
 ```
-The output files will be generated in the current directory and will have the .txt extension.
+The output files will be generated in the current directory.
 
 ## License
 
