@@ -1,72 +1,72 @@
-Électromyogramme
-biopsie
-imagerie cérébrale
 histologie
+biopsie
+Électromyogramme
+imagerie cérébrale
 test respiratoire à l'urée marquée
 anamnèse
 immunofluorescence
-tomodensitométrie
 méthode immuno-enzymatique ELISA
-cœlioscopie
+tomodensitométrie
+réaction en chaîne par polymérase
+tomographie par émission de positons
+culture cellulaire
+coloration de Gram
+observation
 gaz du sang artériel
 cholangiopancréatographie rétrograde endoscopique
 Test du tourniquet
-réaction en chaîne par polymérase
-culture cellulaire
-coloration de Gram
-spirométrie
-tomographie par émission de positons
-ponction lombaire
+cœlioscopie
 endoscopie
-clarté nucale
-observation
-échographie
 échocardiographie
+spirométrie
+échographie
+ponction lombaire
+neutralisation
+clarté nucale
+bronchoscopie
+radiographie
+rayon X
+autopsie
+dyscalculie
+questionnaire
 toucher vaginal
 examen ophtalmologique
 test immunologique
-dyscalculie
-questionnaire
-Western blot
-bronchoscopie
-autopsie
-examen clinique
-hématologie
-radiographie
-coloscanner
-vitropression
-rayon X
-neutralisation
-biopsie du foie
+analyse génétique
 Test d'Ishihara
 Immunoglobuline M
 électrocardiographie
-analyse génétique
-imagerie par résonance magnétique
+Western blot
+biopsie du foie
+examen clinique
+hématologie
 microscope électronique
-Antigène prostatique spécifique
-agglutination
-interleukine 2
-sérologie
 angiographie
 Cholangiographie transhépatique percutanée
 ostéodensitométrie
+Antigène prostatique spécifique
+agglutination
+interleukine 2
 facteur de croissance de transformation
 protéine C réactive
+imagerie par résonance magnétique
+diagnostic médical
+phénotype
+sérologie
+coloscanner
+vitropression
 électroencéphalographie
 interview
-phénotype
-diagnostic médical
-ophtalmoscopie
-chromatographie
 symptôme
+chromatographie
+ophtalmoscopie
 coloscopie
 diagnostic différentiel
 analyse d'urine
 Tomographie d'émission monophotonique
+test psychologique
 Dosages radio-immunologiques
 PCR quantitative
-test psychologique
 spectrométrie de masse en tandem
 Transfert
 frottis sanguin
@@ -111,12 +111,12 @@ séquençage
 manœuvre de Dix-Hallpike
 ponction de moelle osseuse
 exploration fonctionnelle respiratoire
+test à l'hydrogène expiré
+examen des selles
 compte d'Addis
 laryngoscopie
 VDSI
 mesure de la pression intracrânienne
-test à l'hydrogène expiré
-examen des selles
 examen médical
 échographie obstétricale
 Sondage naso-gastrique
@@ -134,12 +134,12 @@ test rapide à l'uréase
 Sérogroupage
 test de diagnostic rapide
 test d'hémagglutination
+culture virale
 score de Centor
 éléctro-encéphalogramme
 diagnostic de la tuberculose
 bilirubinurie
 radiographie médicale
-culture virale
 dosage des graisses fécales
 analyse de la glycémie
 examen vasculaire périphérique
@@ -152,9 +152,6 @@ pH des selles
 biopsie pulmonaire
 bilan martial
 dépistage du cancer de la prostate
-périmétrie
-cisternographie isotopique
-test tuberculinique
 test de diagnostic rapide des angines
 culture des expectorations
 examen du sommeil
@@ -162,23 +159,26 @@ test rapide de la réagine plasmatique
 test de Schumm
 Échelle SAD PERSONS
 dosage des acides organiques urinaires
-examen de l'urine
-volume urinaire par 24h
+périmétrie
+cisternographie isotopique
+test tuberculinique
+test de vision des  couleurs
 test de la bande lupique
 IL4
 PRNT
-aberrométrie
-évaluation de la fréquence cardiaque
-sérodiagnostic
-frottis de la  gorge
-test de dépistage rapide de la Covid-19
+examen de l'urine
+volume urinaire par 24h
 examen cytologique
 radiographie d'une luxation congénitale de la hanche
 Facteur de nécrose tumorale
-test de vision des  couleurs
 intradermoréaction à la tularine
 numération plaquettaire sanguine
 encéphalographie
 test rapide d'antigène
 signe de Van Herick
 créatine kinase sanguine
+aberrométrie
+évaluation de la fréquence cardiaque
+sérodiagnostic
+frottis de la  gorge
+test de dépistage rapide de la Covid-19

@@ -1,14 +1,18 @@
 pathologie
 addiction
-maladie
 symptôme
+maladie
 traumatisme
 iatrogénèse
+nécrose
 penis captivus
 difformité
 hyperpigmentation
 insuffisance d'organe
-nécrose
+lésion toxique
+Cornage
+exposition à l'amiante
+vulve de la cycliste
 rétention
 effusion
 anomalie du développement
@@ -16,7 +20,3 @@ boiterie
 mérycisme
 avortement tardif
 cachexie
-lésion toxique
-Cornage
-exposition à l'amiante
-vulve de la cycliste

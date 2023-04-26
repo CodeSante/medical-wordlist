@@ -1,4 +1,4 @@
-psychiatrie
+pathologie
 toxicologie
 médecine palliative
 alcoologie
@@ -8,6 +8,9 @@ traumatologie pédiatrique
 urologie pédiatrique
 Neurophysiologie clinique
 médecine préventive
+pharmacologie clinique
+vénérologie
+laryngologie
 neuroréanimation
 ophtalmologie pédiatrique
 pathologie pédiatrique
@@ -16,14 +19,51 @@ santé du travail
 urogynécologie
 médecin de santé publique
 parasitologie médicale
-pathologie
-oncologie pédiatrique
-pharmacologie clinique
-vénérologie
-laryngologie
-immunopathologie
-Agada
-médecine d'urgence
+röntgenologie
+oncologie moléculaire
+neurologie pédiatrique
+dermatovénérologie
+médecine podiatrique
+oncologie clinique
+chirurgie cardiaque pédiatrique
+chirurgie du pied et de la cheville
+chirurgie gynécologique
+chirurgie thoracique
+essure
+entomologie médicale
+médecine sexuelle
+traumatologie sportive
+strabologie
+nutrition clinique
+gérodontologie
+phlébologie
+neuroimmunologie
+chirurgie vétérinaire
+mycologie médicale
+chirurgie transluminale endoscopique par les voies naturelles
+médecine des champs de bataille
+chirurgie orale
+médecine sociale
+phtisiologie
+médecine physique et de réadaptation
+neuropsychiatrie
+odontologie
+psychiatrie
+immunologie clinique
+Chirurgie orthognathique
+médecine comportementale
+médecine esthétique
+médecine maritime
+médecine prédictive
+médecine aéronautique
+gériatrie
+médecine interne
+électromédecine
+médecine familiale et communautaire
+médecine judiciaire
+médecine publique (concept italien)
+médecine de l'adolescent
+chirurgie
 médecine clinique
 gynécologie pédiatrique
 neurochirurgie pédiatrique
@@ -37,108 +77,20 @@ microbiologie clinique
 Traumatologie gériatrique
 sémiologie psychiatrique
 addictologie  médicale
-chirurgie
-électromédecine
-médecine familiale et communautaire
-médecine judiciaire
-médecine publique (concept italien)
-médecine de l'adolescent
-radiologie
-ophtalmologie
-oncologie
-néphrologie
 cardiologie
-immunologie
-gynécologie obstétrique
-neurologie
-neurochirurgie
-pédiatrie
-immunologie clinique
-Chirurgie orthognathique
-médecine comportementale
-médecine esthétique
-médecine maritime
-médecine prédictive
-médecine aéronautique
-chirurgie cardiaque pédiatrique
-chirurgie du pied et de la cheville
-chirurgie gynécologique
-chirurgie thoracique
-essure
-entomologie médicale
-röntgenologie
-oncologie moléculaire
-neurologie pédiatrique
-dermatovénérologie
-médecine podiatrique
-oncologie clinique
-radiothérapie
-médecine moléculaire
-chirurgie oncologique
-cardiologie interventionnelle
-virologie médicale
-stomatologie
-chirurgie cardiaque
-chirurgie réfractive
-chirurgie de la main
-gériatrie
-médecine interne
 émétologie
 Cardio-gériatrie
 colpocléisis
 médecine pénitentiaire
 obstétrique
-chirurgie plastique
-oncologie médicale
-chirurgie taurine
-kéraunopathologie
-angiologie
-hystérectomie
-endocrinologie
-médecine du travail
-neuroradiologie
-hépatologie
-mycologie médicale
-chirurgie transluminale endoscopique par les voies naturelles
-médecine des champs de bataille
-chirurgie orale
-médecine sociale
-otorhinolaryngologie
-odontologie
-mastologie
-médecine psychosomatique
-biologie médicale
-hématologie
-médecine de soins critiques
-anatomo-pathologie
-pharmacologie
-médecine vétérinaire
-médecine sexuelle
-traumatologie sportive
-strabologie
-nutrition clinique
-gérodontologie
-phlébologie
-neuroimmunologie
-chirurgie vétérinaire
-allergologie
-médecine régénérative
-génétique médicale
-radiothérapie oncologique
-chirurgie viscérale
-hypnologie
-chirurgie des muscles oculaires
-chirurgie oculaire
-gastro-entérologie
-pneumologie
-médecine nucléaire
 logopédie
-physiopathologie
-diabétologie
-infectiologie
-dermatologie
-gynécologie
-rhumatologie
+médecine équine
+néphropathologie
+oncogénétique
+orthogénie
+médecine intégrative
+médecine générale
+sémiologie médicale
 chirurgie orthopédique
 lipidologie
 pathologie humaine
@@ -150,27 +102,6 @@ hématopathalogie
 médecine de la reproduction et endocrinologie gynécologique
 neuroradiologie interventionnelle
 gastro-entérologie pédiatrique
-médecine équine
-néphropathologie
-oncogénétique
-orthogénie
-médecine intégrative
-médecine générale
-sémiologie médicale
-Chirurgie mini-invasive du strabisme (CMIS)
-orthétique
-médecine de la douleur
-chirurgie de la colonne vertébrale
-chirurgie maxillo-faciale
-médecine environnementale
-phtisiologie
-médecine physique et de réadaptation
-neuropsychiatrie
-médecine du sport
-nosologie
-audiologie
-périnatalogie
-microbiologie médicale
 bronchologie
 oncologie gynécologique
 chirurgie plastique pédiatrique
@@ -178,38 +109,107 @@ chirurgie plastique oncologique
 médecine hospitalière
 lymphologie
 immunotoxicologie
+médecine moléculaire
+chirurgie oncologique
+cardiologie interventionnelle
+virologie médicale
+stomatologie
+immunopathologie
+Agada
+médecine d'urgence
+pédiatrie
+pharmacologie
+radiologie
+oncologie
+ophtalmologie
+gynécologie obstétrique
+neurologie
+endocrinologie
+néphrologie
+médecine vétérinaire
+immunologie
+radiothérapie
+chirurgie plastique
+hématologie
+oncologie pédiatrique
+pneumologie
+médecine nucléaire
+Chirurgie mini-invasive du strabisme (CMIS)
+orthétique
+médecine de la douleur
+chirurgie de la colonne vertébrale
+dermatologie
+neurochirurgie
+oncologie médicale
+chirurgie taurine
+kéraunopathologie
+gastro-entérologie
+chirurgie maxillo-faciale
+médecine environnementale
+mastologie
+médecine psychosomatique
+biologie médicale
+orthopédie
+otorhinolaryngologie
+angiologie
+hystérectomie
+audiologie
+périnatalogie
+microbiologie médicale
+médecine de soins critiques
+anatomo-pathologie
+chirurgie cardiaque
+chirurgie réfractive
+chirurgie de la main
+radiothérapie oncologique
+chirurgie viscérale
+hypnologie
+chirurgie des muscles oculaires
+chirurgie oculaire
+infectiologie
+anesthésie-réanimation
+traitement de la douleur
+médecine du sport
+nosologie
+gynécologie
+médecine du travail
+neuroradiologie
+hépatologie
+allergologie
+médecine régénérative
+génétique médicale
+rhumatologie
+néonatalogie
+médecine des voyages
+chirurgie générale et digestive
 andrologie
 chirurgie traumatologique
 médecine de la reproduction
-diététique
-planification familiale
+physiopathologie
+diabétologie
 réduction des risques sanitaires
 bariatrie
 chirurgie in-utéro
 médecine militaire
-orthopédie
-traumatologie
-radiologie interventionnelle
-médecine légale
-médecine transfusionnelle
-neuropédiatrie
-neuroendocrinologie
-anaplastologie
-psychiatrie sociale
-neurotologie
+diététique
+planification familiale
 chirurgie vasculaire
 phoniatrie
 gérontopsychiatrie
 rythmologie
 spécialité l’hémostase
 otologie
-anesthésie-réanimation
-traitement de la douleur
+traumatologie
+radiologie interventionnelle
+médecine légale
 neuropathologie
 épidémiologie infectieuse
-néonatalogie
-médecine des voyages
-chirurgie générale et digestive
+médecine transfusionnelle
+neuropédiatrie
+neuroendocrinologie
+anaplastologie
+psychiatrie sociale
+neurotologie
 proctologie
 médecine de la plongée
 médecine spatiale

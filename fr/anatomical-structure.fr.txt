@@ -1,9 +1,5 @@
 anus
 cloaque
-stomate
-fenêtre de la cochlée.
-fissure orbitaire supérieure
-canalicule mastoïdien
 foramen stylo-mastoïdien
 foramen sphénopalatin
 Foramen jugulaire
@@ -24,21 +20,10 @@ canal mandibulaire
 foramen ovale
 foramen mandibulaire
 foramen déchiré
-Évent
-petits foramens palatins
-sillon carotidien de l’os sphénoïde
-foramen zygomatico-facial
-foramen cæcum de l'os frontal
-aqueduc de la cochlée
-canal optique
-Foramen supra-orbitaire
-canalicule tympanique
-hiatus sacré
-Hiatus saphène
-méat urinaire
-fenêtre du vestibule
-pore cutané
-orifice vaginal
+stomate
+fenêtre de la cochlée.
+fissure orbitaire supérieure
+canalicule mastoïdien
 canalicule vestibulaire
 canalicule vestibulaire
 foramen épineux
@@ -53,6 +38,21 @@ foramen veineux
 aqueduc du vestibule
 foramen zygomatico-orbitaire
 foramen pétreux
+méat urinaire
+fenêtre du vestibule
+pore cutané
+orifice vaginal
+Évent
+petits foramens palatins
+sillon carotidien de l’os sphénoïde
+foramen zygomatico-facial
+foramen cæcum de l'os frontal
+aqueduc de la cochlée
+canal optique
+Foramen supra-orbitaire
+canalicule tympanique
+hiatus sacré
+Hiatus saphène
 point lacrymal
 Fente palpébrale
 fente vulvaire

@@ -1,27 +1,46 @@
 logopédie
 chirurgie
 Neuro-stimulation électrique transcutanée
+radiothérapie
 traitement à l’iode radioactif
 traitement pour perte de poids
-radiothérapie
-physiothérapie
+psychothérapie
+transfusion sanguine
 thérapie par le rire
+prévention tertiaire
 MIDAS
 traitement de l'infarctus du myocarde
 traitement de la maladie de Parkinson
-Prévention tertiaire
 traitement conservateur
 photothérapie UV
-réattribution sexuelle
-traitement de rattrapage
-thérapie cellulaire
-luminothérapie
-neuromodulation
-médecine non conventionnelle
 thérapie génique
+luminothérapie
 équithérapie
 sociothérapie
 bain de boue
+physiothérapie
+traumatologie
+ergothérapie
+Stimulation cérébrale profonde
+traitement de la douleur
+phagothérapie
+traitement symptomatique
+médecine hyperbare
+pharmacothérapie
+réattribution sexuelle
+traitement de rattrapage
+thérapie cellulaire
+neuromodulation
+défibrillation
+thérapie par aversion
+dénervation
+prise en charge du diabète
+médecine non conventionnelle
+immunothérapie
+cure de désintoxication
+manœuvre de Epley
+traitement de la tuberculose
+polythérapie
 traitement de l'asthme
 évaluation et traitement de la douleur
 traitement de l’hypertension artérielle
@@ -32,41 +51,25 @@ immunomodulation
 inhalothérapie
 traitement des brûlés
 administration du médicament
-psychothérapie
-transfusion sanguine
-Stimulation cérébrale profonde
-traitement de la douleur
-phagothérapie
-traumatologie
-ergothérapie
-traitement symptomatique
-médecine hyperbare
-pharmacothérapie
-défibrillation
-thérapie par aversion
-dénervation
-prise en charge du diabète
 photochimiothérapie
 Iontophorèse
 photothérapie de l'ictère du nouveau-né
 hormonothérapie
 phytothérapie
 remède
-immunothérapie
-cure de désintoxication
-manœuvre de Epley
-traitement de la tuberculose
-polythérapie
+prise en charge de la sclérose en plaques
+zoothérapie
+diathermie
+Thermothérapie
+virothérapie
 probiotique
 Monothérapie
 inoculation
-relaxation thérapeutique.
-méthode kangourou
-méthode de prise en charge de l'autisme
-traitement du cancer
-Réparation du cartilage articulaire
-bouche à nez
-Graphothérapie
+traitement de la Covid-19
+chirurgie ambulatoire
+balnéothérapie
+rajeunissement
+Chimiothérapie adjuvante ou néo-adjuvante
 traitement de troisième ligne
 traitement de l'obésité
 conservation d'échantillons biologiques
@@ -74,15 +77,17 @@ Thérapie par cellules souches pour la dégénérescence maculaire
 soins non programmés
 traitement de la grippe
 thérapie complémentaire
-traitement de la Covid-19
 télépsychologie
 technique cosmétique
 aquablation
 traitement  combiné
-chirurgie ambulatoire
-balnéothérapie
-rajeunissement
-Chimiothérapie adjuvante ou néo-adjuvante
+relaxation thérapeutique.
+méthode kangourou
+méthode de prise en charge de l'autisme
+traitement du cancer
+Réparation du cartilage articulaire
+bouche à nez
+Graphothérapie
 Transfert adoptif de cellules
 ventilation mécanique
 pranothérapie
@@ -97,8 +102,3 @@ Thérapie centrée sur les émotions
 trithérapie
 traitement de la calvitie
 soin curatif
-prise en charge de la sclérose en plaques
-zoothérapie
-diathermie
-Thermothérapie
-virothérapie

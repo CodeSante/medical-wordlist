@@ -8,54 +8,52 @@ capsule de Glisson
 tube collecteur
 nerf sensitif
 compartiment
+mollet
+madréporite
+zone de Kiesselbach
+Tarse
+Gésier
+pièces buccales des arthropodes
+stigmate
+squelette
 Gonopode
 calice
 rostre
 Spermathèque
 Gonopore
-mollet
-madréporite
+rhinophore
+cartilage
+otolithe
+synsacrum
+sclérite
+espace de Reinke
+racine du poumon
+Pore de Kohn
+macule sacculaire
+oviducte
+néphron
 Haltère de l'insecte
 palais osseux
 siphon
 dermatome
-Membrane de Bowman
-pléon
-péréiopode
-Ergot
-rhinophore
-cartilage
-hémisphère cérébral
-Proventricule
-membrane synoviale
-système nerveux entérique
-Follicule tertiaire
-Palais secondaire
-Velum
-tarsomère
-Fosse temporale
-zone réticulée
 Pièces buccales de l'insecte
-dard
-Élytre
-troisième ventricule
+opercule (mollusque)
+poche gutturale
+gastroderme
+Intima
+ommatidie
+mâchoires pharyngiennes
+os cortical
+cardia
+cône terminal
+pachyostose
+myélomère
+péristome
+collet dentaire
+peigne dentaire
+gnathosoma
 cuir chevelu
 système endocrinien
-glande alvéolaire
-Pneumostome
-zonule de Zinn
-labyrinthe
-Pléopode
-Vertex
-somite
-néphridie
-pédicellaire
-citerne subarachnoïdienne
-membrane basale glomérulaire
-statocyste
-Media
-circuit de Papez
-parapode
 Prosome
 saccule
 siphosome
@@ -66,46 +64,150 @@ Pars plana
 arc aortique
 ouverture supérieure du thorax
 cavité cardiaque
-septum alvéolaire
-Cupule (anatomie)
-anneau de cartilage fibreux du disque intervertébral
-appareil uro-génital
-opercule (mollusque)
-poche gutturale
-gastroderme
-Intima
-ommatidie
-oviducte
-néphron
-stigmate
-squelette
-espace de Reinke
-racine du poumon
-Pore de Kohn
-macule sacculaire
+épigyne
+côlon sigmoïde
+Foramen de Panizza
+Conduit cystique
+langue
+glande alvéolaire
+zonule de Zinn
+labyrinthe
 système sensoriel
-Ligament trapézoïde
-macula densa
-péréon
-anse de Henle
-zone de Kiesselbach
-Tarse
-Gésier
-pièces buccales des arthropodes
-substance blanche
-fosse de l'olécrane
-aire de Wernicke
-otolithe
-synsacrum
-sclérite
 circulation fœtale
 Disque de Merkel
 lobe
 membrane de Descemet
+Ushnisha
+squelette appendiculaire
+îlot de Langerhans
+bulbe olfactif
+aqueduc de Sylvius
+Archentéron
+bronchiole
+septum nasal
+hémisphère cérébral
+Proventricule
+membrane synoviale
+système nerveux entérique
+croupe
+Sternum
+os spongieux
+glande para-urétrale
+Triangle de Koch
+stratum germinativum
+indusie
+barrière hématorétinienne
+strie vasculaire
+Squamosal
+myocarde
+cortex visuel
+abdomen des arthropodes
+cortico-surrénale
+sac endolymphatique
+branche descendante de l'anse de Henlé
+furcula
+tunnel cubital
+neurohypophyse
+neurite
+mésangium
+canal de Schlemm
+Membrane de Bowman
+pléon
+péréiopode
+Ergot
+Choanoderme
+Caroncule
+Cholangiole
+cloaque embryonnaire
+Pléopode
+Vertex
+somite
+néphridie
+pédicellaire
+citerne subarachnoïdienne
+substance blanche
+fosse de l'olécrane
+aire de Wernicke
+septum alvéolaire
+Cupule (anatomie)
+anneau de cartilage fibreux du disque intervertébral
+appareil uro-génital
+hypothalamus
+segment antérieur de l'oeil
+Cornicule
+bande bacillaire
+septum interventriculaire
+crête
+Médullaire rénale
+Toile choroïdienne
+dard
+Élytre
+troisième ventricule
+système nerveux autonome
+Follicule tertiaire
+Palais secondaire
+Velum
+tarsomère
+Fosse temporale
+zone réticulée
+cordon spermatique
+macula
+cordon ombilical
+abajoue
+ganglion nerveux
+système ventriculaire
+spongocèle
+prémaxillaire
+frustule
+Vermis du cervelet
+Fente de Marfan
+membrane basale glomérulaire
+statocyste
+Media
+circuit de Papez
+parapode
 manteau
 appareil juxtaglomérulaire
 muscle mylo-hyoïdien
 Ocelle
+appareil urinaire
+tronc cérébral
+ouverture inférieure du thorax
+étage sous tentoriel
+côlon ascendant
+stratum lucidum
+Pneumostome
+côlon descendant
+glomérule rénal
+pédipalpe
+Corps de Brockmann
+médullosurrénale
+aires de Brodmann
+cornée
+glande salivaire
+Prothorax
+Œil composé
+canal d'Arantius
+lymphangion
+pelvis rénal
+canal cochléaire
+appareil reproducteur masculin
+trabéculum
+chambre postérieure de l'oeil
+Endonèvre
+fausse patte
+chalaze
+chiasma optique
+Pterostigma
+cerque
+voile du palais
+alvéole
+canal de l'épendyme
+chambre antérieure de l'œil
+pli sous-fessier
+côlon
+ephippium
+iris
 pore fémoral
 angle irido-cornéen
 ligament conoïde
@@ -114,41 +216,35 @@ Antenne de l'insecte
 appareil phonatoire
 Bactériocyte
 nerf splanchnique
-trabéculum
-chambre postérieure de l'oeil
-Endonèvre
-fausse patte
-chalaze
-neurohypophyse
-neurite
-mésangium
-canal de Schlemm
-segment antérieur de l'oeil
-Cornicule
-bande bacillaire
-septum interventriculaire
-crête
-Médullaire rénale
-Toile choroïdienne
-glande salivaire
-Prothorax
-Choanoderme
-Caroncule
-Cholangiole
-cloaque embryonnaire
-canal cochléaire
-appareil reproducteur masculin
-côlon ascendant
-stratum lucidum
-côlon descendant
-bronchiole
-septum nasal
-chambre antérieure de l'œil
-pli sous-fessier
-côlon
-ephippium
-myocarde
-cortex visuel
+Stratum corneum
+Métathorax
+Osmeterium
+cæcum
+Tapetum lucidum
+bourse de Fabricius
+corps ciliaire
+sinus piriforme
+cellule mastoïdienne
+ligament palpébral médial
+pars reticulata
+système nerveux périphérique
+rétine
+ligne primitive
+choroïde
+Chorde
+pygidium
+Telson
+Marsupium
+follicule ovarien
+Ramphothèque
+conduit biliaire intrahépatique
+antagoniste et agoniste
+ventouse
+appareil digestif
+cartilage de Meckel
+labrum
+veine cave
+édéage
 ligaments de Cooper
 précordium
 scutellum
@@ -156,81 +252,40 @@ pinacoderme
 noyau préoptique ventrolatéral
 Raphé (diatomée)
 région pubienne
-mâchoires pharyngiennes
-os cortical
-cardia
-cône terminal
-pachyostose
-myélomère
-péristome
-langue
-cordon spermatique
-macula
-croupe
-Sternum
-os spongieux
-glande para-urétrale
-Triangle de Koch
-cornée
-ouverture inférieure du thorax
-étage sous tentoriel
-système nerveux périphérique
-rétine
-bulbe olfactif
-aqueduc de Sylvius
-Archentéron
-spongocèle
-prémaxillaire
-frustule
-Vermis du cervelet
-Fente de Marfan
-épigyne
-côlon sigmoïde
-Foramen de Panizza
-Conduit cystique
-abdomen des arthropodes
-cortico-surrénale
-Tapetum lucidum
-bourse de Fabricius
-corps ciliaire
-iris
-Stratum corneum
-Métathorax
-Osmeterium
-sac endolymphatique
-branche descendante de l'anse de Henlé
-furcula
-tunnel cubital
-appareil urinaire
-tronc cérébral
-stratum germinativum
-indusie
-barrière hématorétinienne
-strie vasculaire
-Squamosal
+palais
+luette
 appareil reproducteur féminin
 fovéa
-abajoue
-ganglion nerveux
-système ventriculaire
-chiasma optique
-Pterostigma
-cerque
-voile du palais
-lymphangion
-pelvis rénal
-hypothalamus
-système nerveux autonome
-Ushnisha
-squelette appendiculaire
-îlot de Langerhans
-Ramphothèque
-conduit biliaire intrahépatique
-antagoniste et agoniste
-ventouse
-appareil digestif
-Œil composé
-canal d'Arantius
+corps calleux
+tendon
+conjonctive
+aile de l'insecte
+voies respiratoires
+plèvre
+couche de Dua
+système nerveux sympathique
+système nerveux parasympathique
+Glandes péribuccales
+zygosporocyste
+Cystide
+Système aquifère
+nerf périnéal superficiel
+système limbique
+corps vitré
+anté-hypophyse
+Nageoire adipeuse
+atrium
+Clypéus
+cordage tendineux
+Ligament trapézoïde
+macula densa
+péréon
+anse de Henle
+paroi gastro-intestinale
+Fosse lombaire
+filament sébacé
+macule auditive
+fovéola
 étage sus tentoriel
 trophosome
 Tenidium
@@ -238,71 +293,6 @@ Spike
 centre respiratoire
 tubule rénal
 Strie médullaire
-Patte des arthropodes
-collet dentaire
-peigne dentaire
-gnathosoma
-voies respiratoires
-plèvre
-couche de Dua
-atrium
-Clypéus
-cordage tendineux
-paroi gastro-intestinale
-Fosse lombaire
-filament sébacé
-macule auditive
-fovéola
-système nerveux sympathique
-système nerveux parasympathique
-Mésothorax
-palpe
-épendyme
-mésocôlon
-antenne
-zone érogène
-corps calleux
-tendon
-ligne latérale
-uvée
-alvéole
-canal de l'épendyme
-Oviscapte
-tuber cinereum
-diffusion alvéolo-capillaire
-épiderme
-jabot
-cæcum
-ligne primitive
-choroïde
-Chorde
-cuneus
-disque du nerf optique
-Gland (anatomie)
-Stylet cristallin
-Sole pédieuse
-crête buccinatrice
-luette
-sinus piriforme
-cellule mastoïdienne
-ligament palpébral médial
-pars reticulata
-glomérule rénal
-pédipalpe
-Corps de Brockmann
-médullosurrénale
-aires de Brodmann
-vésicule séminale
-corps vitré
-anté-hypophyse
-labrum
-Nageoire adipeuse
-conjonctive
-aile de l'insecte
-pygidium
-Telson
-Marsupium
-follicule ovarien
 septum du cœur
 Veine saphène
 cellule épithéliale bronchiale
@@ -310,17 +300,27 @@ Diplostigmatie
 trochanter (arthropodes)
 Poche cutanée marginale
 feuille nasale
-palais
-cordon ombilical
+Mésothorax
+palpe
+épendyme
+mésocôlon
+Oviscapte
+tuber cinereum
+diffusion alvéolo-capillaire
 sclère
 commissure antérieure
 stop
-système limbique
-cartilage de Meckel
-veine cave
-édéage
-Glandes péribuccales
-zygosporocyste
-Cystide
-Système aquifère
-nerf périnéal superficiel
+Patte des arthropodes
+ligne latérale
+uvée
+crête buccinatrice
+antenne
+zone érogène
+épiderme
+jabot
+vésicule séminale
+cuneus
+disque du nerf optique
+Gland (anatomie)
+Stylet cristallin
+Sole pédieuse

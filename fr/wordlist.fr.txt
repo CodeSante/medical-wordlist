@@ -4140,6 +4140,7 @@ chondrosarcome mésenchymateux extra-osseux
 chondrosarcome mésenchymateux extra-squelettique
 chondrosarcome  myxoïde
 chondrosarcome myxoïde extrasquelettique
+chophytol
 chorangiose
 chorde
 chordome
@@ -4510,6 +4511,7 @@ conduit lacrymo-nasal
 conduit thoracique
 condyle
 condyle de l'humérus
+condyle du fémur
 condyle latéral du fémur
 condyle médial du tibia
 condyles occipitaux
@@ -7139,7 +7141,9 @@ ephippium
 épicondyle
 Épicondyle latéral
 épicondyle latéral de l'humérus
+épicondyle latéral du fémur
 épicondyle médial de l’humérus
+épicondyle médial du fémur
 épicondylite
 Épicondylite
 épidémie de rougeole de swansea en 2013
@@ -7279,6 +7283,7 @@ epilepsie vitamine b6-dépendante
 épiphora due à un larmoiement excessif
 épiphora  par drainage insuffisant
 épiphyse
+épiphyse du fémur
 épiphysiolyse
 épiphysiolyse fémorale supérieure
 épirubicine
@@ -7618,6 +7623,7 @@ extrasystole ventriculaire
 extravasation
 extravasation d'urine
 extrémité acromiale de la clavicule
+extrémité inférieure du fémur
 extrémité sternale de la clavicule
 extrémité supérieure du fémur
 ézétimibe
@@ -8157,6 +8163,7 @@ fosse digastrique
 fosse iliaque
 fosse iliaque interne
 fosse infratemporale
+fosse intercondylaire
 fosse lombaire
 fosse mandibulaire
 fosse ptérygo-palatine
@@ -11369,9 +11376,12 @@ ligament trapézoïde
 ligament veineux du foie
 ligne anatomique
 ligne anatomique de l'humérus
+ligne anatomique du fémur
+ligne anatomique d'un os long
 ligne âpre
 ligne arquée
 lignée germinale
+ligne intercondylienne
 ligne inter-trochantérique
 ligne latérale
 ligne mylo-hyoïdienne
@@ -11384,6 +11394,8 @@ ligne primitive
 lignes de beau
 lignes de harris
 lignes de muehrcke
+ligne supracondylienne latérale
+ligne supracondylienne médiale
 limbe cornéen
 linaclotide
 linagliptine
@@ -17332,6 +17344,8 @@ régadénoson
 regdanvimab
 régénération du foie
 région anatomique
+région de la surface du fémur
+région de la surface d'une épiphyse du fémur
 région de la surface d'un os long
 région lombaire
 région pubienne
@@ -18497,6 +18511,7 @@ strongyloïdose
 strongylose équine
 structure anatomique acellulaire
 structure  embryonnaire
+structure embryonnaire
 structure  lymphoïde  tertiaire
 structure multicellulaire
 structure musculaire
@@ -19916,6 +19931,7 @@ syndrome de pseudohypertrophie musculaire-hypothyroïdie
 syndrome de pseudo-infection intra-utérine congénitale
 syndrome d'epstein
 syndrome d'épuisement professionnel
+syndrome d'épuisement professionnel par l'ennui
 syndrome de pullulation bactérienne intestinale;
 syndrome de qazi-markouizos
 syndrome de rabson-mendenhall
@@ -20377,6 +20393,7 @@ syndrome d'opitz g/bbb
 syndrome d'opitz-trigonocéphalie
 syndrome d’oppenheim
 syndrome  d'ortner
+syndrome d'ortner
 syndrome d'ostéopathie striée-sclérose crânienne
 syndrome d'ostéoporose - pseudogliome
 syndrome douloureux du grand trochanter
@@ -20949,6 +20966,7 @@ système nerveux somatique
 système nerveux sympathique
 système rénine-angiotensine-aldostérone
 système reproducteur
+système respiratoirehalitose
 système respiratoiremaladie d'addison
 système sensoriel
 système tégumentaire
@@ -23361,6 +23379,7 @@ zona ophtalmique
 zona sine herpete
 zone de kiesselbach
 zone de la surface du sacrum
+zone de l'épiphyse distale du fémur
 zone du fémur
 zone d'un os long
 zone d'un os plat
