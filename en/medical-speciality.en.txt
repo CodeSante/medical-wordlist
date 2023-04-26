@@ -1,5 +1,4 @@
 pathology
-psychiatry
 toxicology
 palliative medicine
 alcohology
@@ -9,20 +8,10 @@ pediatric traumatology
 pediatric urology
 clinical neurophysiology
 preventive medicine
-cardiology
-orthopedic surgery
-lipidology
-human pathology
-genitourinary oncology
-endocrine oncology
-science of prosthetics
-obstetric medicine
-immuno-oncology
-hematopathology
-reproductive endocrinology and infertility
-osteopathic medicine
-interventional neuroradiology
-Pediatric gastroenterology
+psychiatry
+clinical pharmacology
+venereology
+laryngology
 molecular virology
 neurointensive care
 neuromuscular medicine
@@ -38,7 +27,28 @@ Sports chiropractic
 urogynecology
 public health physician
 medical parasitology
-immunology
+cardiology
+insurance medicine
+Lifestyle medicine
+medical mycology
+cardiogenetics
+Natural orifice translumenal endoscopic surgery
+battlefield medicine
+oral surgery
+pedaudiology
+social medicine
+technical medicine
+roentgenology
+molecular oncology
+pediatric neurology
+general practice
+dermatovenerology
+podiatry
+clinical oncology
+pediatric endocrinology
+phthisiology
+physical medicine and rehabilitation
+neuropsychiatry
 Sexual medicine
 adhesive dentistry
 sports traumatology
@@ -48,32 +58,46 @@ geriatric dentistry
 phlebology
 neuroimmunology
 veterinary surgery
+geriatrics
+internal medicine
 immunopathology
 Agada
 emergency medicine
-pediatric cardiac surgery
-foot and ankle surgery
-gynecological surgery
-thoracic surgery
-essure
-medical entomology
-clinical pharmacology
-venereology
-laryngology
-pharmacology
+dentistry
 speech-language pathology
+pediatric nephrology
+surgical endocrinology
+pediatric oncology
+clinical immunology
+orthognathic surgery
+behavioral medicine
+aesthetic medicine
+maritime medicine
+Predictive medicine
+aviation medicine
+equine medicine
 obstetrics and gynaecology
 neurology
+molecular medicine
+surgical oncology
+interventional cardiology
+clinical virology
+oral medicine
+orthopedic surgery
+lipidology
+human pathology
+genitourinary oncology
+endocrine oncology
+science of prosthetics
+obstetric medicine
+immuno-oncology
+hematopathology
+reproductive endocrinology and infertility
+osteopathic medicine
+interventional neuroradiology
+Pediatric gastroenterology
+radiology
 hematology
-geriatrics
-internal medicine
-ophthalmology
-surgery
-dentistry
-endocrinology
-phthisiology
-physical medicine and rehabilitation
-neuropsychiatry
 renal pathology
 oncogenetics
 family planning methods
@@ -81,6 +105,7 @@ integrative medicine
 dermatopathology
 family medicine
 symptomatology
+immunology
 clinical medicine
 complementary medicine
 pediatric gynaecology
@@ -97,56 +122,41 @@ psychiatric semiology
 functional surgery
 bone surgery
 addiction medicine
+endocrinology
+pharmacology
+surgery
+electromedicine
+community medicine
+medical jurisprudence
+public medicine
+human dental medicine
+Vertebroneurology
+desmurgy
+adolescent medicine
 veterinary medicine
-oncology
-gastroenterology
-radiology
-roentgenology
-molecular oncology
-pediatric neurology
-general practice
-dermatovenerology
-podiatry
-clinical oncology
-pediatric endocrinology
 dermatology
-molecular medicine
-surgical oncology
-interventional cardiology
-clinical virology
-oral medicine
-clinical immunology
-orthognathic surgery
-behavioral medicine
-aesthetic medicine
-maritime medicine
-Predictive medicine
-aviation medicine
-equine medicine
-otolaryngology
-pulmonology
-insurance medicine
-Lifestyle medicine
-medical mycology
-cardiogenetics
-Natural orifice translumenal endoscopic surgery
-battlefield medicine
-oral surgery
-pedaudiology
-social medicine
-technical medicine
-pediatrics
-hospice and palliative medicine
-emetology
-Cardiogeriatrics
-Colpocleisis
-Prison healthcare
-craniofacial surgery
-obstetrics
-emergency nursing
-sports medicine
-nosology
-neonatology
+bronchology
+genitourinary medicine
+gynecologic oncology
+operational medicine
+pediatric plastic surgery
+oncological plastic surgery
+clinical epidemiology
+clinical genetics
+hospital medicine
+lymphology
+immunotoxicology
+pre-hospital emergency medicine
+neuroembryology
+medical oncology
+pediatric cardiac surgery
+foot and ankle surgery
+gynecological surgery
+thoracic surgery
+essure
+medical entomology
+gastroenterology
+nephrology
 critical emergency medicine
 minimally invasive strabismus surgery
 head and neck surgery
@@ -168,21 +178,76 @@ algesiology
 coloproctology
 mammology
 assessment medicine
+radiation therapy
+ophthalmology
+pediatrics
+otolaryngology
+pulmonology
+nuclear medicine
+plastic surgery
+neurosurgery
+orthopedics
+cardiac surgery
+refractive surgery
+hand surgery
+hospice and palliative medicine
+emetology
+Cardiogeriatrics
+Colpocleisis
+Prison healthcare
+craniofacial surgery
+obstetrics
+emergency nursing
+oncology
+rheumatology
+andrology
+Tauro-Traumatology
+keraunomedicine
+Mass-gathering medicine
+medical toxicology
+interventional radiology
+medical jurisprudence
+trauma surgery
+reproductive medicine
+traumatology
+mastology
+psychosomatic medicine
+clinical pathology
 oral and maxillofacial surgery
 environmental medicine
 angiology
-diving medicine
-space medicine
-pediatric surgery
-travel medicine
-general surgery
-hysterectomy
-audiology
-nephrology
-nuclear medicine
-gynaecology
 maternal-fetal medicine
 medical microbiology
+hysterectomy
+audiology
+anaesthesiology
+pain management
+occupational medicine
+neuroradiology
+hepatology
+intensive care medicine
+anatomical pathology
+radiation oncology
+abdominal surgery
+sleep medicine
+Strabismus surgery
+eye surgery
+sports medicine
+nosology
+neonatology
+infectious diseases
+balneology
+travel medicine
+general surgery
+allergology
+regenerative medicine
+medical genetics
+pathophysiology
+diabetology
+gynaecology
+dietetics
+Interventional pain management
+family planning
 transfusion medicine
 neuropediatrics
 neuroendocrinology
@@ -190,83 +255,18 @@ anaplastology
 social psychiatry
 neurotology
 colorectal surgery
-orthopedics
+diving medicine
+space medicine
+pediatric surgery
 harm reduction
 bariatric medicine
 Fetal surgery
 military medicine
-anaesthesiology
-pain management
-cardiac surgery
-refractive surgery
-hand surgery
-allergology
-regenerative medicine
-medical genetics
-electromedicine
-community medicine
-medical jurisprudence
-public medicine
-human dental medicine
-Vertebroneurology
-desmurgy
-adolescent medicine
+neuropathology
+infection epidemiology
 vascular surgery
 phoniatrics
 gerontopsychiatry
 rhythmology
 haemostasis specialty
 otology
-occupational medicine
-neuroradiology
-hepatology
-neuropathology
-infection epidemiology
-radiation therapy
-rheumatology
-andrology
-pathophysiology
-diabetology
-plastic surgery
-dietetics
-Interventional pain management
-family planning
-neurosurgery
-pediatric nephrology
-surgical endocrinology
-pediatric oncology
-bronchology
-genitourinary medicine
-gynecologic oncology
-operational medicine
-pediatric plastic surgery
-oncological plastic surgery
-clinical epidemiology
-clinical genetics
-hospital medicine
-lymphology
-immunotoxicology
-pre-hospital emergency medicine
-neuroembryology
-medical oncology
-intensive care medicine
-anatomical pathology
-trauma surgery
-reproductive medicine
-traumatology
-radiation oncology
-abdominal surgery
-sleep medicine
-Strabismus surgery
-eye surgery
-mastology
-psychosomatic medicine
-clinical pathology
-infectious diseases
-balneology
-Tauro-Traumatology
-keraunomedicine
-Mass-gathering medicine
-medical toxicology
-interventional radiology
-medical jurisprudence

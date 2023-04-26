@@ -1,5 +1,5 @@
-pathology
 addiction
+pathology
 disease
 symptom
 necrosis
@@ -10,6 +10,13 @@ deformity
 national disease
 hyperpigmentation
 organ dysfunction
+retention
+effusion
+congenital abnormality
+limp
+rumination disorder
+late termination of pregnancy
+cachexia
 toxic injury
 root spiralling
 asbestos exposure
@@ -18,10 +25,3 @@ hematologic disorder
 heat-related death
 trauma
 acquired abnormality
-retention
-effusion
-congenital abnormality
-limp
-rumination disorder
-late termination of pregnancy
-cachexia

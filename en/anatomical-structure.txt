@@ -1,6 +1,4 @@
 anus
-cloaca
-stoma
 stylomastoid foramen
 sphenopalatine foramen
 jugular foramen
@@ -11,6 +9,8 @@ alveolar canals
 facial canal
 carotid canal
 Infraorbital foramen
+cloaca
+stoma
 round window
 superior orbital fissure
 mastoid canaliculus
@@ -37,16 +37,6 @@ Inferior tympanic canaliculus
 Sacral hiatus
 Saphenous opening
 urinary meatus
-orifice of ureter
-fenestra
-oval window
-Helicotrema
-Pore (skin)
-internal orifice of uterus
-external orifice of uterus
-vaginal orifice
-adductor hiatus
-femoral ring
 internal auditory meatus
 foramen rotundum
 geniculum of facial canal
@@ -62,6 +52,16 @@ foramen petrosum
 nasopharyngeal meatus
 posterior nasal aperture
 alveolar foramina of maxilla
+orifice of ureter
+fenestra
+oval window
+Helicotrema
+Pore (skin)
+internal orifice of uterus
+external orifice of uterus
+vaginal orifice
+adductor hiatus
+femoral ring
 incisive foramina
 sulcus tubae
 caroticoclinoid foramen

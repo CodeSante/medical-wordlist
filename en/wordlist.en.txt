@@ -24415,6 +24415,7 @@ bordlode
 bor-duane hydrocephalus contiguous gene syndrome
 borecole
 borele
+boreout
 borghriche
 boric
 boric acid ointment
@@ -70003,6 +70004,7 @@ globus pallidus development
 globus pallidus externus
 glochid
 glocucerebrosidase deficiency
+glofitamab
 glomal
 glomangioma
 glomangioma of skin
@@ -85852,6 +85854,7 @@ intercondylar
 intercondylare
 intercondylar fossa of femur
 intercondylaris
+intercondylar line
 intercondylar line of femur
 intercondylica
 intercondyloid
@@ -102054,6 +102057,7 @@ maxillopalpebral synkinesis
 maxillopharyngeal
 maxillotomy
 maxilloturbinal
+maxillula
 maxima
 maximal
 maximi
@@ -159975,6 +159979,7 @@ toes
 tof
 tofacitinib
 tofenacin
+tofersen
 tofisopam
 tofranil
 toft

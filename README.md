@@ -6,7 +6,7 @@ Medical wordlists in English, French, and Ukrainian languages, which can be used
 
 You can find all medical words by language in the following files:
 - fr/wordlist.fr.txt : 23403 words
-- en/wordlist.en.txt : 171696 words
+- en/wordlist.en.txt : 171701 words
 - ua/wordlist.ua.txt : 5187 words
 
 By example, **fr/anatomical-structure.fr.txt** french wordlist is the result of **sparql/fr/anatomical-structure.fr.sparql** with **Wikidata Query Service**.

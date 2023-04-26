@@ -1,6 +1,5 @@
 speech-language pathology
 surgery
-transcutaneous electrical nerve stimulation
 alternative treatment
 glycemic control
 antipyretic therapy
@@ -23,14 +22,10 @@ Smell training
 Surgery in ancient Rome
 antifibrotic therapy
 therapeutic writing
+transcutaneous electrical nerve stimulation
 radiation therapy
 psychotherapy
 blood transfusion
-physiotherapy
-hippotherapy
-traumatology
-sociotherapy
-mud bath
 medical gas therapy
 racking
 laughter therapy
@@ -46,13 +41,32 @@ tertiary prevention
 treatment of paedophilia
 Standard treatment
 conservative management
-psychomotor therapy
 Vaccine therapy
 Management of depression
 Ultraviolet light therapy
 serotherapy
-Water cure
+physiotherapy
+infinity walk
+sex reassignment therapy
+motivational therapy
+monoclonal antibody therapy
+salvage therapy
+psychomotor therapy
+cell therapy
+ischemic preconditioning
 light therapy
+neuromodulation
+alternative medicine
+gene therapy
+behavioral intervention
+cultural intervention
+educational intervention
+classroom intervention
+Water cure
+hippotherapy
+traumatology
+sociotherapy
+mud bath
 occupational therapy
 psychological treatment
 Zika virus disease treatment
@@ -65,6 +79,7 @@ Cytokine adsorbing column
 initial periodontal therapy
 immunomodulation
 alternative medical treatment
+epigenetic therapy
 respiratory therapy
 invasion
 massage of neural pathways
@@ -72,22 +87,6 @@ scrambler therapy
 treatment of burns
 pastoral counselling
 drug administration
-deep brain stimulation
-pain management
-symptomatic treatment
-phage therapy
-infinity walk
-sex reassignment therapy
-epigenetic therapy
-motivational therapy
-monoclonal antibody therapy
-salvage therapy
-cell therapy
-ischemic preconditioning
-neuromodulation
-ergotherapy
-hyperbaric medicine
-pharmacotherapy
 treatment of multiple sclerosis
 animal-assisted therapy
 diathermy
@@ -95,37 +94,18 @@ Ego-state therapy
 hyperthermia therapy
 virotherapy
 Peat pulp bath
+deep brain stimulation
+pain management
+symptomatic treatment
+phage therapy
+ergotherapy
+hyperbaric medicine
+pharmacotherapy
 defibrillation
 aversion therapy
 movement therapy
 denervation
 diabetes management
-alternative medicine
-gene therapy
-combination therapy
-immunotherapy
-drug rehabilitation
-Epley maneuver
-tuberculosis management
-noninvasive
-opioid rotation
-Iontophoresis
-photochemotherapy
-Medicinal clay
-phototherapy for neonatal jaundice
-hormone therapy
-mirror therapy
-phytotherapy
-remedy
-probiotics
-monotherapy
-inoculation
-audio therapy
-outpatient surgery
-balneotherapy
-active dialyse
-rejuvenation
-adjuvant therapy
 third-line therapy
 magnetic field therapy
 feeding method
@@ -161,6 +141,31 @@ Aquablation therapy
 combined modality therapy
 physical therapy modalities
 electric stimulation therapy
+combination therapy
+immunotherapy
+drug rehabilitation
+Epley maneuver
+tuberculosis management
+noninvasive
+opioid rotation
+Iontophoresis
+photochemotherapy
+Medicinal clay
+phototherapy for neonatal jaundice
+hormone therapy
+mirror therapy
+phytotherapy
+remedy
+probiotics
+monotherapy
+inoculation
+audio therapy
+interpersonal and social rhythm therapy
+outpatient surgery
+balneotherapy
+active dialyse
+rejuvenation
+adjuvant therapy
 kangaroo care
 autism therapy
 treatment of cancer
@@ -169,10 +174,6 @@ telepsychiatry
 chemiotherapy
 supportive care
 mouth to nose respiration
-behavioral intervention
-cultural intervention
-educational intervention
-classroom intervention
 corneal collagen cross-linking
 In-water recompression
 adoptive cell transfer
@@ -184,7 +185,6 @@ standard therapy
 biotherapy
 hemotherapy
 high flow therapy
-interpersonal and social rhythm therapy
 auditory-verbal therapy
 Empiric therapy
 heroic measure
