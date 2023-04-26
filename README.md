@@ -18,8 +18,8 @@ To contribute and add more medical keywords, you can make a merge request.
 Contributions are welcome to advance this project and create a comprehensive taxonomy of medicine in the future (using wikidata-taxonomy). If you would like to contribute, please follow these steps:
 
 - Fork the repository.
-- Create your SPARQL request using **launcher-sparql-query.py**.
-- Add the new medical keywords to the appropriate language file(s).
+- Create your SPARQL request.
+- Add the new medical keywords to the appropriate language file(s) using **launcher-sparql-query.py**.
 - Update general wordlist using **generate-wordlist-txt.sh**.
 - Create a pull request.
 
